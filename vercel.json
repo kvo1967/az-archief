@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "VITE_BOEKJES_URL": "https://pub-02a6c42dcd6c41228aa01ec8867770be.r2.dev"
+    }
+  }
+}

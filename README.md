@@ -157,6 +157,112 @@ Gegeven je Azure-ervaring:
 
 Done. Elke `git push` deployt automatisch.
 
+## Storage of programm images on cloudfare R2
+https://pub-02a6c42dcd6c41228aa01ec8867770be.r2.dev
+
+
+## Programmaboekjes uploaden naar Cloudflare R2
+
+De scans van de programmaboekjes worden niet in Git opgeslagen (te groot), maar
+gehost op Cloudflare R2. De app haalt ze daar op via de URL in `.env`
+(`VITE_BOEKJES_URL`).
+
+### Vereisten
+
+- Een Cloudflare account met R2 geactiveerd
+- Een R2 bucket aangemaakt (bijv. `az-matchday-programms`)
+- Public Development URL ingeschakeld op de bucket
+- [Wrangler CLI](https://developers.cloudflare.com/workers/wrangler/) geïnstalleerd:
+  ```powershell
+  npm install -g wrangler
+  wrangler login
+  ```
+
+### De drie scripts
+
+In de projectroot staan drie PowerShell-scripts die samen een idempotente
+upload-workflow vormen:
+
+| Script | Doel |
+|---|---|
+| `check-boekjes.ps1` | Vergelijk lokale `public/boekjes/` met R2 — toont wat ontbreekt |
+| `upload-ontbrekend.ps1` | Upload alleen de bestanden uit `ontbrekende-boekjes.txt` |
+| `upload-boekjes.ps1` | Upload alles, met lokale state-tracking als alternatief |
+
+### Workflow: nieuwe boekjes toevoegen
+
+1. **Plaats scans in `public/boekjes/`** met dezelfde bestandsnaam als in
+   `src/data/wedstrijden.json` (veld `ProgrammaBestanden`).
+
+2. **Check de status:**
+   ```powershell
+   .\check-boekjes.ps1
+   ```
+   Output toont hoeveel bestanden lokaal staan, hoeveel al in R2, en welke
+   nog ontbreken. Ontbrekende worden opgeslagen in `ontbrekende-boekjes.txt`.
+
+3. **Upload de ontbrekende bestanden:**
+   ```powershell
+   .\upload-ontbrekend.ps1
+   ```
+   Bij ~1000 bestanden duurt dit 15-25 minuten (Wrangler upload één per keer).
+   Je kunt het script onderbreken met `Ctrl+C` en later opnieuw draaien — de
+   `check-boekjes.ps1` herkent dan vanzelf wat al gelukt is.
+
+4. **Verifieer dat alles compleet is:**
+   ```powershell
+   .\check-boekjes.ps1
+   ```
+   Verwachte output: `Ontbreekt: 0` en de melding "Alle bestanden staan in R2."
+
+### Hoe `check-boekjes.ps1` werkt
+
+Het script doet voor elk lokaal bestand een **HEAD-request** naar de publieke
+R2-URL. Een 200-response betekent dat het bestand bestaat, een 404 dat het
+ontbreekt. Geen credentials nodig, want de bucket is publiek toegankelijk via
+de Public Development URL.
+
+Voor snelheid worden 10 requests parallel uitgevoerd via PowerShell Runspace
+Pools. Bij ~1500 bestanden duurt de check 1-2 minuten.
+
+De publieke URL staat hardcoded in het script (`$publicUrl`). Als je naar een
+custom domain overstapt, pas dat daar aan.
+
+### Mislukte uploads
+
+Als `upload-ontbrekend.ps1` op een bestand vastloopt (netwerkfout, te grote
+file, et cetera), wordt het toegevoegd aan `mislukte-uploads.txt`. Run
+daarna gewoon opnieuw:
+
+```powershell
+.\check-boekjes.ps1        # bouwt de actuele lijst opnieuw op
+.\upload-ontbrekend.ps1    # probeert ze nog eens
+```
+
+### `.gitignore` regels
+
+De volgende patterns moeten in `.gitignore` staan, want ze zijn lokaal of
+runtime-data:
+
+```
+public/boekjes/*.webp
+public/boekjes/*.jpg
+public/boekjes/*.jpeg
+public/boekjes/*.png
+.env
+ontbrekende-boekjes.txt
+mislukte-uploads.txt
+upload-state.txt
+```
+
+### PowerShell-versie
+
+De scripts zijn geschreven voor **Windows PowerShell 5.1** (de standaard op
+Windows). Ze werken ook in PowerShell 7+. Voor parallelliteit op 5.1 wordt
+de oudere Runspace Pool API gebruikt; in 7+ zou je `ForEach-Object -Parallel`
+kunnen gebruiken voor compactere code.
+activeer versie 7 via pwsh (7 is geinstalleerd)
+
 ## Licentie
 
 Privé-project. Programmaboekje-scans blijven eigendom van AZ Alkmaar.

@@ -62,10 +62,12 @@ function getCoverKleur(id) {
 
 /**
  * Pad voor afbeeldingsbestand. Boekjes staan in /public/boekjes/.
- * In dev en production werkt dit identiek.
+ * In dev en production werkt dit identiek. cloudfare storage
  */
+const BOEKJES_BASE_URL = import.meta.env.VITE_BOEKJES_URL || '/az-matchday-programms';
+
 function getBoekjePad(bestandsnaam) {
-  return `/boekjes/${bestandsnaam}`;
+  return `${BOEKJES_BASE_URL}/${encodeURIComponent(bestandsnaam)}`;
 }
 
 /**

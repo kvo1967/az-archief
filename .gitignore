@@ -35,3 +35,9 @@ lerna-debug.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Images > 250MB
+public/boekjes/*
+# Environment variables
+.env
+.env.local
