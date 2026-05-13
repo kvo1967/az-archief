@@ -14,6 +14,8 @@ export const STADION_LOCATIES = {
 
   // === Eredivisie tegenstanders (uit) ===
   'De Kuip': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
+  'de kuip': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
+  'De kuip': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'Philips Stadion': { lat: 51.4416, lon: 5.4673, stad: 'Eindhoven', land: 'Nederland', thuis: false },
   'Het Kasteel': { lat: 51.8773, lon: 4.4280, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'Olympisch Stadion': { lat: 52.3433, lon: 4.8519, stad: 'Amsterdam', land: 'Nederland', thuis: false },
@@ -40,6 +42,7 @@ export const STADION_LOCATIES = {
   'Sparta-stadion Het Kasteel': { lat: 51.8773, lon: 4.428, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'Stadion Galgenwaard': { lat: 52.0723, lon: 5.1461, stad: 'Utrecht', land: 'Nederland', thuis: false },
   'Stadion Feijenoord': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
+  
 
   // === Europa ===
   'London Stadium': { lat: 51.5386, lon: -0.0166, stad: 'Londen', land: 'Engeland', thuis: false },
@@ -56,6 +59,36 @@ export const STADION_LOCATIES = {
   'Constant Vanden Stock': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
   'Estádio do Dragão': { lat: 41.1617, lon: -8.5839, stad: 'Porto', land: 'Portugal', thuis: false },
   'Estádio da Luz': { lat: 38.7528, lon: -9.1847, stad: 'Lissabon', land: 'Portugal', thuis: false },
+    'AFAS-stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
+  'AFAS Stadion Alkmaar': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
+  'Amsterdam ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
+  'Johan Cruyff ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
+  'Feijenoord Stadion': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
+  'Stadion Feijenoord De Kuip': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
+  'PSV Stadion': { lat: 51.4416, lon: 5.4673, stad: 'Eindhoven', land: 'Nederland', thuis: false },
+  'FC Twente Stadion': { lat: 52.2367, lon: 6.8369, stad: 'Enschede', land: 'Nederland', thuis: false },
+  'Heracles Stadion': { lat: 52.3567, lon: 6.6628, stad: 'Almelo', land: 'Nederland', thuis: false },
+  'NEC Stadion': { lat: 51.8228, lon: 5.8425, stad: 'Nijmegen', land: 'Nederland', thuis: false },
+  'ADO Den Haag Stadion': { lat: 52.0461, lon: 4.2833, stad: 'Den Haag', land: 'Nederland', thuis: false },
+  'FC Utrecht Stadion': { lat: 52.0723, lon: 5.1461, stad: 'Utrecht', land: 'Nederland', thuis: false },
+  'SC Heerenveen Stadion': { lat: 52.9728, lon: 6.0917, stad: 'Heerenveen', land: 'Nederland', thuis: false },
+  'Go Ahead Eagles Stadion': { lat: 52.2553, lon: 6.1875, stad: 'Deventer', land: 'Nederland', thuis: false },
+  'Vitesse Stadion': { lat: 51.9886, lon: 5.8889, stad: 'Arnhem', land: 'Nederland', thuis: false },
+  'Sparta Rotterdam Stadion': { lat: 51.8773, lon: 4.4280, stad: 'Rotterdam', land: 'Nederland', thuis: false },
+  'FC Volendam Stadion': { lat: 52.4378, lon: 4.6597, stad: 'Volendam', land: 'Nederland', thuis: false },
+  'RKC Waalwijk Stadion': { lat: 51.6781, lon: 5.0067, stad: 'Waalwijk', land: 'Nederland', thuis: false },
+  'VVV Venlo Stadion': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
+  'Olympic Stadium Amsterdam': { lat: 52.3433, lon: 4.8519, stad: 'Amsterdam', land: 'Nederland', thuis: false },
+  'West Ham Stadium': { lat: 51.5386, lon: -0.0166, stad: 'Londen', land: 'Engeland', thuis: false },
+  'Middlesbrough Stadium': { lat: 54.5784, lon: -1.2167, stad: 'Middlesbrough', land: 'Engeland', thuis: false },
+  'Real Sociedad Stadium': { lat: 43.3014, lon: -1.9736, stad: 'San Sebastián', land: 'Spanje', thuis: false },
+  'FC Barcelona Stadium': { lat: 41.3809, lon: 2.1228, stad: 'Barcelona', land: 'Spanje', thuis: false },
+  'Real Madrid Stadium': { lat: 40.4531, lon: -3.6883, stad: 'Madrid', land: 'Spanje', thuis: false },
+  'AC Milan Stadium': { lat: 45.4781, lon: 9.1239, stad: 'Milaan', land: 'Italië', thuis: false },
+  'Bayern München Stadion': { lat: 48.2188, lon: 11.6247, stad: 'München', land: 'Duitsland', thuis: false },
+  'RSC Anderlecht Stadion': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
+  'FC Porto Stadion': { lat: 41.1617, lon: -8.5839, stad: 'Porto', land: 'Portugal', thuis: false },
+  'Benfica Stadion': { lat: 38.7528, lon: -9.1847, stad: 'Lissabon', land: 'Portugal', thuis: false },
 };
 
 /**
