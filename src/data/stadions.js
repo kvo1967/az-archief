@@ -60,6 +60,7 @@ export const STADION_LOCATIES = {
   'Sportpark Schoonenberg': { lat: 52.45526550337389,  lon: 4.634736673815702, stad: 'IJmuiden', land: 'Nederland', thuis: false },  
   'Haarlemstadion': { lat: 52.410451273228375,  lon: 4.648784831363039, stad: 'Haarlem', land: 'Nederland', thuis: false },  
   'Car Jeans stadion': { lat: 52.06287009808528,  lon: 4.382951993797989, stad: 'Den Haag', land: 'Nederland', thuis: false },  
+  'Kyocera stadion': { lat: 52.06287009808528,  lon: 4.382951993797989, stad: 'Den Haag', land: 'Nederland', thuis: false },  
   'Zuiderpark': { lat:  52.05652630629009, lon: 4.2910592219287365 , stad: 'Den Haag', land: 'Nederland', thuis: false },  
 
   'De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
@@ -171,6 +172,7 @@ export const STADION_LOCATIES = {
   'easyCredit-Stadion': { lat: 49.426364150658245, lon: 11.126115480740253 , stad: 'Neurenberg', land: 'Duitsland', thuis: false },
   'Weserstadion': { lat: 53.066893427037236,  lon: 8.838347822273233, stad: 'Bremen', land: 'Duitsland', thuis: false },
   'RheinEnergieStadion': { lat: 50.93357581796073,  lon: 6.8759377025869695, stad: 'Keulen', land: 'Duitsland', thuis: false },
+  'Friedensstadion, Halberstadt': { lat: 51.87614967866176, lon: 11.05026267804528, stad: 'Halberstad', land: 'Duitsland', thuis: false },
 
   'Partizan stadion': { lat: 44.788678412691375, lon: 20.459107440820812, stad: 'Belgrado', land: 'Servië', thuis: false },
   'Lokomotivstadion': { lat: 55.803647304953046, lon: 37.74156061528147, stad: 'Moskou', land: 'Rusland', thuis: false },
