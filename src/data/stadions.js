@@ -106,6 +106,7 @@ export const STADION_LOCATIES = {
   'Košická futbalová aréna': { lat: 48.69687929375427, lon: 21.245182868674963, stad: 'Kosice', land: 'Slowakije', thuis: false },
   'Tannadice Park': { lat: 56.474785205954205, lon: -2.968592406411782, stad: 'Dundee', land: 'Schotland', thuis: false },
   'Stadion Strelnice': { lat: 50.714427189959366, lon: 15.162208578288316, stad: 'Jablonec', land: 'Tsjechië', thuis: false },
+  'Stadion u Nisy': { lat: 50.77630083742595, lon: 15.050356591493015, stad: 'Liberec', land: 'Tsjechië', thuis: false },
   'Stadionul Dr. Constantin Radulescu': { lat: 46.77981424552304, lon: 23.577293841918973 , stad: 'Cluj', land: 'Roemenië', thuis: false },
   'Stadionul Marin Anastasovici': { lat: 43.896300263220944, lon: 25.981634333553448, stad: 'Giurgiu', land: 'Roemenië', thuis: false },
 
@@ -118,8 +119,8 @@ export const STADION_LOCATIES = {
   'Parc Olympique Lyonnais': { lat:  45.76533559617045, lon: 4.981961475566375, stad: 'Lyon', land: 'Frankrijk', thuis: false },
   'Petrovski': { lat: 59.952378467311696, lon: 30.28589932443235, stad: 'St Petersburg', land: 'Rusland', thuis: false },
   'WWK Arena': { lat: 48.323227708586806, lon: 10.886375582153802, stad: 'Augsburg', land: 'Duitsland', thuis: false },
-  'Partizan stadion': { lat: 44.788678412691375,  lon: 20.459107440820812, stad: 'Belgrado', land: 'Servië', thuis: false },
-
+  'Partizan stadion': { lat: 44.788678412691375, lon: 20.459107440820812, stad: 'Belgrado', land: 'Servië', thuis: false },
+  'Lokomotivstadion': { lat: 55.803647304953046, lon: 37.74156061528147, stad: 'Moskou', land: 'Rusland', thuis: false },
 
 };
 
