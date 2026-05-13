@@ -59,7 +59,7 @@ export const STADION_LOCATIES = {
   'Constant Vanden Stock': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
   'Estádio do Dragão': { lat: 41.1617, lon: -8.5839, stad: 'Porto', land: 'Portugal', thuis: false },
   'Estádio da Luz': { lat: 38.7528, lon: -9.1847, stad: 'Lissabon', land: 'Portugal', thuis: false },
-    'AFAS-stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
+  'AFAS-stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'AFAS Stadion Alkmaar': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'Amsterdam ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
   'Johan Cruyff ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
@@ -89,6 +89,8 @@ export const STADION_LOCATIES = {
   'RSC Anderlecht Stadion': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
   'FC Porto Stadion': { lat: 41.1617, lon: -8.5839, stad: 'Porto', land: 'Portugal', thuis: false },
   'Benfica Stadion': { lat: 38.7528, lon: -9.1847, stad: 'Lissabon', land: 'Portugal', thuis: false },
+  
+  'The Emirates': {lat: 51.55567036052208, lon: -0.10837171035102276, stad: 'Londen', land: 'Engeland', thuis: false},
 };
 
 /**
