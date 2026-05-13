@@ -71,6 +71,7 @@ export const STADION_LOCATIES = {
   'Anfield road': { lat: 53.43106627943104, lon: -2.960836876709955, stad: 'Liverpool', land: 'Engeland', thuis: false },  
   'Selhurst Park': { lat: 51.39807467865462, lon: -0.08604687354346198, stad: 'Londen', land: 'Engeland', thuis: false },  
   'Villa Park': { lat: 52.509216151100716, lon: -1.884460937269438, stad: 'Birmingham', land: 'Engeland', thuis: false },  
+  'Celtic Park': { lat: 55.849810837779955, lon: -4.205258365958649, stad: 'Glasgow', land: 'Schotland', thuis: false },  
 
   'Stadio Olimpico': { lat: 41.9341, lon: 12.4547, stad: 'Rome', land: 'Italië', thuis: false },
   'Aspmyra Stadion': { lat: 67.2840, lon: 14.4172, stad: 'Bodø', land: 'Noorwegen', thuis: false },
@@ -97,10 +98,14 @@ export const STADION_LOCATIES = {
   'GSP Stadium': { lat: 35.1146649923369, lon: 33.362916654707355, stad: 'Nicosia', land: 'Cyprus', thuis: false },
   'Košická futbalová aréna': { lat: 35.1146649923369, lon: 33.362916654707355, stad: 'Kosice', land: 'Slowakije', thuis: false },
   'Tannadice Park': { lat: 56.474785205954205, lon: -2.968592406411782, stad: 'Dundee', land: 'Schotland', thuis: false },
+  'Stadion Strelnice': { lat: 50.714427189959366, lon: 15.162208578288316, stad: 'Jablonec', land: 'Tsjechië', thuis: false },
+  'Stadionul Dr. Constantin Radulescu': { lat: 46.77981424552304, lon: 23.577293841918973 , stad: 'Cluj', land: 'Roemenië', thuis: false },
+  'Nogometno igralište Rujevica': { lat: 45.34801783414922, lon:  14.40217496244275, stad: 'Rijeka', land: 'Kroatië', thuis: false },
+  'Stadio San Paolo': { lat: 40.82802560607358, lon: 14.193079326563417, stad: 'Napels', land: 'Italië', thuis: false },
+  'Olimpiyskiy Stadium': { lat: 50.43373724508529, lon: 30.52234430866846, stad: 'Kiev', land: 'Oekraine', thuis: false },
 
   'The Emirates': {lat: 51.55567036052208, lon: -0.10837171035102276, stad: 'Londen', land: 'Engeland', thuis: false},
-  'Tottenham Hotspur Stadium': {lat: 51.60432598234831, lon: -0.06588777168690732, stad: 'Londen', land: 'Engeland', thuis: false},
-  
+  'Tottenham Hotspur Stadium': {lat: 51.60432598234831, lon: -0.06588777168690732, stad: 'Londen', land: 'Engeland', thuis: false},  
 };
 
 /**
