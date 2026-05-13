@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(grep -E \"\\\\.jsx$\")"
+      "Bash(grep -E \"\\\\.jsx$\")",
+      "Bash(pnpm build *)",
+      "Bash(node -e ' *)"
     ]
   }
 }

@@ -111,10 +111,12 @@ export function transformWedstrijd(raw, index) {
 }
 
 /**
- * Transformeer hele dataset.
+ * Transformeer hele dataset. Records zonder DatePlayed worden overgeslagen.
  */
 export function transformDataset(rawData) {
-  return rawData.map((r, i) => transformWedstrijd(r, i));
+  return rawData
+    .filter((r) => r.DatePlayed)
+    .map((r, i) => transformWedstrijd(r, i));
 }
 
 /**
