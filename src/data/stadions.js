@@ -76,6 +76,7 @@ export const STADION_LOCATIES = {
   'Old Trafford': { lat: 53.46314829464568, lon: -2.2910718814054993, stad: 'Glasgow', land: 'Schotland', thuis: false },  
   'Celtic Park': { lat: 55.849810837779955, lon: -4.205258365958649, stad: 'Glasgow', land: 'Schotland', thuis: false },  
   'Tallaght Stadium': { lat: 53.28363782936083, lon: -6.373275646951688, stad: 'Dublin', land: 'Ierland', thuis: false },  
+  'St. James\' Park': { lat: 54.97563630840682, lon: -1.6212421752657955, stad: 'Newcastle', land: 'Engeland', thuis: false },  
 
   'Stadio Olimpico': { lat: 41.9341, lon: 12.4547, stad: 'Rome', land: 'Italië', thuis: false },
   'Aspmyra Stadion': { lat: 67.2840, lon: 14.4172, stad: 'Bodø', land: 'Noorwegen', thuis: false },
@@ -96,6 +97,8 @@ export const STADION_LOCATIES = {
   'Constant Vanden Stockstadion': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
   'Lotto Park': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
   'Koning Boudewijn stadion': { lat: 50.895804204185694, lon: 4.3345399541807454, stad: 'Brussel', land: 'België', thuis: false },
+  'Stade Maurice Dufrasne': { lat: 50.61005192415372,  lon: 5.543314598877741, stad: 'Brussel', land: 'België', thuis: false },
+
   'Estádio da Luz': { lat: 38.7528, lon: -9.1847, stad: 'Lissabon', land: 'Portugal', thuis: false },
   'Estadio Benito Villamarin': { lat: 37.35663714948635, lon: -5.981411295503795, stad: 'Lissabon', land: 'Portugal', thuis: false },
   'Stadio Friuli': { lat: 46.08158593842888, lon: 13.19991749571714, stad: 'Udine', land: 'Italië', thuis: false },
@@ -128,9 +131,14 @@ export const STADION_LOCATIES = {
   'Dinamo stadium': { lat: 53.89532470995109,  lon: 27.560951874120835, stad: 'Minsk', land: 'Wit-Rusland', thuis: false },
 
   'WWK Arena': { lat: 48.323227708586806, lon: 10.886375582153802, stad: 'Augsburg', land: 'Duitsland', thuis: false },
+  'easyCredit-Stadion': { lat: 49.426364150658245, lon: 11.126115480740253 , stad: 'Neurenberg', land: 'Duitsland', thuis: false },
+  'Weserstadion': { lat: 53.066893427037236,  lon: 8.838347822273233, stad: 'Bremen', land: 'Duitsland', thuis: false },
+  
   'Partizan stadion': { lat: 44.788678412691375, lon: 20.459107440820812, stad: 'Belgrado', land: 'Servië', thuis: false },
   'Lokomotivstadion': { lat: 55.803647304953046, lon: 37.74156061528147, stad: 'Moskou', land: 'Rusland', thuis: false },
   'Toumba': { lat: 40.6142136813782, lon: 22.97255525801901, stad: 'Thessaloniki', land: 'Griekenland', thuis: false },
+  'Georgios Karaiskákis Stadion': { lat: 37.94656104159239,  lon: 23.663944986035716, stad: 'Athene', land: 'Griekenland', thuis: false },
+
   'Maccabi Haifa-Stadion': { lat: 32.78346741969013,  lon: 34.965439719703646, stad: 'Haifa', land: 'Israel', thuis: false },
   'Swedbankstadion': { lat: 55.58394886077615, lon: 12.98767167999051, stad: 'Malmo', land: 'Zweden', thuis: false },
   'Gamla Ullevi': { lat: 57.7063706814703, lon: 11.980583608986013, stad: 'Goteborg', land: 'Zweden', thuis: false },
