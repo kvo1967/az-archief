@@ -64,6 +64,8 @@ export const STADION_LOCATIES = {
   
 
   // === Europa ===
+  'The Emirates': {lat: 51.55567036052208, lon: -0.10837171035102276, stad: 'Londen', land: 'Engeland', thuis: false},
+  'Tottenham Hotspur Stadium': {lat: 51.60432598234831, lon: -0.06588777168690732, stad: 'Londen', land: 'Engeland', thuis: false},  
   'London Stadium': { lat: 51.5386, lon: -0.0166, stad: 'Londen', land: 'Engeland', thuis: false },
   'Riverside Stadium': { lat: 54.5784, lon: -1.2167, stad: 'Middlesbrough', land: 'Engeland', thuis: false },
   'Portman Road': { lat: 52.0550, lon: 1.1450, stad: 'Ipswich', land: 'Engeland', thuis: false },
@@ -71,6 +73,7 @@ export const STADION_LOCATIES = {
   'Anfield road': { lat: 53.43106627943104, lon: -2.960836876709955, stad: 'Liverpool', land: 'Engeland', thuis: false },  
   'Selhurst Park': { lat: 51.39807467865462, lon: -0.08604687354346198, stad: 'Londen', land: 'Engeland', thuis: false },  
   'Villa Park': { lat: 52.509216151100716, lon: -1.884460937269438, stad: 'Birmingham', land: 'Engeland', thuis: false },  
+  'Old Trafford': { lat: 53.46314829464568, lon: -2.2910718814054993, stad: 'Glasgow', land: 'Schotland', thuis: false },  
   'Celtic Park': { lat: 55.849810837779955, lon: -4.205258365958649, stad: 'Glasgow', land: 'Schotland', thuis: false },  
 
   'Stadio Olimpico': { lat: 41.9341, lon: 12.4547, stad: 'Rome', land: 'Italië', thuis: false },
@@ -88,6 +91,8 @@ export const STADION_LOCATIES = {
   'Nou Camp': { lat: 41.3809, lon: 2.1228, stad: 'Barcelona', land: 'Spanje', thuis: false },
   'Constant Vanden Stockstadion': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
   'Lotto Park': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
+  'Koning Boudewijn stadion': { lat: 50.895804204185694, lon: 4.3345399541807454, stad: 'Brussel', land: 'België', thuis: false },
+
   'Estádio da Luz': { lat: 38.7528, lon: -9.1847, stad: 'Lissabon', land: 'Portugal', thuis: false },
   'Estadio Benito Villamarin': { lat: 37.35663714948635, lon: -5.981411295503795, stad: 'Lissabon', land: 'Portugal', thuis: false },
   'Stadio Friuli': { lat: 46.08158593842888, lon: 13.19991749571714, stad: 'Udinese', land: 'Italië', thuis: false },
@@ -96,16 +101,17 @@ export const STADION_LOCATIES = {
   'Groupama Aréna' : { lat: 47.4755148981276, lon: 19.095747723891023, stad: 'Boedapest', land: 'Hongarije', thuis: false },
   'Rheinpark Stadion': { lat: 47.140680028064764, lon: 9.510031270461388, stad: 'Vaduz', land: 'Liechtenstein', thuis: false },
   'GSP Stadium': { lat: 35.1146649923369, lon: 33.362916654707355, stad: 'Nicosia', land: 'Cyprus', thuis: false },
-  'Košická futbalová aréna': { lat: 35.1146649923369, lon: 33.362916654707355, stad: 'Kosice', land: 'Slowakije', thuis: false },
+  'Košická futbalová aréna': { lat: 48.69687929375427, lon: 21.245182868674963, stad: 'Kosice', land: 'Slowakije', thuis: false },
   'Tannadice Park': { lat: 56.474785205954205, lon: -2.968592406411782, stad: 'Dundee', land: 'Schotland', thuis: false },
   'Stadion Strelnice': { lat: 50.714427189959366, lon: 15.162208578288316, stad: 'Jablonec', land: 'Tsjechië', thuis: false },
   'Stadionul Dr. Constantin Radulescu': { lat: 46.77981424552304, lon: 23.577293841918973 , stad: 'Cluj', land: 'Roemenië', thuis: false },
   'Nogometno igralište Rujevica': { lat: 45.34801783414922, lon:  14.40217496244275, stad: 'Rijeka', land: 'Kroatië', thuis: false },
   'Stadio San Paolo': { lat: 40.82802560607358, lon: 14.193079326563417, stad: 'Napels', land: 'Italië', thuis: false },
   'Olimpiyskiy Stadium': { lat: 50.43373724508529, lon: 30.52234430866846, stad: 'Kiev', land: 'Oekraine', thuis: false },
-
-  'The Emirates': {lat: 51.55567036052208, lon: -0.10837171035102276, stad: 'Londen', land: 'Engeland', thuis: false},
-  'Tottenham Hotspur Stadium': {lat: 51.60432598234831, lon: -0.06588777168690732, stad: 'Londen', land: 'Engeland', thuis: false},  
+  'Stadion Chornomorets': { lat: 46.48040426229318, lon: 30.756009981523167, stad: 'Odessa', land: 'Oekraine', thuis: false },
+  'Astana Arena': { lat: 51.10829091340277, lon: 71.40292730500057, stad: 'Astana', land: 'Kazachstan', thuis: false },
+  'Almaty Ortalyk': { lat: 43.23846734415905,  lon: 76.92469273907328, stad: 'Almaty', land: 'Kazachstan', thuis: false },
+  'Parc Olympique Lyonnais': { lat:  45.76533559617045, lon: 4.981961475566375, stad: 'Lyon', land: 'Frankrijk', thuis: false },
 };
 
 /**
