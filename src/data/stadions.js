@@ -75,12 +75,14 @@ export const STADION_LOCATIES = {
   'Villa Park': { lat: 52.509216151100716, lon: -1.884460937269438, stad: 'Birmingham', land: 'Engeland', thuis: false },  
   'Old Trafford': { lat: 53.46314829464568, lon: -2.2910718814054993, stad: 'Glasgow', land: 'Schotland', thuis: false },  
   'Celtic Park': { lat: 55.849810837779955, lon: -4.205258365958649, stad: 'Glasgow', land: 'Schotland', thuis: false },  
+  'Tallaght Stadium': { lat: 53.28363782936083, lon: -6.373275646951688, stad: 'Dublin', land: 'Ierland', thuis: false },  
 
   'Stadio Olimpico': { lat: 41.9341, lon: 12.4547, stad: 'Rome', land: 'Italië', thuis: false },
   'Aspmyra Stadion': { lat: 67.2840, lon: 14.4172, stad: 'Bodø', land: 'Noorwegen', thuis: false },
   'Anoeta': { lat: 43.3014, lon: -1.9736, stad: 'San Sebastián', land: 'Spanje', thuis: false },
   'Camp Nou': { lat: 41.3809, lon: 2.1228, stad: 'Barcelona', land: 'Spanje', thuis: false },
   'Santiago Bernabéu': { lat: 40.4531, lon: -3.6883, stad: 'Madrid', land: 'Spanje', thuis: false },
+  'San Mames': { lat: 43.26420502947473,  lon: -2.949399102138141, stad: 'Bilbao', land: 'Spanje', thuis: false },
   'San Siro': { lat: 45.4781, lon: 9.1239, stad: 'Milaan', land: 'Italië', thuis: false },
   'Allianz Arena': { lat: 48.2188, lon: 11.6247, stad: 'München', land: 'Duitsland', thuis: false },
   'Constant Vanden Stock': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
@@ -92,7 +94,6 @@ export const STADION_LOCATIES = {
   'Constant Vanden Stockstadion': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
   'Lotto Park': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
   'Koning Boudewijn stadion': { lat: 50.895804204185694, lon: 4.3345399541807454, stad: 'Brussel', land: 'België', thuis: false },
-
   'Estádio da Luz': { lat: 38.7528, lon: -9.1847, stad: 'Lissabon', land: 'Portugal', thuis: false },
   'Estadio Benito Villamarin': { lat: 37.35663714948635, lon: -5.981411295503795, stad: 'Lissabon', land: 'Portugal', thuis: false },
   'Stadio Friuli': { lat: 46.08158593842888, lon: 13.19991749571714, stad: 'Udinese', land: 'Italië', thuis: false },
@@ -112,6 +113,8 @@ export const STADION_LOCATIES = {
   'Astana Arena': { lat: 51.10829091340277, lon: 71.40292730500057, stad: 'Astana', land: 'Kazachstan', thuis: false },
   'Almaty Ortalyk': { lat: 43.23846734415905,  lon: 76.92469273907328, stad: 'Almaty', land: 'Kazachstan', thuis: false },
   'Parc Olympique Lyonnais': { lat:  45.76533559617045, lon: 4.981961475566375, stad: 'Lyon', land: 'Frankrijk', thuis: false },
+  'Petrovski': { lat: 59.952378467311696, lon: 30.28589932443235, stad: 'St Petersburg', land: 'Rusland', thuis: false },
+  'WWK Arena': { lat: 48.323227708586806, lon: 10.886375582153802, stad: 'Augsburg', land: 'Duitsland', thuis: false },
 };
 
 /**
