@@ -99,6 +99,7 @@ export const STADION_LOCATIES = {
   'Stadio Friuli': { lat: 46.08158593842888, lon: 13.19991749571714, stad: 'Udinese', land: 'Italië', thuis: false },
   'Rams Park': { lat: 41.10344062368133, lon: 28.99120485892022, stad: 'Istanbul', land: 'Turkije', thuis: false },
   'Sukru Saracoglu Stadion': { lat: 40.9877936512877, lon: 29.03692248372982, stad: 'Istanboel', land: 'Turkije', thuis: false },
+  'Fatih Terim Stadion':{ lat: 41.12442460713917, lon: 28.811771634085705, stad: 'Istanboel', land: 'Turkije', thuis: false },
   'Groupama Aréna' : { lat: 47.4755148981276, lon: 19.095747723891023, stad: 'Boedapest', land: 'Hongarije', thuis: false },
   'Rheinpark Stadion': { lat: 47.140680028064764, lon: 9.510031270461388, stad: 'Vaduz', land: 'Liechtenstein', thuis: false },
   'GSP Stadium': { lat: 35.1146649923369, lon: 33.362916654707355, stad: 'Nicosia', land: 'Cyprus', thuis: false },
@@ -106,6 +107,8 @@ export const STADION_LOCATIES = {
   'Tannadice Park': { lat: 56.474785205954205, lon: -2.968592406411782, stad: 'Dundee', land: 'Schotland', thuis: false },
   'Stadion Strelnice': { lat: 50.714427189959366, lon: 15.162208578288316, stad: 'Jablonec', land: 'Tsjechië', thuis: false },
   'Stadionul Dr. Constantin Radulescu': { lat: 46.77981424552304, lon: 23.577293841918973 , stad: 'Cluj', land: 'Roemenië', thuis: false },
+  'Stadionul Marin Anastasovici': { lat: 43.896300263220944, lon: 25.981634333553448, stad: 'Giurgiu', land: 'Roemenië', thuis: false },
+
   'Nogometno igralište Rujevica': { lat: 45.34801783414922, lon:  14.40217496244275, stad: 'Rijeka', land: 'Kroatië', thuis: false },
   'Stadio San Paolo': { lat: 40.82802560607358, lon: 14.193079326563417, stad: 'Napels', land: 'Italië', thuis: false },
   'Olimpiyskiy Stadium': { lat: 50.43373724508529, lon: 30.52234430866846, stad: 'Kiev', land: 'Oekraine', thuis: false },
@@ -115,6 +118,9 @@ export const STADION_LOCATIES = {
   'Parc Olympique Lyonnais': { lat:  45.76533559617045, lon: 4.981961475566375, stad: 'Lyon', land: 'Frankrijk', thuis: false },
   'Petrovski': { lat: 59.952378467311696, lon: 30.28589932443235, stad: 'St Petersburg', land: 'Rusland', thuis: false },
   'WWK Arena': { lat: 48.323227708586806, lon: 10.886375582153802, stad: 'Augsburg', land: 'Duitsland', thuis: false },
+  'Partizan stadion': { lat: 44.788678412691375,  lon: 20.459107440820812, stad: 'Belgrado', land: 'Servië', thuis: false },
+
+
 };
 
 /**
