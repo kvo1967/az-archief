@@ -6420,18 +6420,6 @@
     "webp_file": "19-sep-2017 MVV-uit beker.webp"
   },
   {
-    "DatePlayed": "2013-09-19 21:05:00.000000",
-    "competitie": "Europa League",
-    "PlayedAt": "Maccabi Haifa-Stadion",
-    "season": "2013-2014",
-    "wedstrijd": "Maccabi Haifa - AZ",
-    "uitslag": "0-1",
-    "thuis-uit": "uit",
-    "MatchProgramme": "1",
-    "competitiontype": "Europees",
-    "webp_file": "19-sept-2013 Maccabi Haifa uit.webp"
-  },
-  {
     "DatePlayed": "1978-04-02 00:00:00.000000",
     "competitie": "Eredivisie",
     "PlayedAt": "Alkmaarderhout",
@@ -7370,7 +7358,7 @@
   {
     "DatePlayed": "2014-03-20 18:00:00.000000",
     "competitie": "Europa League",
-    "PlayedAt": "Lokomotivstadion",
+    "PlayedAt": "Stadion Saturn (Ramenskoye)",
     "season": "2013-2014",
     "wedstrijd": "Anzhi - AZ",
     "uitslag": "0-0",
@@ -13044,18 +13032,6 @@
     "webp_file": "29-aug-2013 Atromitos thuis.webp"
   },
   {
-    "DatePlayed": "2013-08-29 19:00:00.000000",
-    "competitie": "Europa League",
-    "PlayedAt": "Afas Stadion",
-    "season": "2013-2014",
-    "wedstrijd": "AZ - Atromitos",
-    "uitslag": "0-2",
-    "thuis-uit": "thuis",
-    "MatchProgramme": "1",
-    "competitiontype": "Europees",
-    "webp_file": "29-aug-2013.webp"
-  },
-  {
     "DatePlayed": "2019-08-29 19:30:00.000000",
     "competitie": "Europa League",
     "PlayedAt": "Koning Boudewijn stadion",
@@ -15338,7 +15314,7 @@
   {
     "DatePlayed": "2011-08-04 20:30:00.000000",
     "competitie": "Europa League",
-    "PlayedAt": "Strelnice Stadion",
+    "PlayedAt": "Stadion Strelnice",
     "season": "2011-2012",
     "wedstrijd": "Jablonec - AZ",
     "uitslag": "1-1",
@@ -15946,18 +15922,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "5-apr-2015 Feyenoord thuis.webp"
-  },
-  {
-    "DatePlayed": "2012-04-05 21:05:00.000000",
-    "competitie": "Europa League",
-    "PlayedAt": "Estadio Mestalla",
-    "season": "2011-2012",
-    "wedstrijd": "Valencia - AZ",
-    "uitslag": "4-0",
-    "thuis-uit": "uit",
-    "MatchProgramme": "1",
-    "competitiontype": "Europees",
-    "webp_file": "5-april-2012 Valencia uit.webp"
   },
   {
     "DatePlayed": "1977-08-05 00:00:00.000000",

@@ -83,6 +83,8 @@ export const STADION_LOCATIES = {
   'Camp Nou': { lat: 41.3809, lon: 2.1228, stad: 'Barcelona', land: 'Spanje', thuis: false },
   'Santiago Bernabéu': { lat: 40.4531, lon: -3.6883, stad: 'Madrid', land: 'Spanje', thuis: false },
   'San Mames': { lat: 43.26420502947473,  lon: -2.949399102138141, stad: 'Bilbao', land: 'Spanje', thuis: false },
+  'Estadio Mestalla': { lat: 39.47478807790704,  lon: -0.3581503205753379, stad: 'Valencia', land: 'Spanje', thuis: false },
+
   'San Siro': { lat: 45.4781, lon: 9.1239, stad: 'Milaan', land: 'Italië', thuis: false },
   'Allianz Arena': { lat: 48.2188, lon: 11.6247, stad: 'München', land: 'Duitsland', thuis: false },
   'Constant Vanden Stock': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
@@ -96,7 +98,7 @@ export const STADION_LOCATIES = {
   'Koning Boudewijn stadion': { lat: 50.895804204185694, lon: 4.3345399541807454, stad: 'Brussel', land: 'België', thuis: false },
   'Estádio da Luz': { lat: 38.7528, lon: -9.1847, stad: 'Lissabon', land: 'Portugal', thuis: false },
   'Estadio Benito Villamarin': { lat: 37.35663714948635, lon: -5.981411295503795, stad: 'Lissabon', land: 'Portugal', thuis: false },
-  'Stadio Friuli': { lat: 46.08158593842888, lon: 13.19991749571714, stad: 'Udinese', land: 'Italië', thuis: false },
+  'Stadio Friuli': { lat: 46.08158593842888, lon: 13.19991749571714, stad: 'Udine', land: 'Italië', thuis: false },
   'Rams Park': { lat: 41.10344062368133, lon: 28.99120485892022, stad: 'Istanbul', land: 'Turkije', thuis: false },
   'Sukru Saracoglu Stadion': { lat: 40.9877936512877, lon: 29.03692248372982, stad: 'Istanboel', land: 'Turkije', thuis: false },
   'Fatih Terim Stadion':{ lat: 41.12442460713917, lon: 28.811771634085705, stad: 'Istanboel', land: 'Turkije', thuis: false },
@@ -113,14 +115,27 @@ export const STADION_LOCATIES = {
   'Nogometno igralište Rujevica': { lat: 45.34801783414922, lon:  14.40217496244275, stad: 'Rijeka', land: 'Kroatië', thuis: false },
   'Stadio San Paolo': { lat: 40.82802560607358, lon: 14.193079326563417, stad: 'Napels', land: 'Italië', thuis: false },
   'Olimpiyskiy Stadium': { lat: 50.43373724508529, lon: 30.52234430866846, stad: 'Kiev', land: 'Oekraine', thuis: false },
+  'Valeri Lobanovskystadion': { lat: 50.45047159614523, lon: 30.534982783759983, stad: 'Kiev', land: 'Oekraine', thuis: false },
+  
   'Stadion Chornomorets': { lat: 46.48040426229318, lon: 30.756009981523167, stad: 'Odessa', land: 'Oekraine', thuis: false },
   'Astana Arena': { lat: 51.10829091340277, lon: 71.40292730500057, stad: 'Astana', land: 'Kazachstan', thuis: false },
   'Almaty Ortalyk': { lat: 43.23846734415905,  lon: 76.92469273907328, stad: 'Almaty', land: 'Kazachstan', thuis: false },
+  'Central Stadium Aktobe': { lat: 50.29185794981359,  lon: 57.15829894231069, stad: 'Aktobe', land: 'Kazachstan', thuis: false },
+
   'Parc Olympique Lyonnais': { lat:  45.76533559617045, lon: 4.981961475566375, stad: 'Lyon', land: 'Frankrijk', thuis: false },
   'Petrovski': { lat: 59.952378467311696, lon: 30.28589932443235, stad: 'St Petersburg', land: 'Rusland', thuis: false },
+  'Stadion Saturn (Ramenskoye)': { lat: 55.577609790510564, lon: 38.22667896471245, stad: 'Moskou', land: 'Rusland', thuis: false },
+  'Dinamo stadium': { lat: 53.89532470995109,  lon: 27.560951874120835, stad: 'Minsk', land: 'Wit-Rusland', thuis: false },
+
   'WWK Arena': { lat: 48.323227708586806, lon: 10.886375582153802, stad: 'Augsburg', land: 'Duitsland', thuis: false },
   'Partizan stadion': { lat: 44.788678412691375, lon: 20.459107440820812, stad: 'Belgrado', land: 'Servië', thuis: false },
   'Lokomotivstadion': { lat: 55.803647304953046, lon: 37.74156061528147, stad: 'Moskou', land: 'Rusland', thuis: false },
+  'Toumba': { lat: 40.6142136813782, lon: 22.97255525801901, stad: 'Thessaloniki', land: 'Griekenland', thuis: false },
+  'Maccabi Haifa-Stadion': { lat: 32.78346741969013,  lon: 34.965439719703646, stad: 'Haifa', land: 'Israel', thuis: false },
+  'Swedbankstadion': { lat: 55.58394886077615, lon: 12.98767167999051, stad: 'Malmo', land: 'Zweden', thuis: false },
+  'Gamla Ullevi': { lat: 57.7063706814703, lon: 11.980583608986013, stad: 'Goteborg', land: 'Zweden', thuis: false },
+
+  'Sheriffstadion': { lat: 46.83839388408002,  lon: 29.55826822049119, stad: 'Tiraspol', land: 'Moldavië', thuis: false },
 
 };
 
