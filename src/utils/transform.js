@@ -74,17 +74,30 @@ function getBoekjePad(bestandsnaam) {
  * Hoofdtransformer: ruwe JSON-record → UI-record.
  */
 export function transformWedstrijd(raw, index) {
-  const { thuis, tegenstander } = parseWedstrijd(raw.wedstrijd);
+  const { thuis: thuisParsed, tegenstander } = parseWedstrijd(raw.wedstrijd);
   const datum = raw.DatePlayed.slice(0, 10); // "YYYY-MM-DD"
   const locatie = getStadionLocatie(raw.PlayedAt);
+
+  // thuis-uit is explicit in the new dataset; fall back to parsing the match string
+  const thuisUit = raw['thuis-uit'];
+  const thuis = thuisUit ? thuisUit === 'thuis' : thuisParsed;
+
+  // season is pre-computed in the new dataset; fall back to deriving from date
+  const seizoen = raw.season || getSeizoen(datum);
+
+  // single webp_file in new dataset; array ProgrammaBestanden in old dataset
+  const bestanden = raw.webp_file
+    ? [getBoekjePad(raw.webp_file)]
+    : (raw.ProgrammaBestanden || []).map(getBoekjePad);
 
   return {
     id: index,
     datum,
-    seizoen: getSeizoen(datum),
+    seizoen,
     wedstrijd: raw.wedstrijd,
     tegenstander,
     competitie: raw.competitie || 'Onbekend',
+    competitiontype: raw.competitiontype || null,
     uitslag: raw.uitslag || '?-?',
     thuis,
     stadion: raw.PlayedAt || 'Onbekend',
@@ -92,7 +105,7 @@ export function transformWedstrijd(raw, index) {
     land: locatie?.land ?? null,
     lat: locatie?.lat ?? null,
     lon: locatie?.lon ?? null,
-    bestanden: (raw.ProgrammaBestanden || []).map(getBoekjePad),
+    bestanden,
     cover: getCoverKleur(`${datum}-${tegenstander}`),
   };
 }

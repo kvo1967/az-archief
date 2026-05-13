@@ -1,27 +1,4 @@
-1-dec-1990 Vlissingen.webp
-1-mei-2016 Graafschap thuis.webp
-10-mei-2026 Feyenoord uit.webp
-12-sep-1998 Fortuna Sittard uit.webp
-13-mei-1989 Cambuur uit II.webp
-14-feb-1993 Veendam.webp
-15-aug-1971 Eindhoven thuis (2).webp
-15-maa-1987 Excelsior uit II.webp
-16-sep-1981 IKStartKristiansand uit.webp
-16-sep-1988 Heracles uit.webp
-17-aug-1958 De Volewijckers friendly 3-1.webp
-17-aug-1969 MVV.webp
-17-jan-1971 Feyenoord uit.webp
-19-nov-1977 Fortuna Beker.webp
-2-mrt-2025 Heerenveen uit.webp
-20-feb-2002 Sparta uit.webp
-20-feb-2005 Roda JC.webp
-20-feb-2014 Slovan Liberec uit.webp
-20-feb-2016 Groningen thuis.webp
-20-feb-2025 Galatasaray away.webp
-20-jan-1974 Telstar uit beker.webp
-20-jan-1990 Heracles.webp
-20-jan-1996 Heracles uit.webp
-20-maa-1977 FC Amsterdam thuis.webp
+﻿20-maa-1977 FC Amsterdam thuis.webp
 20-maa-1999 Fortuna Sittard.webp
 20-maa-2004 NEC uit.webp
 20-maa-2014 Anzi uit.webp
@@ -53,9 +30,7 @@
 20-sep-1987 DWV uit beker.webp
 20-sep-2003 Heerenveen.webp
 20-sep-2008 psv thuis.webp
-20240911_091214.webp
 20240911_105312.webp
-20240911_105500.webp
 20240911_122900.webp
 21-apr-1979 PEC Zwolle.webp
 21-apr-1989 GA Eagles uit.webp
@@ -135,7 +110,6 @@
 22-jan-2008 NAC thuis.webp
 22-jan-2012 ajax thuis.webp
 22-jul-1975 AZ-Hertha.webp
-22-jul-1975 Hertha BSC.webp
 22-jul-2007 Bayer Leverkusen away.webp
 22-maa-1996 Zwolle uit.webp
 22-maa-2002 Fortuna uit.webp
@@ -195,7 +169,6 @@
 23-feb-2008 Twente thuis.webp
 23-feb-2014 Ajax uit.webp
 23-feb-2017 Lyon away.webp
-23-feb-2017 Olympique Lyon uit.webp
 23-jan-2004 ADO.webp
 23-jan-2007 MVV thuis beker.webp
 23-maa-1975 PSV.webp
@@ -207,7 +180,6 @@
 23-maa-2014 PEC Zwolle thuis.webp
 23-mei-1981 GA Eagles thuis.webp
 23-mei-1999 MVV.webp
-23-mrt-2026 Groningen uit.webp
 23-nov-1969 DWS thuis.webp
 23-nov-1980 Willem II uit.webp
 23-nov-1986 Den Bosch uit.webp
@@ -564,7 +536,6 @@
 3-maa-1990 VVV.webp
 3-maa-2000 Willem II.webp
 3-maa-2006 NEC uit.webp
-3-maa-2011 ajax uit.webp
 3-maa-2012 heracles thuis.webp
 3-maa-2016 Feyenoord uit beker.webp
 3-mei-1981 feyenoord uit.webp
@@ -574,8 +545,6 @@
 3-mei-2003 PSV uit.webp
 3-mei-2009 twente uit.webp
 3-mei-2014 feyenoord thuis.webp
-3-mrt-1968 HVC.webp
-3-mrt-1985 Sparta Uit.webp
 3-nov-1974 Haarlem.webp
 3-nov-1984 Groningen thuis.webp
 3-nov-1985 Roda uit.webp
@@ -593,12 +562,10 @@
 3-okt-2010 Heracles thuis.webp
 3-okt-2013 PAOK thuis.webp
 3-okt-2021 Cambuur uit.webp
-3-sep-1967 Elinkwijk.webp
 3-sep-1972 Excelsior thuis.webp
 3-sep-1981 Real Madrid-AZ.webp
 3-sep-1986 Den Haag uit.webp
 3-sep-1988 SVV.webp
-3-sep-2023 Vitesse uit.webp
 30-apr-2000 Feyenoord uit.webp
 30-apr-2017 Bekerfinale.webp
 30-apr-2022 Sparta uit.webp
@@ -680,7 +647,6 @@
 31-okt-1998 Feyenoord uit.webp
 31-okt-1999 PSV.webp
 31-okt-2004 feyenoord.webp
-34186.webp
 4-apr-1976 FC Den Haag.webp
 4-apr-1981 NEC uit.webp
 4-apr-1988 DS79 thuis.webp
@@ -709,7 +675,6 @@
 4-maa-1981 Lokeren.webp
 4-maa-1995 Emmen.webp
 4-maa-2001 NEC uit.webp
-4-maa-2027 Utrecht uit.webp
 4-mei-1980 PEC Zwolle.webp
 4-mei-1997 Volendam uit.webp
 4-mei-2025 GA Eagles uit.webp
@@ -792,7 +757,6 @@
 6-aug-1987 Charleroi.webp
 6-aug-2015 Basaksehirspor uit.webp
 6-dec-1981 Den Haag uit.webp
-6-dec-1981 FC Den Haag uit.webp
 6-dec-1987 Den Haag uit.webp
 6-dec-1998 Twente.webp
 6-dec-2008 heracles thuis.webp
@@ -863,7 +827,6 @@
 7-feb-2018 Twente uit.webp
 7-feb-2024 Feyenoord uit-beker.webp
 7-jan-1973 Ajax.webp
-7-jun-1969 DOS.webp
 7-maa-1965 VVV uit.webp
 7-maa-1976 Sparta.webp
 7-maa-2003 Roda JC.webp
@@ -932,14 +895,12 @@
 8-sep-1974 Telstar uit.webp
 8-sep-1982 groningen thuis.webp
 8-sep-1984 Sparta thuis.webp
-8-sep-1985 Excelsior uit II.webp
 8-sep-1985 Excelsior uit.webp
 8-sep-2001 NAC thuis.webp
 8-sep-2022 Dnipro uit.webp
 9-apr-1977 NEC thuis.webp
 9-apr-1983 ajax thuis.webp
 9-apr-2006 Ajax uit.webp
-9-april-1991 Heracles uit.webp
 9-aug-1981 Ajax-AZ-Amsterdam706.webp
 9-aug-2014 Heracles uit.webp
 9-aug-2015 ajax thuis.webp

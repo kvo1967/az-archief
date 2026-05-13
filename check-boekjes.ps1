@@ -1,6 +1,17 @@
 # Check welke lokale boekjes nog niet in R2 staan
 # Gebruikt HEAD requests naar de publieke R2 URL
 
+# ForEach-Object -Parallel vereist PowerShell 7+
+if ($PSVersionTable.PSVersion.Major -lt 7) {
+    $pwsh = Get-Command pwsh -ErrorAction SilentlyContinue
+    if ($pwsh) {
+        & $pwsh.Source -File $PSCommandPath
+        exit $LASTEXITCODE
+    }
+    Write-Error "PowerShell 7+ (pwsh) is vereist. Voer het script uit als: pwsh .\check-boekjes.ps1"
+    exit 1
+}
+
 $bronMap = "public\boekjes"
 $publicUrl = "https://pub-02a6c42dcd6c41228aa01ec8867770be.r2.dev"
 $ontbrekendeBestand = "ontbrekende-boekjes.txt"

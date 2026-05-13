@@ -1,10 +1,10 @@
 import { useState, useMemo } from 'react';
 import {
   Search, Calendar, Trophy, Users, Filter,
-  Grid3x3, Rows3, GitCommitVertical, MapPin,
+  Grid3x3, Rows3, GitCommitVertical, MapPin, Home, Tag,
 } from 'lucide-react';
 
-import rawData from './data/wedstrijden.json';
+import rawData from './data/wedstrijden-met-programma.json';
 import { transformDataset, normaliseerCompetitie } from './utils/transform.js';
 
 import Header from './components/Header.jsx';
@@ -27,6 +27,8 @@ export default function App() {
   const [seizoen, setSeizoen] = useState('alle');
   const [tegenstander, setTegenstander] = useState('alle');
   const [competitie, setCompetitie] = useState('alle');
+  const [competitiontype, setCompetitiontype] = useState('alle');
+  const [thuisUit, setThuisUit] = useState('alle');
   const [view, setView] = useState('grid');
   const [selected, setSelected] = useState(null);
   const [showFilters, setShowFilters] = useState(false);
@@ -43,6 +45,10 @@ export default function App() {
     () => ['alle', ...new Set(ALLE_WEDSTRIJDEN.map((p) => p.competitie))].sort(),
     []
   );
+  const competitiontypes = useMemo(
+    () => ['alle', ...new Set(ALLE_WEDSTRIJDEN.map((p) => p.competitiontype).filter(Boolean))].sort(),
+    []
+  );
 
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase();
@@ -51,6 +57,9 @@ export default function App() {
         if (seizoen !== 'alle' && p.seizoen !== seizoen) return false;
         if (tegenstander !== 'alle' && p.tegenstander !== tegenstander) return false;
         if (competitie !== 'alle' && p.competitie !== competitie) return false;
+        if (competitiontype !== 'alle' && p.competitiontype !== competitiontype) return false;
+        if (thuisUit === 'thuis' && p.thuis !== true) return false;
+        if (thuisUit === 'uit' && p.thuis !== false) return false;
         if (q) {
           const haystack = [
             p.tegenstander, p.seizoen, p.competitie,
@@ -61,10 +70,10 @@ export default function App() {
         return true;
       })
       .sort((a, b) => new Date(b.datum) - new Date(a.datum));
-  }, [search, seizoen, tegenstander, competitie]);
+  }, [search, seizoen, tegenstander, competitie, competitiontype, thuisUit]);
 
   const activeFilterCount =
-    [seizoen, tegenstander, competitie].filter((f) => f !== 'alle').length +
+    [seizoen, tegenstander, competitie, competitiontype, thuisUit].filter((f) => f !== 'alle').length +
     (search ? 1 : 0);
 
   const resetFilters = () => {
@@ -72,6 +81,8 @@ export default function App() {
     setSeizoen('alle');
     setTegenstander('alle');
     setCompetitie('alle');
+    setCompetitiontype('alle');
+    setThuisUit('alle');
   };
 
   return (
@@ -193,6 +204,14 @@ export default function App() {
               <FilterSelect
                 label="Competitie" icon={<Trophy size={14} />}
                 value={competitie} onChange={setCompetitie} options={competities}
+              />
+              <FilterSelect
+                label="Type" icon={<Tag size={14} />}
+                value={competitiontype} onChange={setCompetitiontype} options={competitiontypes}
+              />
+              <FilterSelect
+                label="Thuis/Uit" icon={<Home size={14} />}
+                value={thuisUit} onChange={setThuisUit} options={['alle', 'thuis', 'uit']}
               />
               {activeFilterCount > 0 && (
                 <button
