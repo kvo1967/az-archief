@@ -93,7 +93,10 @@ export const STADION_LOCATIES = {
   'Rams Park': { lat: 41.10344062368133, lon: 28.99120485892022, stad: 'Istanbul', land: 'Turkije', thuis: false },
   'Sukru Saracoglu Stadion': { lat: 40.9877936512877, lon: 29.03692248372982, stad: 'Istanboel', land: 'Turkije', thuis: false },
   'Groupama Aréna' : { lat: 47.4755148981276, lon: 19.095747723891023, stad: 'Boedapest', land: 'Hongarije', thuis: false },
-  
+  'Rheinpark Stadion': { lat: 47.140680028064764, lon: 9.510031270461388, stad: 'Vaduz', land: 'Liechtenstein', thuis: false },
+  'GSP Stadium': { lat: 35.1146649923369, lon: 33.362916654707355, stad: 'Nicosia', land: 'Cyprus', thuis: false },
+  'Košická futbalová aréna': { lat: 35.1146649923369, lon: 33.362916654707355, stad: 'Kosice', land: 'Slowakije', thuis: false },
+  'Tannadice Park': { lat: 56.474785205954205, lon: -2.968592406411782, stad: 'Dundee', land: 'Schotland', thuis: false },
 
   'The Emirates': {lat: 51.55567036052208, lon: -0.10837171035102276, stad: 'Londen', land: 'Engeland', thuis: false},
   'Tottenham Hotspur Stadium': {lat: 51.60432598234831, lon: -0.06588777168690732, stad: 'Londen', land: 'Engeland', thuis: false},
