@@ -29,7 +29,7 @@ export default function Header({ totaal, seizoenen, tegenstanders }) {
                 fontWeight: 700,
               }}
             >
-              — Sinds 1967 —
+              — Sinds 1954 —
             </div>
             <h1
               style={{
