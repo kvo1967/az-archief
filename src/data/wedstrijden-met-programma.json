@@ -1394,7 +1394,7 @@
   {
     "DatePlayed": "1995-03-11 00:00:00.000000",
     "competitie": "Eerste divisie",
-    "PlayedAt": "De koel",
+    "PlayedAt": "De Koel",
     "season": "1994-1995",
     "wedstrijd": "VVV - AZ",
     "uitslag": "0-4",
@@ -7560,18 +7560,6 @@
     "webp_file": "20-okt-2005 Dnjpr uit.webp"
   },
   {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "20-okt-2007 NAC uit.webp"
-  },
-  {
     "DatePlayed": "2009-10-20 20:45:00.000000",
     "competitie": "Champions League",
     "PlayedAt": "AZ Stadion",
@@ -8246,7 +8234,7 @@
   {
     "DatePlayed": "1995-10-21 00:00:00.000000",
     "competitie": "Eerste divisie",
-    "PlayedAt": "De koel",
+    "PlayedAt": "De Koel",
     "season": "1995-1996",
     "wedstrijd": "VVV - AZ",
     "uitslag": "1-3",
@@ -9842,7 +9830,7 @@
   {
     "DatePlayed": "1979-04-24 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "De koel",
+    "PlayedAt": "De Koel",
     "season": "1978-1979",
     "wedstrijd": "VVV - AZ",
     "uitslag": "1-1",
@@ -10766,7 +10754,7 @@
   {
     "DatePlayed": "2018-11-25 16:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Seacon Stadion - De Koel",
+    "PlayedAt": "Seacon Stadion De Koel",
     "season": "2018-2019",
     "wedstrijd": "VVV - AZ",
     "uitslag": "2-2",
@@ -15094,18 +15082,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "31-mei-1971 Telstar thuis.webp"
-  },
-  {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "31-mei-1974 Telstar uit.webp"
   },
   {
     "DatePlayed": "1987-05-31 00:00:00.000000",
