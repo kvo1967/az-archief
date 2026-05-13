@@ -68,6 +68,10 @@ export const STADION_LOCATIES = {
   'Riverside Stadium': { lat: 54.5784, lon: -1.2167, stad: 'Middlesbrough', land: 'Engeland', thuis: false },
   'Portman Road': { lat: 52.0550, lon: 1.1450, stad: 'Ipswich', land: 'Engeland', thuis: false },
   'The Hawthorns': { lat: 52.5093, lon: -1.9639, stad: 'West Bromwich', land: 'Engeland', thuis: false },
+  'Anfield road': { lat: 53.43106627943104, lon: -2.960836876709955, stad: 'Liverpool', land: 'Engeland', thuis: false },  
+  'Selhurst Park': { lat: 51.39807467865462, lon: -0.08604687354346198, stad: 'Londen', land: 'Engeland', thuis: false },  
+  'Villa Park': { lat: 52.509216151100716, lon: -1.884460937269438, stad: 'Birmingham', land: 'Engeland', thuis: false },  
+
   'Stadio Olimpico': { lat: 41.9341, lon: 12.4547, stad: 'Rome', land: 'Italië', thuis: false },
   'Aspmyra Stadion': { lat: 67.2840, lon: 14.4172, stad: 'Bodø', land: 'Noorwegen', thuis: false },
   'Anoeta': { lat: 43.3014, lon: -1.9736, stad: 'San Sebastián', land: 'Spanje', thuis: false },
@@ -85,7 +89,12 @@ export const STADION_LOCATIES = {
   'Lotto Park': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
   'Estádio da Luz': { lat: 38.7528, lon: -9.1847, stad: 'Lissabon', land: 'Portugal', thuis: false },
   'Estadio Benito Villamarin': { lat: 37.35663714948635, lon: -5.981411295503795, stad: 'Lissabon', land: 'Portugal', thuis: false },
+  'Stadio Friuli': { lat: 46.08158593842888, lon: 13.19991749571714, stad: 'Udinese', land: 'Italië', thuis: false },
+  'Rams Park': { lat: 41.10344062368133, lon: 28.99120485892022, stad: 'Istanbul', land: 'Turkije', thuis: false },
+  'Sukru Saracoglu Stadion': { lat: 40.9877936512877, lon: 29.03692248372982, stad: 'Istanboel', land: 'Turkije', thuis: false },
+  'Groupama Aréna' : { lat: 47.4755148981276, lon: 19.095747723891023, stad: 'Boedapest', land: 'Hongarije', thuis: false },
   
+
   'The Emirates': {lat: 51.55567036052208, lon: -0.10837171035102276, stad: 'Londen', land: 'Engeland', thuis: false},
   'Tottenham Hotspur Stadium': {lat: 51.60432598234831, lon: -0.06588777168690732, stad: 'Londen', land: 'Engeland', thuis: false},
   
