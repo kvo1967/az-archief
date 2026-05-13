@@ -17,7 +17,7 @@ export const STADION_LOCATIES = {
   'de kuip': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'De kuip': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'Philips Stadion': { lat: 51.4416, lon: 5.4673, stad: 'Eindhoven', land: 'Nederland', thuis: false },
-  'Het Kasteel': { lat: 51.8773, lon: 4.4280, stad: 'Rotterdam', land: 'Nederland', thuis: false },
+  
   'Olympisch Stadion': { lat: 52.3433, lon: 4.8519, stad: 'Amsterdam', land: 'Nederland', thuis: false },
   Haarlemstadion: { lat: 52.3839, lon: 4.6300, stad: 'Haarlem', land: 'Nederland', thuis: false },
   Arena: { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
@@ -64,7 +64,8 @@ export const STADION_LOCATIES = {
 
   'De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
   'Seacon Stadion De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
-  'Sparta-stadion Het Kasteel': { lat: 51.8773, lon: 4.428, stad: 'Rotterdam', land: 'Nederland', thuis: false },
+  'Het Kasteel': { lat: 51.92003886731594,  lon: 4.432595014764778, stad: 'Rotterdam', land: 'Nederland', thuis: false },
+  'Sparta-stadion Het Kasteel': { lat: 51.92003886731594,  lon: 4.432595014764778, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'Stadion Galgenwaard': { lat: 52.0723, lon: 5.1461, stad: 'Utrecht', land: 'Nederland', thuis: false },
   'Stadion Feijenoord': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'AFAS-stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
