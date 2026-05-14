@@ -32,7 +32,10 @@ export const STADION_LOCATIES = {
   'De Adelaarshorst': { lat: 52.2553, lon: 6.1875, stad: 'Deventer', land: 'Nederland', thuis: false },
   Zuiderpark: { lat: 52.0461, lon: 4.2833, stad: 'Den Haag', land: 'Nederland', thuis: false },
   Woudestein: { lat: 51.9131, lon: 4.5238, stad: 'Rotterdam', land: 'Nederland', thuis: false },
-  'De Goffert': { lat: 51.8228, lon: 5.8425, stad: 'Nijmegen', land: 'Nederland', thuis: false },
+  'De Goffert': { lat: 51.82249521286397,  lon: 5.837579820956522, stad: 'Nijmegen', land: 'Nederland', thuis: false },
+  'Goffertstadion': { lat: 51.82249521286397,  lon: 5.837579820956522, stad: 'Nijmegen', land: 'Nederland', thuis: false },
+  'McDOS Goffertstadion': { lat: 51.82249521286397,  lon: 5.837579820956522, stad: 'Nijmegen', land: 'Nederland', thuis: false },
+
   'De Vijverberg': { lat: 51.9642, lon: 6.2939, stad: 'Doetinchem', land: 'Nederland', thuis: false },
   'Sportpark Schoonenberg': { lat: 52.5022, lon: 4.6350, stad: 'IJmuiden', land: 'Nederland', thuis: false },
   GelreDome: { lat: 51.9886, lon: 5.8889, stad: 'Arnhem', land: 'Nederland', thuis: false },
@@ -56,7 +59,11 @@ export const STADION_LOCATIES = {
   'De Geusselt': { lat: 50.85752238946334, lon: 5.718185645213262, stad: 'Maastricht', land: 'Nederland', thuis: false },  
   'De Vliert': { lat: 51.70143959370489,  lon: 5.329461777711131, stad: 'Den Bosch', land: 'Nederland', thuis: false },  
   'Gemeentelijk Sportpark Tilburg': { lat: 51.54272414728605, lon: 5.066983665373731, stad: 'Tilburg', land: 'Nederland', thuis: false },  
+  'Koning Willem II Stadion': { lat: 51.54272414728605, lon: 5.066983665373731, stad: 'Tilburg', land: 'Nederland', thuis: false },  
+
   'De Langeleegte': { lat: 53.10827492442445,  lon: 6.86574528364161, stad: 'Veendam', land: 'Nederland', thuis: false },  
+  'Aalsterweg': { lat: 51.41178185603767,  lon: 5.479046071161163, stad: 'Eindhoven', land: 'Nederland', thuis: false },  
+  'Jan Louwers Stadion': { lat: 51.41178185603767,  lon: 5.479046071161163, stad: 'Eindhoven', land: 'Nederland', thuis: false },  
 
   'Fujifilm Stadion': { lat: 51.5948895499278, lon: 4.750881050677719 , stad: 'Breda', land: 'Nederland', thuis: false },  
   'Rat Verlegh stadion': { lat: 51.5948895499278, lon: 4.750881050677719 , stad: 'Breda', land: 'Nederland', thuis: false },  
@@ -72,7 +79,10 @@ export const STADION_LOCATIES = {
   'ADO Den Haag-stadion': { lat: 52.06287009808528,  lon: 4.382951993797989, stad: 'Den Haag', land: 'Nederland', thuis: false },  
   'Zuiderpark': { lat:  52.05652630629009, lon: 4.2910592219287365 , stad: 'Den Haag', land: 'Nederland', thuis: false },  
   'De Oude Meerdijk': { lat: 52.77478391873702,  lon:  6.945562960335594, stad: 'Emmen', land: 'Nederland', thuis: false },    
+  'Kaalheide': { lat: 50.86093318407304,  lon: 6.038579464866663, stad: 'Kerkrade', land: 'Nederland', thuis: false },    
+  'Parkstad Limburg stadion': { lat: 50.85716482467264,   lon: 6.0062351068380275, stad: 'Kerkrade', land: 'Nederland', thuis: false },    
 
+  
   'De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
   'Seacon Stadion De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
   'Het Kasteel': { lat: 51.92003886731594,  lon: 4.432595014764778, stad: 'Rotterdam', land: 'Nederland', thuis: false },
@@ -93,7 +103,7 @@ export const STADION_LOCATIES = {
   'SC Heerenveen Stadion': { lat: 52.9728, lon: 6.0917, stad: 'Heerenveen', land: 'Nederland', thuis: false },
   'Go Ahead Eagles Stadion': { lat: 52.2553, lon: 6.1875, stad: 'Deventer', land: 'Nederland', thuis: false },
   'Vitesse Stadion': { lat: 51.9886, lon: 5.8889, stad: 'Arnhem', land: 'Nederland', thuis: false },
-
+  'Wageningse berg': { lat: 51.967732059474095,  lon: 5.697941624083985, stad: 'Wageningen', land: 'Nederland', thuis: false },
   'RKC Waalwijk Stadion': { lat: 51.6781, lon: 5.0067, stad: 'Waalwijk', land: 'Nederland', thuis: false },
   'VVV Venlo Stadion': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },  
 
