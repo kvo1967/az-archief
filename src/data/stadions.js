@@ -1,9 +1,9 @@
-// Coördinaten van stadions waar AZ heeft gespeeld.
+// Coördinaten van Stadions waar AZ heeft gespeeld.
 // Gebruikt om wedstrijden op de kaart te plotten.
 // Sleutels zijn de exacte waarden uit het PlayedAt-veld in de JSON.
-// Onbekende stadions worden niet op de kaart getoond — voeg toe waar nodig.
+// Onbekende Stadions worden niet op de kaart getoond — voeg toe waar nodig.
 
-export const STADION_LOCATIES = {
+export const Stadion_LOCATIES = {
   // === Thuis ===
   'Alkmaarderhout': { lat: 52.62381432629072, lon: 4.733503202959166, stad: 'Alkmaar', land: 'Nederland', thuis: true },   
   'AFAS Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
@@ -19,7 +19,7 @@ export const STADION_LOCATIES = {
   'Philips Stadion': { lat: 51.4416, lon: 5.4673, stad: 'Eindhoven', land: 'Nederland', thuis: false },
   
   'Olympisch Stadion': { lat: 52.3433, lon: 4.8519, stad: 'Amsterdam', land: 'Nederland', thuis: false },
-  'Haarlemstadion': { lat: 52.3839, lon: 4.6300, stad: 'Haarlem', land: 'Nederland', thuis: false },
+  'HaarlemStadion': { lat: 52.3839, lon: 4.6300, stad: 'Haarlem', land: 'Nederland', thuis: false },
   'Arena': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
   'Johan Cruijff ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
   'Galgenwaard': { lat: 52.0723, lon: 5.1461, stad: 'Utrecht', land: 'Nederland', thuis: false },
@@ -29,8 +29,8 @@ export const STADION_LOCATIES = {
   'De Adelaarshorst': { lat: 52.2553, lon: 6.1875, stad: 'Deventer', land: 'Nederland', thuis: false },
   'Zuiderpark': { lat: 52.0461, lon: 4.2833, stad: 'Den Haag', land: 'Nederland', thuis: false },
   'Woudestein': { lat: 51.9131, lon: 4.5238, stad: 'Rotterdam', land: 'Nederland', thuis: false },
-  'Goffertstadion': { lat: 51.82249521286397,  lon: 5.837579820956522, stad: 'Nijmegen', land: 'Nederland', thuis: false },
-  'McDOS Goffertstadion': { lat: 51.82249521286397,  lon: 5.837579820956522, stad: 'Nijmegen', land: 'Nederland', thuis: false },
+  'GoffertStadion': { lat: 51.82249521286397,  lon: 5.837579820956522, stad: 'Nijmegen', land: 'Nederland', thuis: false },
+  'McDOS GoffertStadion': { lat: 51.82249521286397,  lon: 5.837579820956522, stad: 'Nijmegen', land: 'Nederland', thuis: false },
   'Nieuw Monnikenhuize': { lat: 51.99508107255017,  lon: 5.9327317672947935, stad: 'Arnhem', land: 'Nederland', thuis: false },
 
   'De Vijverberg': { lat: 51.9642, lon: 6.2939, stad: 'Doetinchem', land: 'Nederland', thuis: false },
@@ -44,19 +44,20 @@ export const STADION_LOCATIES = {
   'Polman Stadion': { lat: 52.2589, lon: 6.7611, stad: 'Heracles Almelo', land: 'Nederland', thuis: false },
   'Erve Asito': { lat: 52.3567, lon: 6.6628, stad: 'Almelo', land: 'Nederland', thuis: false },
   'Euroborg': { lat: 53.20626176066408, lon: 6.5915187241271065, stad: 'Groningen', land: 'Nederland', thuis: false },
-  'Oosterparkstadion': { lat: 53.229173634467365,  lon: 6.58113359327215, stad: 'Groningen', land: 'Nederland', thuis: false },  
-  'Cambuurstadion': { lat: 53.205590790625074,   lon: 5.814371924189114, stad: 'Leeuwarden', land: 'Nederland', thuis: false },  
+  'OosterparkStadion': { lat: 53.229173634467365,  lon: 6.58113359327215, stad: 'Groningen', land: 'Nederland', thuis: false },  
+  'CambuurStadion': { lat: 53.205590790625074,   lon: 5.814371924189114, stad: 'Leeuwarden', land: 'Nederland', thuis: false },  
   'Oosterenk-Stadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
-  'Oosterenkstadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
+  'OosterenkStadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
   'MAC3PARK Stadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
   'MAC³PARK Stadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
-  'IJsseldeltastadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
-  'Diekman stadion': { lat: 52.206462140836145,  lon: 6.902507924912151, stad: 'Enschede', land: 'Nederland', thuis: false },  
-  'Arke stadion': { lat: 52.206462140836145,  lon: 6.902507924912151, stad: 'Enschede', land: 'Nederland', thuis: false },  
+  'IJsseldeltaStadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
+  'Diekman Stadion': { lat: 52.206462140836145,  lon: 6.902507924912151, stad: 'Enschede', land: 'Nederland', thuis: false },  
+  'Arke Stadion': { lat: 52.206462140836145,  lon: 6.902507924912151, stad: 'Enschede', land: 'Nederland', thuis: false },  
   'De Geusselt': { lat: 50.85752238946334, lon: 5.718185645213262, stad: 'Maastricht', land: 'Nederland', thuis: false },  
   'De Vliert': { lat: 51.70143959370489,  lon: 5.329461777711131, stad: 'Den Bosch', land: 'Nederland', thuis: false },  
   'Gemeentelijk Sportpark Tilburg': { lat: 51.54272414728605, lon: 5.066983665373731, stad: 'Tilburg', land: 'Nederland', thuis: false },  
   'Koning Willem II Stadion': { lat: 51.54272414728605, lon: 5.066983665373731, stad: 'Tilburg', land: 'Nederland', thuis: false },  
+  'Willem II Stadion': { lat: 51.54272414728605, lon: 5.066983665373731, stad: 'Tilburg', land: 'Nederland', thuis: false },  
   'Yanmar Stadion': { lat: 52.39424915382789,  lon: 5.240576617110169, stad: 'Almere', land: 'Nederland', thuis: false },  
 
   'De Langeleegte': { lat: 53.10827492442445,  lon: 6.86574528364161, stad: 'Veendam', land: 'Nederland', thuis: false },  
@@ -64,27 +65,27 @@ export const STADION_LOCATIES = {
   'Jan Louwers Stadion': { lat: 51.41178185603767,  lon: 5.479046071161163, stad: 'Eindhoven', land: 'Nederland', thuis: false },  
 
   'Fujifilm Stadion': { lat: 51.5948895499278, lon: 4.750881050677719 , stad: 'Breda', land: 'Nederland', thuis: false },  
-  'Rat Verlegh stadion': { lat: 51.5948895499278, lon: 4.750881050677719 , stad: 'Breda', land: 'Nederland', thuis: false },  
+  'Rat Verlegh Stadion': { lat: 51.5948895499278, lon: 4.750881050677719 , stad: 'Breda', land: 'Nederland', thuis: false },  
   'Beatrixstraat': { lat: 51.58253353867273,  lon: 4.767495657558651, stad: 'Breda', land: 'Nederland', thuis: false },  
-  'Volendam stadion': { lat: 52.49462881764071, lon: 5.065282087815537, stad: 'Volendam', land: 'Nederland', thuis: false },  
-  'Kras-stadion': { lat: 52.49462881764071, lon: 5.065282087815537, stad: 'Volendam', land: 'Nederland', thuis: false },  
-  'Kras stadion': { lat: 52.49462881764071, lon: 5.065282087815537, stad: 'Volendam', land: 'Nederland', thuis: false },  
-  'Veronicastadion': { lat: 52.49462881764071, lon: 5.065282087815537, stad: 'Volendam', land: 'Nederland', thuis: false },  
+  'Volendam Stadion': { lat: 52.49462881764071, lon: 5.065282087815537, stad: 'Volendam', land: 'Nederland', thuis: false },  
+  'Kras-Stadion': { lat: 52.49462881764071, lon: 5.065282087815537, stad: 'Volendam', land: 'Nederland', thuis: false },  
+  'Kras Stadion': { lat: 52.49462881764071, lon: 5.065282087815537, stad: 'Volendam', land: 'Nederland', thuis: false },  
+  'VeronicaStadion': { lat: 52.49462881764071, lon: 5.065282087815537, stad: 'Volendam', land: 'Nederland', thuis: false },  
   'Sportpark Schoonenberg': { lat: 52.45526550337389,  lon: 4.634736673815702, stad: 'IJmuiden', land: 'Nederland', thuis: false },  
-  'Haarlemstadion': { lat: 52.410451273228375,  lon: 4.648784831363039, stad: 'Haarlem', land: 'Nederland', thuis: false },  
-  'Car Jeans stadion': { lat: 52.06287009808528,  lon: 4.382951993797989, stad: 'Den Haag', land: 'Nederland', thuis: false },  
-  'Kyocera stadion': { lat: 52.06287009808528,  lon: 4.382951993797989, stad: 'Den Haag', land: 'Nederland', thuis: false },  
-  'ADO Den Haag-stadion': { lat: 52.06287009808528,  lon: 4.382951993797989, stad: 'Den Haag', land: 'Nederland', thuis: false },  
+  'HaarlemStadion': { lat: 52.410451273228375,  lon: 4.648784831363039, stad: 'Haarlem', land: 'Nederland', thuis: false },  
+  'Car Jeans Stadion': { lat: 52.06287009808528,  lon: 4.382951993797989, stad: 'Den Haag', land: 'Nederland', thuis: false },  
+  'Kyocera Stadion': { lat: 52.06287009808528,  lon: 4.382951993797989, stad: 'Den Haag', land: 'Nederland', thuis: false },  
+  'ADO Den Haag-Stadion': { lat: 52.06287009808528,  lon: 4.382951993797989, stad: 'Den Haag', land: 'Nederland', thuis: false },  
   'Zuiderpark': { lat:  52.05652630629009, lon: 4.2910592219287365 , stad: 'Den Haag', land: 'Nederland', thuis: false },  
   'De Oude Meerdijk': { lat: 52.77478391873702,  lon:  6.945562960335594, stad: 'Emmen', land: 'Nederland', thuis: false },    
   'Kaalheide': { lat: 50.86093318407304,  lon: 6.038579464866663, stad: 'Kerkrade', land: 'Nederland', thuis: false },    
-  'Parkstad Limburg stadion': { lat: 50.85716482467264,   lon: 6.0062351068380275, stad: 'Kerkrade', land: 'Nederland', thuis: false },    
+  'Parkstad Limburg Stadion': { lat: 50.85716482467264,   lon: 6.0062351068380275, stad: 'Kerkrade', land: 'Nederland', thuis: false },    
 
   
   'De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
   'Seacon Stadion De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
   'Het Kasteel': { lat: 51.92003886731594,  lon: 4.432595014764778, stad: 'Rotterdam', land: 'Nederland', thuis: false },
-  'Sparta-stadion Het Kasteel': { lat: 51.92003886731594,  lon: 4.432595014764778, stad: 'Rotterdam', land: 'Nederland', thuis: false },
+  'Sparta-Stadion Het Kasteel': { lat: 51.92003886731594,  lon: 4.432595014764778, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'Stadion Feijenoord': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'Amsterdam ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
   'Johan Cruyff ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
@@ -94,8 +95,6 @@ export const STADION_LOCATIES = {
   'FC Twente Stadion': { lat: 52.2367, lon: 6.8369, stad: 'Enschede', land: 'Nederland', thuis: false },
   'Heracles Stadion': { lat: 52.3567, lon: 6.6628, stad: 'Almelo', land: 'Nederland', thuis: false },  
   'ADO Den Haag Stadion': { lat: 52.0461, lon: 4.2833, stad: 'Den Haag', land: 'Nederland', thuis: false },
-  'FC Utrecht Stadion': { lat: 52.0723, lon: 5.1461, stad: 'Utrecht', land: 'Nederland', thuis: false },
-  'SC Heerenveen Stadion': { lat: 52.9728, lon: 6.0917, stad: 'Heerenveen', land: 'Nederland', thuis: false },
   'Go Ahead Eagles Stadion': { lat: 52.2553, lon: 6.1875, stad: 'Deventer', land: 'Nederland', thuis: false },
   'Vitesse Stadion': { lat: 51.9886, lon: 5.8889, stad: 'Arnhem', land: 'Nederland', thuis: false },
   'Wageningse berg': { lat: 51.967732059474095,  lon: 5.697941624083985, stad: 'Wageningen', land: 'Nederland', thuis: false },
@@ -106,7 +105,13 @@ export const STADION_LOCATIES = {
   'Amsterdamsestraatweg': { lat: 52.1206413124364,   lon: 5.067567203708239 , stad: 'Utrecht', land: 'Nederland', thuis: false },  
   'De Krommedijk': { lat: 51.802084009339154,  lon: 4.68974016474787 , stad: 'Dordrecht', land: 'Nederland', thuis: false },  
   'Sportpark Noord': { lat: 52.967824644222354, lon: 5.914946471506936, stad: 'Heerenveen', land: 'Nederland', thuis: false },
-  
+  'Fortuna Sittard Stadion': { lat: 50.992071173337486,  lon: 5.844122566362383, stad: 'Sittard', land: 'Nederland', thuis: false },
+  'Wagner & Partners Stadion': { lat: 50.992071173337486,  lon: 5.844122566362383, stad: 'Sittard', land: 'Nederland', thuis: false },
+  'Gemeentelijk Sportpark Bornsestraat': { lat: 52.34548386328373,   lon: 6.687012865478967, stad: 'Almelo', land: 'Nederland', thuis: false },
+  'De Luiten': { lat: 51.54081079343974,  lon: 4.453867439956313, stad: 'Roosendaal', land: 'Nederland', thuis: false },
+  'RBC Stadion': { lat: 51.54081079343974,  lon: 4.453867439956313, stad: 'Roosendaal', land: 'Nederland', thuis: false },
+  'Vast/Goed-Stadion': { lat: 51.54081079343974,  lon: 4.453867439956313, stad: 'Roosendaal', land: 'Nederland', thuis: false },
+
   // === Europa ===
   'The Emirates': {lat: 51.55567036052208, lon: -0.10837171035102276, stad: 'Londen', land: 'Engeland', thuis: false},
   'Tottenham Hotspur Stadium': {lat: 51.60432598234831, lon: -0.06588777168690732, stad: 'Londen', land: 'Engeland', thuis: false},  
@@ -145,12 +150,12 @@ export const STADION_LOCATIES = {
   'London Stadium': { lat: 51.5386, lon: -0.0166, stad: 'Londen', land: 'Engeland', thuis: false },
   'Estadio Municipal de Anoeta': { lat: 43.3014, lon: -1.9736, stad: 'San Sebastián', land: 'Spanje', thuis: false },
   'Camp Nou': { lat: 41.3809, lon: 2.1228, stad: 'Barcelona', land: 'Spanje', thuis: false },
-  'Constant Vanden Stockstadion': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
+  'Constant Vanden StockStadion': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
   'Lotto Park': { lat: 50.8344, lon: 4.2997, stad: 'Brussel', land: 'België', thuis: false },
-  'Koning Boudewijn stadion': { lat: 50.895804204185694, lon: 4.3345399541807454, stad: 'Brussel', land: 'België', thuis: false },
+  'Koning Boudewijn Stadion': { lat: 50.895804204185694, lon: 4.3345399541807454, stad: 'Brussel', land: 'België', thuis: false },
   'Stade Maurice Dufrasne': { lat: 50.61005192415372,  lon: 5.543314598877741, stad: 'Brussel', land: 'België', thuis: false },
   'Daknam': { lat: 51.116324123906715, lon: 3.9871186185537333, stad: 'Lokeren', land: 'België', thuis: false },
-  'Olympiastadion': { lat: 51.193333903673334, lon: 3.1807456584207294, stad: 'Brugge', land: 'België', thuis: false },
+  'OlympiaStadion': { lat: 51.193333903673334, lon: 3.1807456584207294, stad: 'Brugge', land: 'België', thuis: false },
   'Stade du Thillenberg': { lat: 49.5221823236179,  lon: 5.87756713875592, stad: 'Differdange', land: 'Luxemburg', thuis: false },
 
   'Estádio da Luz': { lat: 38.7528, lon: -9.1847, stad: 'Lissabon', land: 'Portugal', thuis: false },
@@ -169,17 +174,17 @@ export const STADION_LOCATIES = {
   'Stadionul Dr. Constantin Radulescu': { lat: 46.77981424552304, lon: 23.577293841918973 , stad: 'Cluj', land: 'Roemenië', thuis: false },
   'Stadionul Marin Anastasovici': { lat: 43.896300263220944, lon: 25.981634333553448, stad: 'Giurgiu', land: 'Roemenië', thuis: false },
   'Hardturm': { lat: 47.39313084750715, lon: 8.504647268334413, stad: 'Zurich', land: 'Zwitserland', thuis: false },
-  'Gradski stadion': { lat: 43.14349315299194,  lon: 24.724578977043624, stad: 'Lovech', land: 'Bulgarije', thuis: false },
+  'Gradski Stadion': { lat: 43.14349315299194,  lon: 24.724578977043624, stad: 'Lovech', land: 'Bulgarije', thuis: false },
   'Vasil Levski National Stadium': { lat: 42.68827454761067,  lon: 23.335360859938934, stad: 'Sofia', land: 'Bulgarije', thuis: false },
 
   'Nogometno igralište Rujevica': { lat: 45.34801783414922, lon:  14.40217496244275, stad: 'Rijeka', land: 'Kroatië', thuis: false },
   'Stadio San Paolo': { lat: 40.82802560607358, lon: 14.193079326563417, stad: 'Napels', land: 'Italië', thuis: false },
   'Olimpiyskiy Stadium': { lat: 50.43373724508529, lon: 30.52234430866846, stad: 'Kiev', land: 'Oekraine', thuis: false },
   'NSK Olimpijs\'kyj': { lat: 50.43373724508529, lon: 30.52234430866846, stad: 'Kiev', land: 'Oekraine', thuis: false },
-  'Valeri Lobanovskystadion': { lat: 50.45047159614523, lon: 30.534982783759983, stad: 'Kiev', land: 'Oekraine', thuis: false },
+  'Valeri LobanovskyStadion': { lat: 50.45047159614523, lon: 30.534982783759983, stad: 'Kiev', land: 'Oekraine', thuis: false },
   'Meteor Stadium': { lat: 48.43579302718206,  lon: 35.00584273410999, stad: 'Dnjepropetrosvk', land: 'Oekraine', thuis: false },
   'RSC Olympisky': { lat: 48.019380863154, lon: 37.80365769877282, stad: 'Donetsk', land: 'Oekraine', thuis: false },
-  'Metaliststadion': { lat: 49.980961142892966,  lon: 36.26131665307651, stad: 'Charkov', land: 'Oekraine', thuis: false },
+  'MetalistStadion': { lat: 49.980961142892966,  lon: 36.26131665307651, stad: 'Charkov', land: 'Oekraine', thuis: false },
   'Stadion Chornomorets': { lat: 46.48040426229318, lon: 30.756009981523167, stad: 'Odessa', land: 'Oekraine', thuis: false },
   'Astana Arena': { lat: 51.10829091340277, lon: 71.40292730500057, stad: 'Astana', land: 'Kazachstan', thuis: false },
   'Almaty Ortalyk': { lat: 43.23846734415905,  lon: 76.92469273907328, stad: 'Almaty', land: 'Kazachstan', thuis: false },
@@ -190,42 +195,42 @@ export const STADION_LOCATIES = {
 
   'Petrovski': { lat: 59.952378467311696, lon: 30.28589932443235, stad: 'St Petersburg', land: 'Rusland', thuis: false },
   'Stadion Saturn (Ramenskoye)': { lat: 55.577609790510564, lon: 38.22667896471245, stad: 'Moskou', land: 'Rusland', thuis: false },
-  'Metallurg stadion': { lat: 53.238396935972,  lon: 50.271988133926406, stad: 'Samara', land: 'Rusland', thuis: false },
+  'Metallurg Stadion': { lat: 53.238396935972,  lon: 50.271988133926406, stad: 'Samara', land: 'Rusland', thuis: false },
   'Dinamo stadium': { lat: 53.89532470995109,  lon: 27.560951874120835, stad: 'Minsk', land: 'Wit-Rusland', thuis: false },
 
   'WWK Arena': { lat: 48.323227708586806, lon: 10.886375582153802, stad: 'Augsburg', land: 'Duitsland', thuis: false },
   'easyCredit-Stadion': { lat: 49.426364150658245, lon: 11.126115480740253 , stad: 'Neurenberg', land: 'Duitsland', thuis: false },
-  'Weserstadion': { lat: 53.066893427037236,  lon: 8.838347822273233, stad: 'Bremen', land: 'Duitsland', thuis: false },
+  'WeserStadion': { lat: 53.066893427037236,  lon: 8.838347822273233, stad: 'Bremen', land: 'Duitsland', thuis: false },
   'RheinEnergieStadion': { lat: 50.93357581796073,  lon: 6.8759377025869695, stad: 'Keulen', land: 'Duitsland', thuis: false },
-  'Friedensstadion, Halberstadt': { lat: 51.87614967866176, lon: 11.05026267804528, stad: 'Halberstad', land: 'Duitsland', thuis: false },
+  'FriedensStadion, Halberstadt': { lat: 51.87614967866176, lon: 11.05026267804528, stad: 'Halberstad', land: 'Duitsland', thuis: false },
 
-  'Partizan stadion': { lat: 44.788678412691375, lon: 20.459107440820812, stad: 'Belgrado', land: 'Servië', thuis: false },
-  'Lokomotiv stadion': { lat: 55.803647304953046, lon: 37.74156061528147, stad: 'Moskou', land: 'Rusland', thuis: false },
+  'Partizan Stadion': { lat: 44.788678412691375, lon: 20.459107440820812, stad: 'Belgrado', land: 'Servië', thuis: false },
+  'Lokomotiv Stadion': { lat: 55.803647304953046, lon: 37.74156061528147, stad: 'Moskou', land: 'Rusland', thuis: false },
   'Toumba': { lat: 40.6142136813782, lon: 22.97255525801901, stad: 'Thessaloniki', land: 'Griekenland', thuis: false },
   'Georgios Karaiskákis Stadion': { lat: 37.94656104159239,  lon: 23.663944986035716, stad: 'Athene', land: 'Griekenland', thuis: false },
   'Peristeri Stadium': { lat: 38.00533453782236,  lon: 23.690347879611682, stad: 'Athene', land: 'Griekenland', thuis: false },
   'Amica Wronki-Stadion': { lat: 52.71851593807543,  lon: 16.374779756603132, stad: 'Wronki', land: 'Polen', thuis: false },
 
   'Maccabi Haifa-Stadion': { lat: 32.78346741969013,  lon: 34.965439719703646, stad: 'Haifa', land: 'Israel', thuis: false },
-  'Swedbankstadion': { lat: 55.58394886077615, lon: 12.98767167999051, stad: 'Malmo', land: 'Zweden', thuis: false },
+  'SwedbankStadion': { lat: 55.58394886077615, lon: 12.98767167999051, stad: 'Malmo', land: 'Zweden', thuis: false },
   'Gamla Ullevi': { lat: 57.7063706814703, lon: 11.980583608986013, stad: 'Goteborg', land: 'Zweden', thuis: false },
   'Kristiansand Stadion': { lat: 58.14776409823935,  lon: 8.022104285260593, stad: 'Kristiansand', land: 'Noorwegen', thuis: false },
-  'Color Linestadion': { lat: 62.47018822294344, lon:  6.18791355708424, stad: 'Alesund', land: 'Noorwegen', thuis: false },
+  'Color LineStadion': { lat: 62.47018822294344, lon:  6.18791355708424, stad: 'Alesund', land: 'Noorwegen', thuis: false },
 
-  'Sheriffstadion': { lat: 46.83839388408002,  lon: 29.55826822049119, stad: 'Tiraspol', land: 'Moldavië', thuis: false },
+  'SheriffStadion': { lat: 46.83839388408002,  lon: 29.55826822049119, stad: 'Tiraspol', land: 'Moldavië', thuis: false },
 
 };
 
 /**
- * Lookup met fallback. Onbekend stadion → null (filter weg op kaart).
+ * Lookup met fallback. Onbekend Stadion → null (filter weg op kaart).
  */
 export function getStadionLocatie(playedAt) {
   if (!playedAt) return null;
   // Probeer exacte match
-  if (STADION_LOCATIES[playedAt]) return STADION_LOCATIES[playedAt];
+  if (Stadion_LOCATIES[playedAt]) return Stadion_LOCATIES[playedAt];
   // Probeer case-insensitive
-  const key = Object.keys(STADION_LOCATIES).find(
+  const key = Object.keys(Stadion_LOCATIES).find(
     (k) => k.toLowerCase() === playedAt.toLowerCase()
   );
-  return key ? STADION_LOCATIES[key] : null;
+  return key ? Stadion_LOCATIES[key] : null;
 }

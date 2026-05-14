@@ -14,7 +14,7 @@
   {
     "DatePlayed": "1979-04-01 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Volendam stadion",
+    "PlayedAt": "Volendam Stadion",
     "season": "1978-1979",
     "wedstrijd": "FC Volendam - AZ",
     "uitslag": "0-0",
@@ -62,7 +62,7 @@
   {
     "DatePlayed": "1986-08-01 00:00:00.000000",
     "competitie": "Vriendschappelijk",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1986-1987",
     "wedstrijd": "FC Volendam - AZ",
     "uitslag": "0-1",
@@ -146,7 +146,7 @@
   {
     "DatePlayed": "2013-12-01 16:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2013-2014",
     "wedstrijd": "NEC - AZ",
     "uitslag": "3-2",
@@ -242,7 +242,7 @@
   {
     "DatePlayed": "1987-03-01 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1986-1987",
     "wedstrijd": "Haarlem - AZ",
     "uitslag": "1-1",
@@ -266,7 +266,7 @@
   {
     "DatePlayed": "2003-03-01 20:00:00.000000",
     "competitie": "Holland Casino Eredivisie",
-    "PlayedAt": "Arke stadion",
+    "PlayedAt": "Arke Stadion",
     "season": "2002-2003",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "0-0",
@@ -278,7 +278,7 @@
   {
     "DatePlayed": "2008-03-01 19:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Parkstad Limburg stadion",
+    "PlayedAt": "Parkstad Limburg Stadion",
     "season": "2007-2008",
     "wedstrijd": "Roda JC - AZ",
     "uitslag": "1-1",
@@ -314,7 +314,7 @@
   {
     "DatePlayed": "1982-05-01 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Diekman stadion",
+    "PlayedAt": "Diekman Stadion",
     "season": "1981-1982",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "2-0",
@@ -422,7 +422,7 @@
   {
     "DatePlayed": "1980-11-01 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Diekman stadion",
+    "PlayedAt": "Diekman Stadion",
     "season": "1980-1981",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "1-1",
@@ -482,7 +482,7 @@
   {
     "DatePlayed": "1978-10-01 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Diekman stadion",
+    "PlayedAt": "Diekman Stadion",
     "season": "1978-1979",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "4-2",
@@ -590,7 +590,7 @@
   {
     "DatePlayed": "2009-04-10 20:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Rat Verlegh stadion",
+    "PlayedAt": "Rat Verlegh Stadion",
     "season": "2008-2009",
     "wedstrijd": "NAC - AZ",
     "uitslag": "0-1",
@@ -602,7 +602,7 @@
   {
     "DatePlayed": "2010-04-10 19:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2009-2010",
     "wedstrijd": "NEC - AZ",
     "uitslag": "0-0",
@@ -626,7 +626,7 @@
   {
     "DatePlayed": "1969-08-10 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1969-1970",
     "wedstrijd": "NEC - AZ",
     "uitslag": "1-0",
@@ -722,7 +722,7 @@
   {
     "DatePlayed": "2005-12-10 20:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Arke stadion",
+    "PlayedAt": "Arke Stadion",
     "season": "2005-2006",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "1-3",
@@ -842,7 +842,7 @@
   {
     "DatePlayed": "2008-02-10 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2007-2008",
     "wedstrijd": "NEC - AZ",
     "uitslag": "5-2",
@@ -890,7 +890,7 @@
   {
     "DatePlayed": "1982-03-10 00:00:00.000000",
     "competitie": "KNVB Beker",
-    "PlayedAt": "Oosterenkstadion",
+    "PlayedAt": "OosterenkStadion",
     "season": "1981-1982",
     "wedstrijd": "PEC Zwolle - AZ",
     "uitslag": "2-3",
@@ -1082,7 +1082,7 @@
   {
     "DatePlayed": "1977-09-10 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1977-1978",
     "wedstrijd": "NEC - AZ",
     "uitslag": "0-3",
@@ -1142,7 +1142,7 @@
   {
     "DatePlayed": "2006-09-10 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2006-2007",
     "wedstrijd": "NEC - AZ",
     "uitslag": "0-2",
@@ -1226,7 +1226,7 @@
   {
     "DatePlayed": "2015-04-11 19:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Abe Lenstra stadion",
+    "PlayedAt": "Abe Lenstra Stadion",
     "season": "2014-2015",
     "wedstrijd": "Heerenveen - AZ",
     "uitslag": "5-2",
@@ -1262,7 +1262,7 @@
   {
     "DatePlayed": "1977-12-11 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1977-1978",
     "wedstrijd": "Haarlem - AZ",
     "uitslag": "0-3",
@@ -1310,7 +1310,7 @@
   {
     "DatePlayed": "1984-02-11 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Oosterenkstadion",
+    "PlayedAt": "OosterenkStadion",
     "season": "1983-1984",
     "wedstrijd": "PEC Zwolle - AZ",
     "uitslag": "2-1",
@@ -1418,7 +1418,7 @@
   {
     "DatePlayed": "1980-05-11 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1979-1980",
     "wedstrijd": "NEC - AZ",
     "uitslag": "1-0",
@@ -1514,7 +1514,7 @@
   {
     "DatePlayed": "1984-11-11 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1984-1985",
     "wedstrijd": "Haarlem - AZ",
     "uitslag": "1-1",
@@ -1526,7 +1526,7 @@
   {
     "DatePlayed": "1998-11-11 00:00:00.000000",
     "competitie": "KPN Telecompetitie",
-    "PlayedAt": "Cambuurstadion",
+    "PlayedAt": "CambuurStadion",
     "season": "1998-1999",
     "wedstrijd": "Cambuur - AZ",
     "uitslag": "0-0",
@@ -1586,7 +1586,7 @@
   {
     "DatePlayed": "1987-10-11 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1987-1988",
     "wedstrijd": "Haarlem - AZ",
     "uitslag": "0-2",
@@ -1598,7 +1598,7 @@
   {
     "DatePlayed": "1983-09-11 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Volendam stadion",
+    "PlayedAt": "Volendam Stadion",
     "season": "1983-1984",
     "wedstrijd": "FC Volendam - AZ",
     "uitslag": "4-0",
@@ -1682,7 +1682,7 @@
   {
     "DatePlayed": "2007-04-12 20:45:00.000000",
     "competitie": "UEFA Cup",
-    "PlayedAt": "Weserstadion",
+    "PlayedAt": "WeserStadion",
     "season": "2006-2007",
     "wedstrijd": "Werder Bremen - AZ",
     "uitslag": "4-1",
@@ -1790,7 +1790,7 @@
   {
     "DatePlayed": "2000-02-12 00:00:00.000000",
     "competitie": "KPN Telecompetitie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1999-2000",
     "wedstrijd": "NEC - AZ",
     "uitslag": "1-2",
@@ -1850,7 +1850,7 @@
   {
     "DatePlayed": "1972-03-12 00:00:00.000000",
     "competitie": "Eerste divisie",
-    "PlayedAt": "Cambuurstadion",
+    "PlayedAt": "CambuurStadion",
     "season": "1971-1972",
     "wedstrijd": "Cambuur - AZ",
     "uitslag": "1-0",
@@ -1922,7 +1922,7 @@
   {
     "DatePlayed": "1974-05-12 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Diekman stadion",
+    "PlayedAt": "Diekman Stadion",
     "season": "1973-1974",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "2-5",
@@ -2162,7 +2162,7 @@
   {
     "DatePlayed": "2009-09-12 20:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "ADO Den Haag-stadion",
+    "PlayedAt": "ADO Den Haag-Stadion",
     "season": "2009-2010",
     "wedstrijd": "ADO Den Haag - AZ",
     "uitslag": "2-1",
@@ -2258,7 +2258,7 @@
   {
     "DatePlayed": "1972-08-13 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Diekman stadion",
+    "PlayedAt": "Diekman Stadion",
     "season": "1972-1973",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "2-0",
@@ -2378,7 +2378,7 @@
   {
     "DatePlayed": "2015-12-13 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "IJsseldeltastadion",
+    "PlayedAt": "IJsseldeltaStadion",
     "season": "2015-2016",
     "wedstrijd": "PEC Zwolle - AZ",
     "uitslag": "2-1",
@@ -2462,7 +2462,7 @@
   {
     "DatePlayed": "2016-02-13 18:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Polman stadion",
+    "PlayedAt": "Polman Stadion",
     "season": "2015-2016",
     "wedstrijd": "Heracles - AZ",
     "uitslag": "3-6",
@@ -2498,7 +2498,7 @@
   {
     "DatePlayed": "1988-03-13 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Oosterparkstadion",
+    "PlayedAt": "OosterparkStadion",
     "season": "1987-1988",
     "wedstrijd": "FC Groningen - AZ",
     "uitslag": "4-2",
@@ -2582,7 +2582,7 @@
   {
     "DatePlayed": "1989-05-13 00:00:00.000000",
     "competitie": "Eerste divisie",
-    "PlayedAt": "Cambuurstadion",
+    "PlayedAt": "CambuurStadion",
     "season": "1988-1989",
     "wedstrijd": "Cambuur - AZ",
     "uitslag": "1-3",
@@ -2594,7 +2594,7 @@
   {
     "DatePlayed": "1989-05-13 00:00:00.000000",
     "competitie": "Eerste divisie",
-    "PlayedAt": "Cambuurstadion",
+    "PlayedAt": "CambuurStadion",
     "season": "1988-1989",
     "wedstrijd": "Cambuur - AZ",
     "uitslag": "1-3",
@@ -2702,7 +2702,7 @@
   {
     "DatePlayed": "1968-10-13 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1968-1969",
     "wedstrijd": "NEC - AZ",
     "uitslag": "1-1",
@@ -2786,7 +2786,7 @@
   {
     "DatePlayed": "2008-09-13 19:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "ADO Den Haag-stadion",
+    "PlayedAt": "ADO Den Haag-Stadion",
     "season": "2008-2009",
     "wedstrijd": "ADO Den Haag - AZ",
     "uitslag": "3-0",
@@ -3002,7 +3002,7 @@
   {
     "DatePlayed": "2003-12-14 12:30:00.000000",
     "competitie": "Holland Casino Eredivisie",
-    "PlayedAt": "Kras-stadion",
+    "PlayedAt": "Kras-Stadion",
     "season": "2003-2004",
     "wedstrijd": "FC Volendam - AZ",
     "uitslag": "0-6",
@@ -3074,7 +3074,7 @@
   {
     "DatePlayed": "2006-01-14 19:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Polman stadion",
+    "PlayedAt": "Polman Stadion",
     "season": "2005-2006",
     "wedstrijd": "Heracles - AZ",
     "uitslag": "0-2",
@@ -3470,7 +3470,7 @@
   {
     "DatePlayed": "2001-12-15 19:30:00.000000",
     "competitie": "KPN Eredivisie",
-    "PlayedAt": "Arke stadion",
+    "PlayedAt": "Arke Stadion",
     "season": "2001-2002",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "0-0",
@@ -3518,7 +3518,7 @@
   {
     "DatePlayed": "2012-12-15 18:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "IJsseldeltastadion",
+    "PlayedAt": "IJsseldeltaStadion",
     "season": "2012-2013",
     "wedstrijd": "PEC Zwolle - AZ",
     "uitslag": "1-2",
@@ -3734,7 +3734,7 @@
   {
     "DatePlayed": "2012-03-15 19:00:00.000000",
     "competitie": "Europa League",
-    "PlayedAt": " Stadio Friuli",
+    "PlayedAt": "Stadio Friuli",
     "season": "2011-2012",
     "wedstrijd": "Udinese - AZ",
     "uitslag": "2-1",
@@ -3770,7 +3770,7 @@
   {
     "DatePlayed": "2005-05-15 14:30:00.000000",
     "competitie": "Holland Casino Eredivisie",
-    "PlayedAt": "Arke stadion",
+    "PlayedAt": "Arke Stadion",
     "season": "2004-2005",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "3-0",
@@ -3938,7 +3938,7 @@
   {
     "DatePlayed": "2005-09-15 16:00:00.000000",
     "competitie": "UEFA Cup",
-    "PlayedAt": "Metallurg stadion",
+    "PlayedAt": "Metallurg Stadion",
     "season": "2005-2006",
     "wedstrijd": "Krylia Sovetov Samara - AZ",
     "uitslag": "5-3",
@@ -4010,7 +4010,7 @@
   {
     "DatePlayed": "1983-04-16 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1982-1983",
     "wedstrijd": "Haarlem - AZ",
     "uitslag": "3-3",
@@ -4118,7 +4118,7 @@
   {
     "DatePlayed": "1973-12-16 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1973-1974",
     "wedstrijd": "NEC - AZ",
     "uitslag": "0-1",
@@ -4154,7 +4154,7 @@
   {
     "DatePlayed": "2013-02-16 19:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Parkstad Limburg stadion",
+    "PlayedAt": "Parkstad Limburg Stadion",
     "season": "2012-2013",
     "wedstrijd": "Roda JC - AZ",
     "uitslag": "2-2",
@@ -4358,7 +4358,7 @@
   {
     "DatePlayed": "1983-10-16 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1983-1984",
     "wedstrijd": "Haarlem - AZ",
     "uitslag": "2-2",
@@ -5078,7 +5078,7 @@
   {
     "DatePlayed": "2015-09-17 21:05:00.000000",
     "competitie": "Europa League",
-    "PlayedAt": "Partizan stadion",
+    "PlayedAt": "Partizan Stadion",
     "season": "2015-2016",
     "wedstrijd": "FK Partizan - AZ",
     "uitslag": "3-2",
@@ -5210,7 +5210,7 @@
   {
     "DatePlayed": "1998-08-18 00:00:00.000000",
     "competitie": "KNVB Beker",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1998-1999",
     "wedstrijd": "Haarlem - AZ",
     "uitslag": "0-4",
@@ -5234,7 +5234,7 @@
   {
     "DatePlayed": "2011-08-18 19:00:00.000000",
     "competitie": "Europa League",
-    "PlayedAt": "Color Linestadion",
+    "PlayedAt": "Color LineStadion",
     "season": "2011-2012",
     "wedstrijd": "Aalesunds - AZ",
     "uitslag": "2-1",
@@ -5258,7 +5258,7 @@
   {
     "DatePlayed": "1977-12-18 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Volendam stadion",
+    "PlayedAt": "Volendam Stadion",
     "season": "1977-1978",
     "wedstrijd": "FC Volendam - AZ",
     "uitslag": "2-1",
@@ -5294,7 +5294,7 @@
   {
     "DatePlayed": "2011-12-18 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Rat Verlegh stadion",
+    "PlayedAt": "Rat Verlegh Stadion",
     "season": "2011-2012",
     "wedstrijd": "NAC - AZ",
     "uitslag": "2-1",
@@ -5366,7 +5366,7 @@
   {
     "DatePlayed": "2009-01-18 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Kras-stadion",
+    "PlayedAt": "Kras-Stadion",
     "season": "2008-2009",
     "wedstrijd": "FC Volendam - AZ",
     "uitslag": "0-2",
@@ -5498,7 +5498,7 @@
   {
     "DatePlayed": "2003-05-18 14:30:00.000000",
     "competitie": "Holland Casino Eredivisie",
-    "PlayedAt": "Oosterparkstadion",
+    "PlayedAt": "OosterparkStadion",
     "season": "2002-2003",
     "wedstrijd": "FC Groningen - AZ",
     "uitslag": "1-0",
@@ -6314,7 +6314,7 @@
   {
     "DatePlayed": "2010-09-19 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "McDOS Goffertstadion",
+    "PlayedAt": "McDOS GoffertStadion",
     "season": "2010-2011",
     "wedstrijd": "NEC - AZ",
     "uitslag": "0-1",
@@ -6482,7 +6482,7 @@
   {
     "DatePlayed": "2007-12-02 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Arke stadion",
+    "PlayedAt": "Arke Stadion",
     "season": "2007-2008",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "2-1",
@@ -6494,7 +6494,7 @@
   {
     "DatePlayed": "2010-12-02 21:05:00.000000",
     "competitie": "Europa League",
-    "PlayedAt": "Sheriffstadion",
+    "PlayedAt": "SheriffStadion",
     "season": "2010-2011",
     "wedstrijd": "Sheriff - AZ",
     "uitslag": "1-1",
@@ -6554,7 +6554,7 @@
   {
     "DatePlayed": "2000-02-02 00:00:00.000000",
     "competitie": "KPN Telecompetitie",
-    "PlayedAt": "Arke stadion",
+    "PlayedAt": "Arke Stadion",
     "season": "1999-2000",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "4-1",
@@ -6590,7 +6590,7 @@
   {
     "DatePlayed": "2010-02-02 20:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Rat Verlegh stadion",
+    "PlayedAt": "Rat Verlegh Stadion",
     "season": "2009-2010",
     "wedstrijd": "NAC - AZ",
     "uitslag": "1-1",
@@ -6746,7 +6746,7 @@
   {
     "DatePlayed": "2012-05-02 20:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2011-2012",
     "wedstrijd": "NEC - AZ",
     "uitslag": "1-1",
@@ -7274,7 +7274,7 @@
   {
     "DatePlayed": "2004-03-20 20:00:00.000000",
     "competitie": "Holland Casino Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2003-2004",
     "wedstrijd": "NEC - AZ",
     "uitslag": "0-2",
@@ -7322,7 +7322,7 @@
   {
     "DatePlayed": "1979-05-20 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1978-1979",
     "wedstrijd": "NEC - AZ",
     "uitslag": "1-0",
@@ -7406,7 +7406,7 @@
   {
     "DatePlayed": "2005-11-20 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Oosterparkstadion",
+    "PlayedAt": "OosterparkStadion",
     "season": "2005-2006",
     "wedstrijd": "FC Groningen - AZ",
     "uitslag": "0-0",
@@ -7574,7 +7574,7 @@
   {
     "DatePlayed": "1970-09-20 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Diekman stadion",
+    "PlayedAt": "Diekman Stadion",
     "season": "1970-1971",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "2-0",
@@ -7730,7 +7730,7 @@
   {
     "DatePlayed": "2016-04-21 18:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Kyocera stadion",
+    "PlayedAt": "Kyocera Stadion",
     "season": "2015-2016",
     "wedstrijd": "ADO Den Haag - AZ",
     "uitslag": "1-2",
@@ -7958,7 +7958,7 @@
   {
     "DatePlayed": "2009-02-21 19:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Polman stadion",
+    "PlayedAt": "Polman Stadion",
     "season": "2008-2009",
     "wedstrijd": "Heracles - AZ",
     "uitslag": "0-2",
@@ -8090,7 +8090,7 @@
   {
     "DatePlayed": "2023-05-21 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2022-2023",
     "wedstrijd": "NEC - AZ",
     "uitslag": "0-3",
@@ -8126,7 +8126,7 @@
   {
     "DatePlayed": "1978-10-21 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Oosterenkstadion",
+    "PlayedAt": "OosterenkStadion",
     "season": "1978-1979",
     "wedstrijd": "PEC Zwolle - AZ",
     "uitslag": "0-0",
@@ -8198,7 +8198,7 @@
   {
     "DatePlayed": "2021-10-21 21:00:00.000000",
     "competitie": "Conference League",
-    "PlayedAt": "Stadionul Dr. Constantin R?dulescu",
+    "PlayedAt": "Stadionul Dr. Constantin Radulescu",
     "season": "2021-2022",
     "wedstrijd": "Cluj - AZ",
     "uitslag": "0-1",
@@ -8234,7 +8234,7 @@
   {
     "DatePlayed": "1985-09-21 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1985-1986",
     "wedstrijd": "NEC - AZ",
     "uitslag": "1-1",
@@ -8450,7 +8450,7 @@
   {
     "DatePlayed": "1996-12-22 00:00:00.000000",
     "competitie": "PTT Telecompetitie",
-    "PlayedAt": "Diekman stadion",
+    "PlayedAt": "Diekman Stadion",
     "season": "1996-1997",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "1-0",
@@ -8606,7 +8606,7 @@
   {
     "DatePlayed": "2007-07-22 00:00:00.000000",
     "competitie": "Vriendschappelijk",
-    "PlayedAt": "Bremenstadion Ennepetal",
+    "PlayedAt": "BremenStadion Ennepetal",
     "season": "2007-2008",
     "wedstrijd": "Bayer Leverkusen - AZ",
     "uitslag": "4-0",
@@ -8762,7 +8762,7 @@
   {
     "DatePlayed": "1987-11-22 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Diekman stadion",
+    "PlayedAt": "Diekman Stadion",
     "season": "1987-1988",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "5-0",
@@ -8978,7 +8978,7 @@
   {
     "DatePlayed": "2013-09-22 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Rat Verlegh stadion",
+    "PlayedAt": "Rat Verlegh Stadion",
     "season": "2013-2014",
     "wedstrijd": "NAC - AZ",
     "uitslag": "3-0",
@@ -8990,7 +8990,7 @@
   {
     "DatePlayed": "2019-09-22 16:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Car Jeans stadion",
+    "PlayedAt": "Car Jeans Stadion",
     "season": "2019-2020",
     "wedstrijd": "ADO Den Haag - AZ",
     "uitslag": "0-1",
@@ -9122,7 +9122,7 @@
   {
     "DatePlayed": "1975-08-23 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1975-1976",
     "wedstrijd": "NEC - AZ",
     "uitslag": "1-0",
@@ -9170,7 +9170,7 @@
   {
     "DatePlayed": "2002-08-23 20:00:00.000000",
     "competitie": "Holland Casino Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2002-2003",
     "wedstrijd": "NEC - AZ",
     "uitslag": "2-0",
@@ -9182,7 +9182,7 @@
   {
     "DatePlayed": "2012-08-23 18:00:00.000000",
     "competitie": "Europa League",
-    "PlayedAt": "Lokomotiv stadion",
+    "PlayedAt": "Lokomotiv Stadion",
     "season": "2012-2013",
     "wedstrijd": "Anzhi - AZ",
     "uitslag": "1-0",
@@ -9338,7 +9338,7 @@
   {
     "DatePlayed": "1980-03-23 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1979-1980",
     "wedstrijd": "Haarlem - AZ",
     "uitslag": "0-3",
@@ -9494,7 +9494,7 @@
   {
     "DatePlayed": "2002-11-23 19:30:00.000000",
     "competitie": "Holland Casino Eredivisie",
-    "PlayedAt": "Parkstad Limburg stadion",
+    "PlayedAt": "Parkstad Limburg Stadion",
     "season": "2002-2003",
     "wedstrijd": "Roda JC - AZ",
     "uitslag": "1-3",
@@ -9590,7 +9590,7 @@
   {
     "DatePlayed": "1998-10-23 00:00:00.000000",
     "competitie": "KPN Telecompetitie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1998-1999",
     "wedstrijd": "NEC - AZ",
     "uitslag": "2-2",
@@ -9710,7 +9710,7 @@
   {
     "DatePlayed": "2012-09-23 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Rat Verlegh stadion",
+    "PlayedAt": "Rat Verlegh Stadion",
     "season": "2012-2013",
     "wedstrijd": "NAC - AZ",
     "uitslag": "2-1",
@@ -9902,7 +9902,7 @@
   {
     "DatePlayed": "1988-01-24 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Volendam stadion",
+    "PlayedAt": "Volendam Stadion",
     "season": "1987-1988",
     "wedstrijd": "FC Volendam - AZ",
     "uitslag": "1-1",
@@ -9938,7 +9938,7 @@
   {
     "DatePlayed": "2015-01-24 19:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "IJsseldeltastadion",
+    "PlayedAt": "IJsseldeltaStadion",
     "season": "2014-2015",
     "wedstrijd": "PEC Zwolle - AZ",
     "uitslag": "1-1",
@@ -10274,7 +10274,7 @@
   {
     "DatePlayed": "1985-04-25 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Oosterparkstadion",
+    "PlayedAt": "OosterparkStadion",
     "season": "1984-1985",
     "wedstrijd": "FC Groningen - AZ",
     "uitslag": "2-6",
@@ -10334,7 +10334,7 @@
   {
     "DatePlayed": "1996-08-25 00:00:00.000000",
     "competitie": "PTT Telecompetitie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1996-1997",
     "wedstrijd": "NEC - AZ",
     "uitslag": "0-0",
@@ -10670,7 +10670,7 @@
   {
     "DatePlayed": "2021-11-25 21:00:00.000000",
     "competitie": "Conference League",
-    "PlayedAt": "Stadion St?elnice",
+    "PlayedAt": "Stadion Strelnice",
     "season": "2021-2022",
     "wedstrijd": "Jablonec - AZ",
     "uitslag": "1-1",
@@ -11174,7 +11174,7 @@
   {
     "DatePlayed": "1972-11-26 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Oosterparkstadion",
+    "PlayedAt": "OosterparkStadion",
     "season": "1972-1973",
     "wedstrijd": "FC Groningen - AZ",
     "uitslag": "4-2",
@@ -11306,7 +11306,7 @@
   {
     "DatePlayed": "1981-09-26 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1981-1982",
     "wedstrijd": "Haarlem - AZ",
     "uitslag": "0-0",
@@ -11342,7 +11342,7 @@
   {
     "DatePlayed": "1999-09-26 00:00:00.000000",
     "competitie": "KPN Telecompetitie",
-    "PlayedAt": "Cambuurstadion",
+    "PlayedAt": "CambuurStadion",
     "season": "1999-2000",
     "wedstrijd": "Cambuur - AZ",
     "uitslag": "2-4",
@@ -11390,7 +11390,7 @@
   {
     "DatePlayed": "1980-04-27 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Diekman stadion",
+    "PlayedAt": "Diekman Stadion",
     "season": "1979-1980",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "4-1",
@@ -11438,7 +11438,7 @@
   {
     "DatePlayed": "2014-04-27 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Kyocera stadion",
+    "PlayedAt": "Kyocera Stadion",
     "season": "2013-2014",
     "wedstrijd": "ADO Den Haag - AZ",
     "uitslag": "2-1",
@@ -11630,7 +11630,7 @@
   {
     "DatePlayed": "2006-01-27 20:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Parkstad Limburg stadion",
+    "PlayedAt": "Parkstad Limburg Stadion",
     "season": "2005-2006",
     "wedstrijd": "Roda JC - AZ",
     "uitslag": "1-4",
@@ -11678,7 +11678,7 @@
   {
     "DatePlayed": "2019-01-27 16:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Abe Lenstra stadion",
+    "PlayedAt": "Abe Lenstra Stadion",
     "season": "2018-2019",
     "wedstrijd": "Heerenveen - AZ",
     "uitslag": "0-2",
@@ -11774,7 +11774,7 @@
   {
     "DatePlayed": "1977-11-27 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Diekman stadion",
+    "PlayedAt": "Diekman Stadion",
     "season": "1977-1978",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "1-4",
@@ -11810,7 +11810,7 @@
   {
     "DatePlayed": "2001-11-27 19:30:00.000000",
     "competitie": "KPN Eredivisie",
-    "PlayedAt": "Oosterparkstadion",
+    "PlayedAt": "OosterparkStadion",
     "season": "2001-2002",
     "wedstrijd": "FC Groningen - AZ",
     "uitslag": "0-1",
@@ -11906,7 +11906,7 @@
   {
     "DatePlayed": "1990-10-27 00:00:00.000000",
     "competitie": "Eerste divisie",
-    "PlayedAt": "Cambuurstadion",
+    "PlayedAt": "CambuurStadion",
     "season": "1990-1991",
     "wedstrijd": "Cambuur - AZ",
     "uitslag": "0-1",
@@ -11978,7 +11978,7 @@
   {
     "DatePlayed": "2013-10-27 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "IJsseldeltastadion",
+    "PlayedAt": "IJsseldeltaStadion",
     "season": "2013-2014",
     "wedstrijd": "PEC Zwolle - AZ",
     "uitslag": "0-2",
@@ -12098,7 +12098,7 @@
   {
     "DatePlayed": "2007-09-27 20:00:00.000000",
     "competitie": "KNVB Beker",
-    "PlayedAt": "Cambuurstadion",
+    "PlayedAt": "CambuurStadion",
     "season": "2007-2008",
     "wedstrijd": "Cambuur - AZ",
     "uitslag": "1-0",
@@ -12158,7 +12158,7 @@
   {
     "DatePlayed": "2001-04-28 00:00:00.000000",
     "competitie": "KPN Eredivisie",
-    "PlayedAt": "Arke stadion",
+    "PlayedAt": "Arke Stadion",
     "season": "2000-2001",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "1-0",
@@ -12194,7 +12194,7 @@
   {
     "DatePlayed": "2024-04-28 12:15:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2023-2024",
     "wedstrijd": "NEC - AZ",
     "uitslag": "0-3",
@@ -12230,7 +12230,7 @@
   {
     "DatePlayed": "1982-08-28 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Oosterenkstadion",
+    "PlayedAt": "OosterenkStadion",
     "season": "1982-1983",
     "wedstrijd": "PEC Zwolle - AZ",
     "uitslag": "0-2",
@@ -12242,7 +12242,7 @@
   {
     "DatePlayed": "1982-08-28 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Oosterenkstadion",
+    "PlayedAt": "OosterenkStadion",
     "season": "1982-1983",
     "wedstrijd": "PEC Zwolle - AZ",
     "uitslag": "0-2",
@@ -12266,7 +12266,7 @@
   {
     "DatePlayed": "1985-08-28 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Diekman stadion",
+    "PlayedAt": "Diekman Stadion",
     "season": "1985-1986",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "2-1",
@@ -12290,7 +12290,7 @@
   {
     "DatePlayed": "2004-08-28 20:00:00.000000",
     "competitie": "Holland Casino Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2004-2005",
     "wedstrijd": "NEC - AZ",
     "uitslag": "1-2",
@@ -12326,7 +12326,7 @@
   {
     "DatePlayed": "2022-08-28 16:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Cambuurstadion",
+    "PlayedAt": "CambuurStadion",
     "season": "2022-2023",
     "wedstrijd": "Cambuur - AZ",
     "uitslag": "0-1",
@@ -12350,7 +12350,7 @@
   {
     "DatePlayed": "1971-02-28 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1970-1971",
     "wedstrijd": "NEC - AZ",
     "uitslag": "3-0",
@@ -12362,7 +12362,7 @@
   {
     "DatePlayed": "2004-02-28 20:00:00.000000",
     "competitie": "Holland Casino Eredivisie",
-    "PlayedAt": "Arke stadion",
+    "PlayedAt": "Arke Stadion",
     "season": "2003-2004",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "4-1",
@@ -12494,7 +12494,7 @@
   {
     "DatePlayed": "1976-03-28 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Diekman stadion",
+    "PlayedAt": "Diekman Stadion",
     "season": "1975-1976",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "2-2",
@@ -12566,7 +12566,7 @@
   {
     "DatePlayed": "1976-11-28 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1976-1977",
     "wedstrijd": "Haarlem - AZ",
     "uitslag": "2-1",
@@ -12602,7 +12602,7 @@
   {
     "DatePlayed": "2004-11-28 14:30:00.000000",
     "competitie": "Holland Casino Eredivisie",
-    "PlayedAt": "Oosterparkstadion",
+    "PlayedAt": "OosterparkStadion",
     "season": "2004-2005",
     "wedstrijd": "FC Groningen - AZ",
     "uitslag": "1-2",
@@ -12698,7 +12698,7 @@
   {
     "DatePlayed": "2007-10-28 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Rat Verlegh stadion",
+    "PlayedAt": "Rat Verlegh Stadion",
     "season": "2007-2008",
     "wedstrijd": "NAC - AZ",
     "uitslag": "2-3",
@@ -12710,7 +12710,7 @@
   {
     "DatePlayed": "2008-10-28 20:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Parkstad Limburg stadion",
+    "PlayedAt": "Parkstad Limburg Stadion",
     "season": "2008-2009",
     "wedstrijd": "Roda JC - AZ",
     "uitslag": "0-2",
@@ -12902,7 +12902,7 @@
   {
     "DatePlayed": "2019-08-29 19:30:00.000000",
     "competitie": "Europa League",
-    "PlayedAt": "Koning Boudewijn stadion",
+    "PlayedAt": "Koning Boudewijn Stadion",
     "season": "2019-2020",
     "wedstrijd": "Antwerp - AZ",
     "uitslag": "1-4",
@@ -13010,7 +13010,7 @@
   {
     "DatePlayed": "1988-06-29 00:00:00.000000",
     "competitie": "Intertoto",
-    "PlayedAt": "Friedensstadion, Halberstadt",
+    "PlayedAt": "FriedensStadion, Halberstadt",
     "season": "1988-1989",
     "wedstrijd": "1.FC Magdenburg - AZ",
     "uitslag": "2-1",
@@ -13154,7 +13154,7 @@
   {
     "DatePlayed": "2014-11-29 20:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Cambuurstadion",
+    "PlayedAt": "CambuurStadion",
     "season": "2014-2015",
     "wedstrijd": "Cambuur - AZ",
     "uitslag": "0-2",
@@ -13298,7 +13298,7 @@
   {
     "DatePlayed": "1996-09-29 00:00:00.000000",
     "competitie": "PTT Telecompetitie",
-    "PlayedAt": "Oosterparkstadion",
+    "PlayedAt": "OosterparkStadion",
     "season": "1996-1997",
     "wedstrijd": "FC Groningen - AZ",
     "uitslag": "1-0",
@@ -13334,7 +13334,7 @@
   {
     "DatePlayed": "2011-09-29 19:00:00.000000",
     "competitie": "Europa League",
-    "PlayedAt": "Metaliststadion",
+    "PlayedAt": "MetalistStadion",
     "season": "2011-2012",
     "wedstrijd": "Metalist Kharkiv - AZ",
     "uitslag": "1-1",
@@ -13358,7 +13358,7 @@
   {
     "DatePlayed": "1998-04-03 00:00:00.000000",
     "competitie": "Toto divisie",
-    "PlayedAt": "Cambuurstadion",
+    "PlayedAt": "CambuurStadion",
     "season": "1997-1998",
     "wedstrijd": "Cambuur - AZ",
     "uitslag": "2-2",
@@ -13430,7 +13430,7 @@
   {
     "DatePlayed": "1986-08-03 00:00:00.000000",
     "competitie": "Vriendschappelijk",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1986-1987",
     "wedstrijd": "Haarlem - AZ",
     "uitslag": "2-1",
@@ -13550,7 +13550,7 @@
   {
     "DatePlayed": "1985-02-03 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Diekman stadion",
+    "PlayedAt": "Diekman Stadion",
     "season": "1984-1985",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "2-2",
@@ -13574,7 +13574,7 @@
   {
     "DatePlayed": "1996-02-03 00:00:00.000000",
     "competitie": "Eerste divisie",
-    "PlayedAt": "TOP Oss-stadion",
+    "PlayedAt": "TOP Oss-Stadion",
     "season": "1995-1996",
     "wedstrijd": "TOP Oss - AZ",
     "uitslag": "1-1",
@@ -13670,7 +13670,7 @@
   {
     "DatePlayed": "2006-03-03 20:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2005-2006",
     "wedstrijd": "NEC - AZ",
     "uitslag": "0-2",
@@ -13874,7 +13874,7 @@
   {
     "DatePlayed": "2001-11-03 20:00:00.000000",
     "competitie": "KPN Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2001-2002",
     "wedstrijd": "NEC - AZ",
     "uitslag": "1-0",
@@ -14018,7 +14018,7 @@
   {
     "DatePlayed": "2021-10-03 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Cambuurstadion",
+    "PlayedAt": "CambuurStadion",
     "season": "2021-2022",
     "wedstrijd": "Cambuur - AZ",
     "uitslag": "1-3",
@@ -14294,7 +14294,7 @@
   {
     "DatePlayed": "2016-01-30 20:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2015-2016",
     "wedstrijd": "NEC - AZ",
     "uitslag": "0-3",
@@ -14414,7 +14414,7 @@
   {
     "DatePlayed": "2014-03-30 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Cambuurstadion",
+    "PlayedAt": "CambuurStadion",
     "season": "2013-2014",
     "wedstrijd": "Cambuur - AZ",
     "uitslag": "0-0",
@@ -14474,7 +14474,7 @@
   {
     "DatePlayed": "1994-11-30 00:00:00.000000",
     "competitie": "KNVB Beker",
-    "PlayedAt": "Volendam stadion",
+    "PlayedAt": "Volendam Stadion",
     "season": "1994-1995",
     "wedstrijd": "FC Volendam - AZ",
     "uitslag": "3-0",
@@ -14510,7 +14510,7 @@
   {
     "DatePlayed": "2005-11-30 20:45:00.000000",
     "competitie": "UEFA Cup",
-    "PlayedAt": "Gradski stadion",
+    "PlayedAt": "Gradski Stadion",
     "season": "2005-2006",
     "wedstrijd": "Litex Lovech - AZ",
     "uitslag": "0-2",
@@ -14522,7 +14522,7 @@
   {
     "DatePlayed": "2011-11-30 19:00:00.000000",
     "competitie": "Europa League",
-    "PlayedAt": "Swedbankstadion",
+    "PlayedAt": "SwedbankStadion",
     "season": "2011-2012",
     "wedstrijd": "Malmo FF - AZ",
     "uitslag": "0-0",
@@ -14642,7 +14642,7 @@
   {
     "DatePlayed": "2007-09-30 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Polman stadion",
+    "PlayedAt": "Polman Stadion",
     "season": "2007-2008",
     "wedstrijd": "Heracles - AZ",
     "uitslag": "2-1",
@@ -14786,7 +14786,7 @@
   {
     "DatePlayed": "2004-01-31 19:30:00.000000",
     "competitie": "Holland Casino Eredivisie",
-    "PlayedAt": "Parkstad Limburg stadion",
+    "PlayedAt": "Parkstad Limburg Stadion",
     "season": "2003-2004",
     "wedstrijd": "Roda JC - AZ",
     "uitslag": "3-1",
@@ -14858,7 +14858,7 @@
   {
     "DatePlayed": "1986-03-31 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Oosterparkstadion",
+    "PlayedAt": "OosterparkStadion",
     "season": "1985-1986",
     "wedstrijd": "FC Groningen - AZ",
     "uitslag": "1-0",
@@ -14906,7 +14906,7 @@
   {
     "DatePlayed": "2013-03-31 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Polman stadion",
+    "PlayedAt": "Polman Stadion",
     "season": "2012-2013",
     "wedstrijd": "Heracles - AZ",
     "uitslag": "1-2",
@@ -14978,7 +14978,7 @@
   {
     "DatePlayed": "1976-10-31 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1976-1977",
     "wedstrijd": "NEC - AZ",
     "uitslag": "1-1",
@@ -15062,7 +15062,7 @@
   {
     "DatePlayed": "1981-04-04 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1980-1981",
     "wedstrijd": "NEC - AZ",
     "uitslag": "0-0",
@@ -15122,7 +15122,7 @@
   {
     "DatePlayed": "1978-08-04 00:00:00.000000",
     "competitie": "Vriendschappelijk",
-    "PlayedAt": "Olympiastadion",
+    "PlayedAt": "OlympiaStadion",
     "season": "1978-1979",
     "wedstrijd": "Wacker Innsbruck - AZ",
     "uitslag": "1-1",
@@ -15374,7 +15374,7 @@
   {
     "DatePlayed": "2001-03-04 00:00:00.000000",
     "competitie": "KPN Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2000-2001",
     "wedstrijd": "NEC - AZ",
     "uitslag": "1-1",
@@ -15410,7 +15410,7 @@
   {
     "DatePlayed": "1997-05-04 00:00:00.000000",
     "competitie": "PTT Telecompetitie",
-    "PlayedAt": "Veronicastadion",
+    "PlayedAt": "VeronicaStadion",
     "season": "1996-1997",
     "wedstrijd": "FC Volendam - AZ",
     "uitslag": "2-2",
@@ -15518,7 +15518,7 @@
   {
     "DatePlayed": "2010-11-04 19:00:00.000000",
     "competitie": "Europa League",
-    "PlayedAt": "Valeri Lobanovskystadion",
+    "PlayedAt": "Valeri LobanovskyStadion",
     "season": "2010-2011",
     "wedstrijd": "Dynamo Kiev - AZ",
     "uitslag": "2-0",
@@ -15914,7 +15914,7 @@
   {
     "DatePlayed": "1994-03-05 00:00:00.000000",
     "competitie": "Eerste divisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1993-1994",
     "wedstrijd": "NEC - AZ",
     "uitslag": "2-1",
@@ -15998,7 +15998,7 @@
   {
     "DatePlayed": "1996-05-05 14:30:00.000000",
     "competitie": "Eerste divisie",
-    "PlayedAt": "Cambuurstadion",
+    "PlayedAt": "CambuurStadion",
     "season": "1995-1996",
     "wedstrijd": "Cambuur - AZ",
     "uitslag": "1-3",
@@ -16046,7 +16046,7 @@
   {
     "DatePlayed": "1972-11-05 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1972-1973",
     "wedstrijd": "NEC - AZ",
     "uitslag": "3-2",
@@ -16082,7 +16082,7 @@
   {
     "DatePlayed": "2000-11-05 00:00:00.000000",
     "competitie": "KPN Eredivisie",
-    "PlayedAt": "Oosterparkstadion",
+    "PlayedAt": "OosterparkStadion",
     "season": "2000-2001",
     "wedstrijd": "FC Groningen - AZ",
     "uitslag": "1-2",
@@ -16238,7 +16238,7 @@
   {
     "DatePlayed": "1982-04-06 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "1981-1982",
     "wedstrijd": "NEC - AZ",
     "uitslag": "0-3",
@@ -16310,7 +16310,7 @@
   {
     "DatePlayed": "2014-04-06 16:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Parkstad Limburg stadion",
+    "PlayedAt": "Parkstad Limburg Stadion",
     "season": "2013-2014",
     "wedstrijd": "Roda JC - AZ",
     "uitslag": "2-2",
@@ -16322,7 +16322,7 @@
   {
     "DatePlayed": "1978-08-06 00:00:00.000000",
     "competitie": "Vriendschappelijk",
-    "PlayedAt": "Olympiastadion",
+    "PlayedAt": "OlympiaStadion",
     "season": "1978-1979",
     "wedstrijd": "Ipswich Town - AZ",
     "uitslag": "0-2",
@@ -16430,7 +16430,7 @@
   {
     "DatePlayed": "1977-02-06 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Diekman stadion",
+    "PlayedAt": "Diekman Stadion",
     "season": "1976-1977",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "0-2",
@@ -16454,7 +16454,7 @@
   {
     "DatePlayed": "1999-02-06 00:00:00.000000",
     "competitie": "KPN Telecompetitie",
-    "PlayedAt": "Arke stadion",
+    "PlayedAt": "Arke Stadion",
     "season": "1998-1999",
     "wedstrijd": "FC Twente - AZ",
     "uitslag": "0-3",
@@ -16622,7 +16622,7 @@
   {
     "DatePlayed": "2022-03-06 16:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2021-2022",
     "wedstrijd": "NEC - AZ",
     "uitslag": "1-3",
@@ -16922,7 +16922,7 @@
   {
     "DatePlayed": "2013-04-07 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2012-2013",
     "wedstrijd": "NEC - AZ",
     "uitslag": "1-1",
@@ -17306,7 +17306,7 @@
   {
     "DatePlayed": "2017-05-07 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2016-2017",
     "wedstrijd": "NEC - AZ",
     "uitslag": "2-1",
@@ -17330,7 +17330,7 @@
   {
     "DatePlayed": "1981-11-07 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Oosterenkstadion",
+    "PlayedAt": "OosterenkStadion",
     "season": "1981-1982",
     "wedstrijd": "PEC Zwolle - AZ",
     "uitslag": "0-0",
@@ -17342,7 +17342,7 @@
   {
     "DatePlayed": "1981-11-07 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Oosterenkstadion",
+    "PlayedAt": "OosterenkStadion",
     "season": "1981-1982",
     "wedstrijd": "PEC Zwolle - AZ",
     "uitslag": "0-0",
@@ -17474,7 +17474,7 @@
   {
     "DatePlayed": "1985-04-08 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Oosterenkstadion",
+    "PlayedAt": "OosterenkStadion",
     "season": "1984-1985",
     "wedstrijd": "PEC Zwolle - AZ",
     "uitslag": "3-3",
@@ -17486,7 +17486,7 @@
   {
     "DatePlayed": "1995-04-08 00:00:00.000000",
     "competitie": "Eerste divisie",
-    "PlayedAt": "TOP Oss-stadion",
+    "PlayedAt": "TOP Oss-Stadion",
     "season": "1994-1995",
     "wedstrijd": "TOP Oss - AZ",
     "uitslag": "0-2",
@@ -17510,7 +17510,7 @@
   {
     "DatePlayed": "2007-04-08 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Rat Verlegh stadion",
+    "PlayedAt": "Rat Verlegh Stadion",
     "season": "2006-2007",
     "wedstrijd": "NAC - AZ",
     "uitslag": "1-4",
@@ -17558,7 +17558,7 @@
   {
     "DatePlayed": "2010-08-08 16:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Rat Verlegh stadion",
+    "PlayedAt": "Rat Verlegh Stadion",
     "season": "2010-2011",
     "wedstrijd": "NAC - AZ",
     "uitslag": "1-1",
@@ -17594,7 +17594,7 @@
   {
     "DatePlayed": "1979-12-08 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Oosterenkstadion",
+    "PlayedAt": "OosterenkStadion",
     "season": "1979-1980",
     "wedstrijd": "PEC Zwolle - AZ",
     "uitslag": "1-1",
@@ -17606,7 +17606,7 @@
   {
     "DatePlayed": "1985-12-08 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1985-1986",
     "wedstrijd": "Haarlem - AZ",
     "uitslag": "2-3",
@@ -17726,7 +17726,7 @@
   {
     "DatePlayed": "1987-06-08 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Oosterenkstadion",
+    "PlayedAt": "OosterenkStadion",
     "season": "1986-1987",
     "wedstrijd": "PEC Zwolle - AZ",
     "uitslag": "3-1",
@@ -17762,7 +17762,7 @@
   {
     "DatePlayed": "2009-03-08 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Goffertstadion",
+    "PlayedAt": "GoffertStadion",
     "season": "2008-2009",
     "wedstrijd": "NEC - AZ",
     "uitslag": "0-1",
@@ -17942,7 +17942,7 @@
   {
     "DatePlayed": "2014-11-08 20:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Rat Verlegh stadion",
+    "PlayedAt": "Rat Verlegh Stadion",
     "season": "2014-2015",
     "wedstrijd": "NAC - AZ",
     "uitslag": "0-1",
@@ -17990,7 +17990,7 @@
   {
     "DatePlayed": "1995-10-08 00:00:00.000000",
     "competitie": "Eerste divisie",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1995-1996",
     "wedstrijd": "Haarlem - AZ",
     "uitslag": "0-1",
@@ -18146,7 +18146,7 @@
   {
     "DatePlayed": "2014-08-09 20:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Polman stadion",
+    "PlayedAt": "Polman Stadion",
     "season": "2014-2015",
     "wedstrijd": "Heracles - AZ",
     "uitslag": "0-3",
@@ -18494,7 +18494,7 @@
   {
     "DatePlayed": "1973-09-09 00:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Haarlemstadion",
+    "PlayedAt": "HaarlemStadion",
     "season": "1973-1974",
     "wedstrijd": "Haarlem - AZ",
     "uitslag": "1-1",
