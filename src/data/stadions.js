@@ -103,6 +103,8 @@ export const STADION_LOCATIES = {
   'Juliana park': { lat: 52.637979935217736,  lon: 5.071205423743437, stad: 'Hoorn', land: 'Nederland', thuis: false },  
   'Sportpark Floreslaan': { lat: 51.91618394033483,  lon: 4.327526762583584 , stad: 'Vlaardingen', land: 'Nederland', thuis: false },  
   'Amsterdamsestraatweg': { lat: 52.1206413124364,   lon: 5.067567203708239 , stad: 'Utrecht', land: 'Nederland', thuis: false },  
+  'De Krommedijk': { lat: 51.802084009339154,  lon: 4.68974016474787 , stad: 'Dordrecht', land: 'Nederland', thuis: false },  
+  'Sportpark Noord': { lat: 52.967824644222354, lon: 5.914946471506936, stad: 'Heerenveen', land: 'Nederland', thuis: false },
   
   // === Europa ===
   'The Emirates': {lat: 51.55567036052208, lon: -0.10837171035102276, stad: 'Londen', land: 'Engeland', thuis: false},
