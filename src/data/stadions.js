@@ -112,6 +112,7 @@ export const STADION_LOCATIES = {
   'Tallaght Stadium': { lat: 53.28363782936083, lon: -6.373275646951688, stad: 'Dublin', land: 'Ierland', thuis: false },  
   'Markets Field': { lat: 52.660509291119055,  lon: -8.61439937589632, stad: 'Limerick', land: 'Ierland', thuis: false },  
   'St. James\' Park': { lat: 54.97563630840682, lon: -1.6212421752657955, stad: 'Newcastle', land: 'Engeland', thuis: false },  
+  'St Mary\'s': { lat: 50.905939117391306,  lon: -1.3896951066536951, stad: 'Southampton', land: 'Engeland', thuis: false },  
   'Bet365 Stadium': { lat: 52.988211879646705,  lon: -2.176715359032633, stad: 'Stoke', land: 'Engeland', thuis: false },  
   'Carrow Road': { lat:  52.62220541452266,  lon: 1.3096324175480483, stad: 'Norwich', land: 'Engeland', thuis: false },  
 
@@ -123,6 +124,7 @@ export const STADION_LOCATIES = {
   'San Mames': { lat: 43.26420502947473,  lon: -2.949399102138141, stad: 'Bilbao', land: 'Spanje', thuis: false },
   'Estadio Mestalla': { lat: 39.47478807790704,  lon: -0.3581503205753379, stad: 'Valencia', land: 'Spanje', thuis: false },
   'El Madrigal': { lat: 39.94407488468977,  lon: -0.10311665985239402, stad: 'Villareal', land: 'Spanje', thuis: false },
+  'El Molinón': { lat: 43.536398348150584,  lon: -5.637087737624231, stad: 'Gijon', land: 'Spanje', thuis: false },
 
   'San Siro': { lat: 45.4781, lon: 9.1239, stad: 'Milaan', land: 'Italië', thuis: false },
   'Allianz Arena': { lat: 48.2188, lon: 11.6247, stad: 'München', land: 'Duitsland', thuis: false },
@@ -138,6 +140,7 @@ export const STADION_LOCATIES = {
   'Koning Boudewijn stadion': { lat: 50.895804204185694, lon: 4.3345399541807454, stad: 'Brussel', land: 'België', thuis: false },
   'Stade Maurice Dufrasne': { lat: 50.61005192415372,  lon: 5.543314598877741, stad: 'Brussel', land: 'België', thuis: false },
   'Daknam': { lat: 51.116324123906715, lon: 3.9871186185537333, stad: 'Lokeren', land: 'België', thuis: false },
+  'Olympiastadion': { lat: 51.193333903673334, lon: 3.1807456584207294, stad: 'Brugge', land: 'België', thuis: false },
   'Stade du Thillenberg': { lat: 49.5221823236179,  lon: 5.87756713875592, stad: 'Differdange', land: 'Luxemburg', thuis: false },
 
   'Estádio da Luz': { lat: 38.7528, lon: -9.1847, stad: 'Lissabon', land: 'Portugal', thuis: false },
@@ -165,7 +168,7 @@ export const STADION_LOCATIES = {
   'Valeri Lobanovskystadion': { lat: 50.45047159614523, lon: 30.534982783759983, stad: 'Kiev', land: 'Oekraine', thuis: false },
   'Meteor Stadium': { lat: 48.43579302718206,  lon: 35.00584273410999, stad: 'Dnjepropetrosvk', land: 'Oekraine', thuis: false },
   'RSC Olympisky': { lat: 48.019380863154, lon: 37.80365769877282, stad: 'Donetsk', land: 'Oekraine', thuis: false },
-  
+  'Metaliststadion': { lat: 49.980961142892966,  lon: 36.26131665307651, stad: 'Charkov', land: 'Oekraine', thuis: false },
   'Stadion Chornomorets': { lat: 46.48040426229318, lon: 30.756009981523167, stad: 'Odessa', land: 'Oekraine', thuis: false },
   'Astana Arena': { lat: 51.10829091340277, lon: 71.40292730500057, stad: 'Astana', land: 'Kazachstan', thuis: false },
   'Almaty Ortalyk': { lat: 43.23846734415905,  lon: 76.92469273907328, stad: 'Almaty', land: 'Kazachstan', thuis: false },
@@ -189,6 +192,7 @@ export const STADION_LOCATIES = {
   'Lokomotivstadion': { lat: 55.803647304953046, lon: 37.74156061528147, stad: 'Moskou', land: 'Rusland', thuis: false },
   'Toumba': { lat: 40.6142136813782, lon: 22.97255525801901, stad: 'Thessaloniki', land: 'Griekenland', thuis: false },
   'Georgios Karaiskákis Stadion': { lat: 37.94656104159239,  lon: 23.663944986035716, stad: 'Athene', land: 'Griekenland', thuis: false },
+  'Peristeri Stadium': { lat: 38.00533453782236,  lon: 23.690347879611682, stad: 'Athene', land: 'Griekenland', thuis: false },
   'Amica Wronki-Stadion': { lat: 52.71851593807543,  lon: 16.374779756603132, stad: 'Wronki', land: 'Polen', thuis: false },
 
   'Maccabi Haifa-Stadion': { lat: 32.78346741969013,  lon: 34.965439719703646, stad: 'Haifa', land: 'Israel', thuis: false },
