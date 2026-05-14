@@ -171,6 +171,7 @@ export const STADION_LOCATIES = {
   'Nogometno igralište Rujevica': { lat: 45.34801783414922, lon:  14.40217496244275, stad: 'Rijeka', land: 'Kroatië', thuis: false },
   'Stadio San Paolo': { lat: 40.82802560607358, lon: 14.193079326563417, stad: 'Napels', land: 'Italië', thuis: false },
   'Olimpiyskiy Stadium': { lat: 50.43373724508529, lon: 30.52234430866846, stad: 'Kiev', land: 'Oekraine', thuis: false },
+  'NSK Olimpijs\'kyj': { lat: 50.43373724508529, lon: 30.52234430866846, stad: 'Kiev', land: 'Oekraine', thuis: false },
   'Valeri Lobanovskystadion': { lat: 50.45047159614523, lon: 30.534982783759983, stad: 'Kiev', land: 'Oekraine', thuis: false },
   'Meteor Stadium': { lat: 48.43579302718206,  lon: 35.00584273410999, stad: 'Dnjepropetrosvk', land: 'Oekraine', thuis: false },
   'RSC Olympisky': { lat: 48.019380863154, lon: 37.80365769877282, stad: 'Donetsk', land: 'Oekraine', thuis: false },
