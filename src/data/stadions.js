@@ -106,7 +106,7 @@ export const STADION_LOCATIES = {
   'Wageningse berg': { lat: 51.967732059474095,  lon: 5.697941624083985, stad: 'Wageningen', land: 'Nederland', thuis: false },
   'RKC Waalwijk Stadion': { lat: 51.6781, lon: 5.0067, stad: 'Waalwijk', land: 'Nederland', thuis: false },
   'VVV Venlo Stadion': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },  
-  'Juliana park' { lat: 52.637979935217736,  lon: 5.071205423743437, stad: 'Hoorn', land: 'Nederland', thuis: false },  
+  'Juliana park': { lat: 52.637979935217736,  lon: 5.071205423743437, stad: 'Hoorn', land: 'Nederland', thuis: false },  
 
   // === Europa ===
   'The Emirates': {lat: 51.55567036052208, lon: -0.10837171035102276, stad: 'Londen', land: 'Engeland', thuis: false},
