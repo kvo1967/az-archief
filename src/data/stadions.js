@@ -22,7 +22,7 @@ export const STADION_LOCATIES = {
   Haarlemstadion: { lat: 52.3839, lon: 4.6300, stad: 'Haarlem', land: 'Nederland', thuis: false },
   Arena: { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
   'Johan Cruijff ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
-  Galgenwaard: { lat: 52.0723, lon: 5.1461, stad: 'Utrecht', land: 'Nederland', thuis: false },
+  'Galgenwaard': { lat: 52.0723, lon: 5.1461, stad: 'Utrecht', land: 'Nederland', thuis: false },
   'Abe Lenstra Stadion': { lat: 52.95825638055401, lon: 5.937217879939326, stad: 'Heerenveen', land: 'Nederland', thuis: false },
   'De Baandert': { lat: 51.005356759679884, lon: 5.879320954356344, stad: 'Heerenveen', land: 'Nederland', thuis: false },
   
@@ -84,7 +84,6 @@ export const STADION_LOCATIES = {
   'Seacon Stadion De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
   'Het Kasteel': { lat: 51.92003886731594,  lon: 4.432595014764778, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'Sparta-stadion Het Kasteel': { lat: 51.92003886731594,  lon: 4.432595014764778, stad: 'Rotterdam', land: 'Nederland', thuis: false },
-  'Stadion Galgenwaard': { lat: 52.0723, lon: 5.1461, stad: 'Utrecht', land: 'Nederland', thuis: false },
   'Stadion Feijenoord': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'Amsterdam ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
   'Johan Cruyff ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
@@ -102,7 +101,9 @@ export const STADION_LOCATIES = {
   'RKC Waalwijk Stadion': { lat: 51.6781, lon: 5.0067, stad: 'Waalwijk', land: 'Nederland', thuis: false },
   'VVV Venlo Stadion': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },  
   'Juliana park': { lat: 52.637979935217736,  lon: 5.071205423743437, stad: 'Hoorn', land: 'Nederland', thuis: false },  
-
+  'Sportpark Floreslaan': { lat: 51.91618394033483,  lon: 4.327526762583584 , stad: 'Vlaardingen', land: 'Nederland', thuis: false },  
+  'Amsterdamsestraatweg': { lat: 52.1206413124364,   lon: 5.067567203708239 , stad: 'Utrecht', land: 'Nederland', thuis: false },  
+  
   // === Europa ===
   'The Emirates': {lat: 51.55567036052208, lon: -0.10837171035102276, stad: 'Londen', land: 'Engeland', thuis: false},
   'Tottenham Hotspur Stadium': {lat: 51.60432598234831, lon: -0.06588777168690732, stad: 'Londen', land: 'Engeland', thuis: false},  
