@@ -3002,7 +3002,7 @@
   {
     "DatePlayed": "2003-12-14 12:30:00.000000",
     "competitie": "Holland Casino Eredivisie",
-    "PlayedAt": "Kras-Stadion",
+    "PlayedAt": "Kras Stadion",
     "season": "2003-2004",
     "wedstrijd": "FC Volendam - AZ",
     "uitslag": "0-6",
@@ -5169,18 +5169,6 @@
     "thuis-uit": "uit",
     "MatchProgramme": "1",
     "competitiontype": "Vriendschappelijk",
-    "webp_file": "18-aug-1978 AZ-Anderlecht - Copy.webp"
-  },
-  {
-    "DatePlayed": "1978-08-18 00:00:00.000000",
-    "competitie": "Vriendschappelijk",
-    "PlayedAt": "Olympisch Stadion",
-    "season": "1978-1979",
-    "wedstrijd": "Anderlecht - AZ",
-    "uitslag": "2-2",
-    "thuis-uit": "uit",
-    "MatchProgramme": "1",
-    "competitiontype": "Vriendschappelijk",
     "webp_file": "18-aug-1978 AZ-Anderlecht.webp"
   },
   {
@@ -5366,7 +5354,7 @@
   {
     "DatePlayed": "2009-01-18 14:30:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Kras-Stadion",
+    "PlayedAt": "Kras Stadion",
     "season": "2008-2009",
     "wedstrijd": "FC Volendam - AZ",
     "uitslag": "0-2",
@@ -6854,7 +6842,7 @@
   {
     "DatePlayed": "2024-11-02 21:00:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Stadion Feijenoord",
+    "PlayedAt": "De Kuip",
     "season": "2024-2025",
     "wedstrijd": "Feyenoord - AZ",
     "uitslag": "3-2",
@@ -9962,7 +9950,7 @@
   {
     "DatePlayed": "2021-01-24 16:45:00.000000",
     "competitie": "Eredivisie",
-    "PlayedAt": "Stadion Feijenoord",
+    "PlayedAt": "De Kuip",
     "season": "2020-2021",
     "wedstrijd": "Feyenoord - AZ",
     "uitslag": "2-3",
