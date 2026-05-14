@@ -57,6 +57,7 @@ export const STADION_LOCATIES = {
   'De Vliert': { lat: 51.70143959370489,  lon: 5.329461777711131, stad: 'Den Bosch', land: 'Nederland', thuis: false },  
   'Gemeentelijk Sportpark Tilburg': { lat: 51.54272414728605, lon: 5.066983665373731, stad: 'Tilburg', land: 'Nederland', thuis: false },  
   'Koning Willem II Stadion': { lat: 51.54272414728605, lon: 5.066983665373731, stad: 'Tilburg', land: 'Nederland', thuis: false },  
+  'Yanmar Stadion': { lat: 52.39424915382789,  lon: 5.240576617110169, stad: 'Almere', land: 'Nederland', thuis: false },  
 
   'De Langeleegte': { lat: 53.10827492442445,  lon: 6.86574528364161, stad: 'Veendam', land: 'Nederland', thuis: false },  
   'Aalsterweg': { lat: 51.41178185603767,  lon: 5.479046071161163, stad: 'Eindhoven', land: 'Nederland', thuis: false },  
