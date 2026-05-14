@@ -32,9 +32,9 @@ export const STADION_LOCATIES = {
   'De Adelaarshorst': { lat: 52.2553, lon: 6.1875, stad: 'Deventer', land: 'Nederland', thuis: false },
   Zuiderpark: { lat: 52.0461, lon: 4.2833, stad: 'Den Haag', land: 'Nederland', thuis: false },
   Woudestein: { lat: 51.9131, lon: 4.5238, stad: 'Rotterdam', land: 'Nederland', thuis: false },
-  'De Goffert': { lat: 51.82249521286397,  lon: 5.837579820956522, stad: 'Nijmegen', land: 'Nederland', thuis: false },
   'Goffertstadion': { lat: 51.82249521286397,  lon: 5.837579820956522, stad: 'Nijmegen', land: 'Nederland', thuis: false },
   'McDOS Goffertstadion': { lat: 51.82249521286397,  lon: 5.837579820956522, stad: 'Nijmegen', land: 'Nederland', thuis: false },
+  'Nieuw Monnikenhuize': { lat: 51.99508107255017,  lon: 5.9327317672947935, stad: 'Arnhem', land: 'Nederland', thuis: false },
 
   'De Vijverberg': { lat: 51.9642, lon: 6.2939, stad: 'Doetinchem', land: 'Nederland', thuis: false },
   'Sportpark Schoonenberg': { lat: 52.5022, lon: 4.6350, stad: 'IJmuiden', land: 'Nederland', thuis: false },
