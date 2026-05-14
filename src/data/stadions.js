@@ -197,7 +197,7 @@ export const STADION_LOCATIES = {
   'Friedensstadion, Halberstadt': { lat: 51.87614967866176, lon: 11.05026267804528, stad: 'Halberstad', land: 'Duitsland', thuis: false },
 
   'Partizan stadion': { lat: 44.788678412691375, lon: 20.459107440820812, stad: 'Belgrado', land: 'Servië', thuis: false },
-  'Lokomotivstadion': { lat: 55.803647304953046, lon: 37.74156061528147, stad: 'Moskou', land: 'Rusland', thuis: false },
+  'Lokomotiv stadion': { lat: 55.803647304953046, lon: 37.74156061528147, stad: 'Moskou', land: 'Rusland', thuis: false },
   'Toumba': { lat: 40.6142136813782, lon: 22.97255525801901, stad: 'Thessaloniki', land: 'Griekenland', thuis: false },
   'Georgios Karaiskákis Stadion': { lat: 37.94656104159239,  lon: 23.663944986035716, stad: 'Athene', land: 'Griekenland', thuis: false },
   'Peristeri Stadium': { lat: 38.00533453782236,  lon: 23.690347879611682, stad: 'Athene', land: 'Griekenland', thuis: false },
