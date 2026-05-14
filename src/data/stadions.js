@@ -10,8 +10,8 @@ export const STADION_LOCATIES = {
   'AZ Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'DSB Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'Dirk Scheringa Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
-  'Gemeentelijk Sportpark': { lat: 52.62142328819264,  lon: 4.731151684146504, stad: 'Alkmaar', land: 'Nederland', thuis: true },
-
+  'Gemeentelijk Sportpark': { lat: 52.638962376129214, lon: 4.719368149968201, stad: 'Alkmaar', land: 'Nederland', thuis: true },
+  'Gemeentelijk Sportpark Alkmaar': { lat: 52.62142328819264,  lon: 4.731151684146504, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   // === Eredivisie tegenstanders (uit) ===
   'De Kuip': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'de kuip': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
@@ -86,8 +86,6 @@ export const STADION_LOCATIES = {
   'Sparta-stadion Het Kasteel': { lat: 51.92003886731594,  lon: 4.432595014764778, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'Stadion Galgenwaard': { lat: 52.0723, lon: 5.1461, stad: 'Utrecht', land: 'Nederland', thuis: false },
   'Stadion Feijenoord': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
-  'AFAS-stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
-  'AFAS Stadion Alkmaar': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'Amsterdam ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
   'Johan Cruyff ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
   'Feijenoord Stadion': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
