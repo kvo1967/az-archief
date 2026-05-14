@@ -6,11 +6,8 @@
 export const STADION_LOCATIES = {
   // === Thuis ===
   Alkmaarderhout: { lat: 52.6324, lon: 4.7534, stad: 'Alkmaar', land: 'Nederland', thuis: true },
-  'Afas Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
-  'Afas stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'AFAS Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'AZ Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
-  'DSB-Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'DSB Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'Dirk Scheringa Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'Gemeentelijk Sportpark': { lat: 52.62142328819264,  lon: 4.731151684146504, stad: 'Alkmaar', land: 'Nederland', thuis: true },
