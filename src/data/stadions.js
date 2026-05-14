@@ -62,6 +62,7 @@ export const STADION_LOCATIES = {
   'Car Jeans stadion': { lat: 52.06287009808528,  lon: 4.382951993797989, stad: 'Den Haag', land: 'Nederland', thuis: false },  
   'Kyocera stadion': { lat: 52.06287009808528,  lon: 4.382951993797989, stad: 'Den Haag', land: 'Nederland', thuis: false },  
   'Zuiderpark': { lat:  52.05652630629009, lon: 4.2910592219287365 , stad: 'Den Haag', land: 'Nederland', thuis: false },  
+  'De Oude Meerdijk': { lat: 52.77478391873702,  lon:  6.945562960335594, stad: 'Emmen', land: 'Nederland', thuis: false },    
 
   'De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
   'Seacon Stadion De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
