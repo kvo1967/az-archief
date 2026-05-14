@@ -85,6 +85,7 @@ export const Stadion_LOCATIES = {
   'De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
   'Seacon Stadion De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
   'De Kraal': { lat: 51.34929758727152,  lon: 6.183920538272955, stad: 'Venlo', land: 'Nederland', thuis: false },
+  'Sportpark Olympia': { lat: 51.686707653580605,  lon: 5.089463806593478, stad: 'Waalwijk', land: 'Nederland', thuis: false },
 
   'Het Kasteel': { lat: 51.92003886731594,  lon: 4.432595014764778, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'Sparta-Stadion Het Kasteel': { lat: 51.92003886731594,  lon: 4.432595014764778, stad: 'Rotterdam', land: 'Nederland', thuis: false },
