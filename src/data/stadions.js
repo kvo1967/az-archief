@@ -13,7 +13,8 @@ export const STADION_LOCATIES = {
   'DSB-Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'DSB Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'Dirk Scheringa Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
-  
+  'Gemeentelijk Sportpark': { lat: 52.62142328819264,  lon: 4.731151684146504, stad: 'Alkmaar', land: 'Nederland', thuis: true },
+
   // === Eredivisie tegenstanders (uit) ===
   'De Kuip': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'de kuip': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
@@ -26,6 +27,7 @@ export const STADION_LOCATIES = {
   'Johan Cruijff ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
   Galgenwaard: { lat: 52.0723, lon: 5.1461, stad: 'Utrecht', land: 'Nederland', thuis: false },
   'Abe Lenstra Stadion': { lat: 52.95825638055401, lon: 5.937217879939326, stad: 'Heerenveen', land: 'Nederland', thuis: false },
+  'De Baandert': { lat: 51.005356759679884, lon: 5.879320954356344, stad: 'Heerenveen', land: 'Nederland', thuis: false },
   
   'De Adelaarshorst': { lat: 52.2553, lon: 6.1875, stad: 'Deventer', land: 'Nederland', thuis: false },
   Zuiderpark: { lat: 52.0461, lon: 4.2833, stad: 'Den Haag', land: 'Nederland', thuis: false },
@@ -50,9 +52,12 @@ export const STADION_LOCATIES = {
   'MAC³PARK Stadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
   'IJsseldeltastadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
   'Diekman stadion': { lat: 52.206462140836145,  lon: 6.902507924912151, stad: 'Enschede', land: 'Nederland', thuis: false },  
+  'Arke stadion': { lat: 52.206462140836145,  lon: 6.902507924912151, stad: 'Enschede', land: 'Nederland', thuis: false },  
   'De Geusselt': { lat: 50.85752238946334, lon: 5.718185645213262, stad: 'Maastricht', land: 'Nederland', thuis: false },  
   'De Vliert': { lat: 51.70143959370489,  lon: 5.329461777711131, stad: 'Den Bosch', land: 'Nederland', thuis: false },  
   'Gemeentelijk Sportpark Tilburg': { lat: 51.54272414728605, lon: 5.066983665373731, stad: 'Tilburg', land: 'Nederland', thuis: false },  
+  'De Langeleegte': { lat: 53.10827492442445,  lon: 6.86574528364161, stad: 'Veendam', land: 'Nederland', thuis: false },  
+
   'Fujifilm Stadion': { lat: 51.5948895499278, lon: 4.750881050677719 , stad: 'Breda', land: 'Nederland', thuis: false },  
   'Rat Verlegh stadion': { lat: 51.5948895499278, lon: 4.750881050677719 , stad: 'Breda', land: 'Nederland', thuis: false },  
   'Beatrixstraat': { lat: 51.58253353867273,  lon: 4.767495657558651, stad: 'Breda', land: 'Nederland', thuis: false },  
