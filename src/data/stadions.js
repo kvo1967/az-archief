@@ -11,6 +11,7 @@ export const STADION_LOCATIES = {
   'AFAS Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'AZ Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'DSB-Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
+  'DSB Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
 
   // === Eredivisie tegenstanders (uit) ===
   'De Kuip': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
@@ -45,6 +46,7 @@ export const STADION_LOCATIES = {
   'Oosterenk-Stadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
   'Oosterenkstadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
   'MAC3PARK Stadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
+  'MAC³PARK Stadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
   'IJsseldeltastadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
   'Diekman stadion': { lat: 52.206462140836145,  lon: 6.902507924912151, stad: 'Enschede', land: 'Nederland', thuis: false },  
   'De Geusselt': { lat: 50.85752238946334, lon: 5.718185645213262, stad: 'Maastricht', land: 'Nederland', thuis: false },  
@@ -84,8 +86,7 @@ export const STADION_LOCATIES = {
   'SC Heerenveen Stadion': { lat: 52.9728, lon: 6.0917, stad: 'Heerenveen', land: 'Nederland', thuis: false },
   'Go Ahead Eagles Stadion': { lat: 52.2553, lon: 6.1875, stad: 'Deventer', land: 'Nederland', thuis: false },
   'Vitesse Stadion': { lat: 51.9886, lon: 5.8889, stad: 'Arnhem', land: 'Nederland', thuis: false },
-  'Sparta Rotterdam Stadion': { lat: 51.8773, lon: 4.4280, stad: 'Rotterdam', land: 'Nederland', thuis: false },
-  'FC Volendam Stadion': { lat: 52.4378, lon: 4.6597, stad: 'Volendam', land: 'Nederland', thuis: false },
+
   'RKC Waalwijk Stadion': { lat: 51.6781, lon: 5.0067, stad: 'Waalwijk', land: 'Nederland', thuis: false },
   'VVV Venlo Stadion': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },  
 
