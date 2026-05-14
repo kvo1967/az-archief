@@ -12,7 +12,8 @@ export const STADION_LOCATIES = {
   'AZ Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'DSB-Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'DSB Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
-
+  'Dirk Scheringa Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
+  
   // === Eredivisie tegenstanders (uit) ===
   'De Kuip': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'de kuip': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
@@ -63,6 +64,7 @@ export const STADION_LOCATIES = {
   'Haarlemstadion': { lat: 52.410451273228375,  lon: 4.648784831363039, stad: 'Haarlem', land: 'Nederland', thuis: false },  
   'Car Jeans stadion': { lat: 52.06287009808528,  lon: 4.382951993797989, stad: 'Den Haag', land: 'Nederland', thuis: false },  
   'Kyocera stadion': { lat: 52.06287009808528,  lon: 4.382951993797989, stad: 'Den Haag', land: 'Nederland', thuis: false },  
+  'ADO Den Haag-stadion': { lat: 52.06287009808528,  lon: 4.382951993797989, stad: 'Den Haag', land: 'Nederland', thuis: false },  
   'Zuiderpark': { lat:  52.05652630629009, lon: 4.2910592219287365 , stad: 'Den Haag', land: 'Nederland', thuis: false },  
   'De Oude Meerdijk': { lat: 52.77478391873702,  lon:  6.945562960335594, stad: 'Emmen', land: 'Nederland', thuis: false },    
 
@@ -105,6 +107,8 @@ export const STADION_LOCATIES = {
   'Tallaght Stadium': { lat: 53.28363782936083, lon: -6.373275646951688, stad: 'Dublin', land: 'Ierland', thuis: false },  
   'Markets Field': { lat: 52.660509291119055,  lon: -8.61439937589632, stad: 'Limerick', land: 'Ierland', thuis: false },  
   'St. James\' Park': { lat: 54.97563630840682, lon: -1.6212421752657955, stad: 'Newcastle', land: 'Engeland', thuis: false },  
+  'Bet365 Stadium': { lat: 52.988211879646705,  lon: -2.176715359032633, stad: 'Stoke', land: 'Engeland', thuis: false },  
+  'Carrow Road': { lat:  52.62220541452266,  lon: 1.3096324175480483, stad: 'Norwich', land: 'Engeland', thuis: false },  
 
   'Stadio Olimpico': { lat: 41.9341, lon: 12.4547, stad: 'Rome', land: 'Italië', thuis: false },
   'Aspmyra Stadion': { lat: 67.2840, lon: 14.4172, stad: 'Bodø', land: 'Noorwegen', thuis: false },
@@ -186,6 +190,7 @@ export const STADION_LOCATIES = {
   'Swedbankstadion': { lat: 55.58394886077615, lon: 12.98767167999051, stad: 'Malmo', land: 'Zweden', thuis: false },
   'Gamla Ullevi': { lat: 57.7063706814703, lon: 11.980583608986013, stad: 'Goteborg', land: 'Zweden', thuis: false },
   'Kristiansand Stadion': { lat: 58.14776409823935,  lon: 8.022104285260593, stad: 'Kristiansand', land: 'Noorwegen', thuis: false },
+  'Color Linestadion': { lat: 62.47018822294344, lon:  6.18791355708424, stad: 'Alesund', land: 'Noorwegen', thuis: false },
 
   'Sheriffstadion': { lat: 46.83839388408002,  lon: 29.55826822049119, stad: 'Tiraspol', land: 'Moldavië', thuis: false },
 
