@@ -81,7 +81,6 @@ export const Stadion_LOCATIES = {
   'De Oude Meerdijk': { lat: 52.77478391873702,  lon:  6.945562960335594, stad: 'Emmen', land: 'Nederland', thuis: false },    
   'Kaalheide': { lat: 50.86093318407304,  lon: 6.038579464866663, stad: 'Kerkrade', land: 'Nederland', thuis: false },    
   'Parkstad Limburg Stadion': { lat: 50.85716482467264,   lon: 6.0062351068380275, stad: 'Kerkrade', land: 'Nederland', thuis: false },    
-
   
   'De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
   'Seacon Stadion De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
@@ -121,6 +120,7 @@ export const Stadion_LOCATIES = {
   'Sportpark De Westmaat': { lat: 52.257454583101946,  lon: 5.377291817792782, stad: 'Spakenburg', land: 'Nederland', thuis: false }, 
   'Sportpark Elzenhagen': { lat: 52.40052602972373,   lon: 4.924657099509012, stad: 'Amsterdam', land: 'Nederland', thuis: false }, 
   'Sportpark Panhuis': { lat: 52.02882419476781, lon: 5.539026600785077, stad: 'Veenendaal', land: 'Nederland', thuis: false }, 
+  'vv Hoogeveen': { lat: 52.72322294358215,  lon: 6.496370764587624, stad: 'Hoogeveen', land: 'Nederland', thuis: false }, 
   
   // === Europa ===
   'The Emirates': {lat: 51.55567036052208, lon: -0.10837171035102276, stad: 'Londen', land: 'Engeland', thuis: false},
