@@ -5,7 +5,7 @@
 
 export const STADION_LOCATIES = {
   // === Thuis ===
-  Alkmaarderhout: { lat: 52.6324, lon: 4.7534, stad: 'Alkmaar', land: 'Nederland', thuis: true },
+  'Alkmaarderhout': { lat: 52.62381432629072, lon: 4.733503202959166, stad: 'Alkmaar', land: 'Nederland', thuis: true },   
   'AFAS Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'AZ Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
   'DSB Stadion': { lat: 52.6128, lon: 4.7437, stad: 'Alkmaar', land: 'Nederland', thuis: true },
