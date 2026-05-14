@@ -25,7 +25,8 @@ export const Stadion_LOCATIES = {
   'Galgenwaard': { lat: 52.0723, lon: 5.1461, stad: 'Utrecht', land: 'Nederland', thuis: false },
   'Abe Lenstra Stadion': { lat: 52.95825638055401, lon: 5.937217879939326, stad: 'Heerenveen', land: 'Nederland', thuis: false },
   'De Baandert': { lat: 51.005356759679884, lon: 5.879320954356344, stad: 'Heerenveen', land: 'Nederland', thuis: false },
-  
+  'TOP Oss-stadion': { lat: 51.75485951199637,  lon: 5.528148387279695, stad: 'Oss', land: 'Nederland', thuis: false },
+
   'De Adelaarshorst': { lat: 52.2553, lon: 6.1875, stad: 'Deventer', land: 'Nederland', thuis: false },
   'Zuiderpark': { lat: 52.0461, lon: 4.2833, stad: 'Den Haag', land: 'Nederland', thuis: false },
   'Woudestein': { lat: 51.9131, lon: 4.5238, stad: 'Rotterdam', land: 'Nederland', thuis: false },
@@ -84,6 +85,8 @@ export const Stadion_LOCATIES = {
   
   'De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
   'Seacon Stadion De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
+  'De Kraal': { lat: 51.34929758727152,  lon: 6.183920538272955, stad: 'Venlo', land: 'Nederland', thuis: false },
+
   'Het Kasteel': { lat: 51.92003886731594,  lon: 4.432595014764778, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'Sparta-Stadion Het Kasteel': { lat: 51.92003886731594,  lon: 4.432595014764778, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'Stadion Feijenoord': { lat: 51.8939, lon: 4.5231, stad: 'Rotterdam', land: 'Nederland', thuis: false },
@@ -111,7 +114,14 @@ export const Stadion_LOCATIES = {
   'De Luiten': { lat: 51.54081079343974,  lon: 4.453867439956313, stad: 'Roosendaal', land: 'Nederland', thuis: false },
   'RBC Stadion': { lat: 51.54081079343974,  lon: 4.453867439956313, stad: 'Roosendaal', land: 'Nederland', thuis: false },
   'Vast/Goed-Stadion': { lat: 51.54081079343974,  lon: 4.453867439956313, stad: 'Roosendaal', land: 'Nederland', thuis: false },
-
+  'BKC-terrein': { lat: 52.85658236794307,   lon: 4.815343148189323, stad: 'Anna Paulona', land: 'Nederland', thuis: false },
+  'De Braak': { lat: 51.48623099571926,  lon: 5.6800910609929, stad: 'Helmond', land: 'Nederland', thuis: false }, 
+  'PSCK terrein': { lat: 52.4735841062593,  lon: 4.8498739492877885, stad: 'Zaandam', land: 'Nederland', thuis: false }, 
+  'Sportpark De Vormt': { lat: 52.68062413434584,  lon: 5.617054855876269, stad: 'Urk', land: 'Nederland', thuis: false }, 
+  'Sportpark De Westmaat': { lat: 52.257454583101946,  lon: 5.377291817792782, stad: 'Spakenburg', land: 'Nederland', thuis: false }, 
+  'Sportpark Elzenhagen': { lat: 52.40052602972373,   lon: 4.924657099509012, stad: 'Amsterdam', land: 'Nederland', thuis: false }, 
+  'Sportpark Panhuis': { lat: 52.02882419476781, lon: 5.539026600785077, stad: 'Veenendaal', land: 'Nederland', thuis: false }, 
+  
   // === Europa ===
   'The Emirates': {lat: 51.55567036052208, lon: -0.10837171035102276, stad: 'Londen', land: 'Engeland', thuis: false},
   'Tottenham Hotspur Stadium': {lat: 51.60432598234831, lon: -0.06588777168690732, stad: 'Londen', land: 'Engeland', thuis: false},  
@@ -203,6 +213,7 @@ export const Stadion_LOCATIES = {
   'WeserStadion': { lat: 53.066893427037236,  lon: 8.838347822273233, stad: 'Bremen', land: 'Duitsland', thuis: false },
   'RheinEnergieStadion': { lat: 50.93357581796073,  lon: 6.8759377025869695, stad: 'Keulen', land: 'Duitsland', thuis: false },
   'FriedensStadion, Halberstadt': { lat: 51.87614967866176, lon: 11.05026267804528, stad: 'Halberstad', land: 'Duitsland', thuis: false },
+  'Bremenstadion Ennepetal': { lat: 51.294376088170786,  lon: 7.3468614240458505, stad: 'Ennepetal', land: 'Duitsland', thuis: false },
 
   'Partizan Stadion': { lat: 44.788678412691375, lon: 20.459107440820812, stad: 'Belgrado', land: 'Servië', thuis: false },
   'Lokomotiv Stadion': { lat: 55.803647304953046, lon: 37.74156061528147, stad: 'Moskou', land: 'Rusland', thuis: false },
