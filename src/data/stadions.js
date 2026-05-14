@@ -22,7 +22,7 @@ export const Stadion_LOCATIES = {
   'Johan Cruijff ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
   'Galgenwaard': { lat: 52.0723, lon: 5.1461, stad: 'Utrecht', land: 'Nederland', thuis: false },
   'Abe Lenstra Stadion': { lat: 52.95825638055401, lon: 5.937217879939326, stad: 'Heerenveen', land: 'Nederland', thuis: false },
-  'De Baandert': { lat: 51.005356759679884, lon: 5.879320954356344, stad: 'Heerenveen', land: 'Nederland', thuis: false },
+  'De Baandert': { lat: 51.005356759679884, lon: 5.879320954356344, stad: 'Sittard', land: 'Nederland', thuis: false },
   'TOP Oss-stadion': { lat: 51.75485951199637,  lon: 5.528148387279695, stad: 'Oss', land: 'Nederland', thuis: false },
 
   'De Adelaarshorst': { lat: 52.2553, lon: 6.1875, stad: 'Deventer', land: 'Nederland', thuis: false },
