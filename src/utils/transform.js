@@ -134,9 +134,8 @@ export function formatDatum(iso) {
  */
 export function normaliseerCompetitie(naam) {
   if (!naam) return 'Onbekend';
-  if (/eredivisie/i.test(naam)) return 'Eredivisie';
-  if (/eerste divisie/i.test(naam) || /toto divisie/i.test(naam) || /telecompetitie/i.test(naam))
-    return 'Eerste divisie';
+  if (/eredivisie/i.test(naam) || /telecompetitie/i.test(naam)) return 'Eredivisie';
+  if (/eerste divisie/i.test(naam) || /toto divisie/i.test(naam)) return 'Eerste divisie';
   if (/knvb beker/i.test(naam) || /amstel cup/i.test(naam)) return 'KNVB Beker';
   if (/uefa cup/i.test(naam)) return 'UEFA Cup';
   if (/europa league/i.test(naam)) return 'Europa League';
