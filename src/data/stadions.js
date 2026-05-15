@@ -39,7 +39,7 @@ export const Stadion_LOCATIES = {
   'De Meer': { lat: 52.3554, lon: 4.9361, stad: 'Amsterdam', land: 'Nederland', thuis: false },
   'Cars Jeans Stadion': { lat: 52.0461, lon: 4.2833, stad: 'Den Haag', land: 'Nederland', thuis: false },
   'Kras Stadion': { lat: 52.4378, lon: 4.6597, stad: 'Volendam', land: 'Nederland', thuis: false },
-  'Mandemakers Stadion': { lat: 51.6781, lon: 5.0067, stad: 'Waalwijk', land: 'Nederland', thuis: false },
+  'Mandemakers Stadion': { lat: 51.686707653580605,  lon: 5.089463806593478, stad: 'Waalwijk', land: 'Nederland', thuis: false },
   'Polman Stadion': { lat: 52.2589, lon: 6.7611, stad: 'Heracles Almelo', land: 'Nederland', thuis: false },
   'Euroborg': { lat: 53.20626176066408, lon: 6.5915187241271065, stad: 'Groningen', land: 'Nederland', thuis: false },
   'OosterparkStadion': { lat: 53.229173634467365,  lon: 6.58113359327215, stad: 'Groningen', land: 'Nederland', thuis: false },  
@@ -80,7 +80,6 @@ export const Stadion_LOCATIES = {
   'De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
   'Seacon Stadion De Koel': { lat: 51.3556, lon: 6.1808, stad: 'Venlo', land: 'Nederland', thuis: false },
   'De Kraal': { lat: 51.34929758727152,  lon: 6.183920538272955, stad: 'Venlo', land: 'Nederland', thuis: false },
-  'Sportpark Olympia': { lat: 51.686707653580605,  lon: 5.089463806593478, stad: 'Waalwijk', land: 'Nederland', thuis: false },
 
   'Het Kasteel': { lat: 51.92003886731594,  lon: 4.432595014764778, stad: 'Rotterdam', land: 'Nederland', thuis: false },
   'Amsterdam ArenA': { lat: 52.3142, lon: 4.9418, stad: 'Amsterdam', land: 'Nederland', thuis: false },
