@@ -231,6 +231,17 @@ export default function App() {
         </div>
       </div>
 
+      {/* Info-banner */}
+      <div style={{ maxWidth: 1400, margin: '0 auto', padding: '0.75rem 1.5rem 0', position: 'relative', zIndex: 1 }}>
+        <p style={{ margin: 0, fontSize: '0.85rem', color: '#5a3030', fontStyle: 'italic' }}>
+          Dit is een weergave van bekende programmaboekjes, voor een compleet wedstrijd overzicht ga naar{' '}
+          <a href="https://vanalkmaardevictorie.nl" target="_blank" rel="noopener noreferrer"
+            style={{ color: '#8B0000', textDecoration: 'underline' }}>
+            vanalkmaardevictorie.nl
+          </a>
+        </p>
+      </div>
+
       {/* Resultaat-teller */}
       <div
         style={{
