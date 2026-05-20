@@ -11604,18 +11604,6 @@
     "webp_file": "27-nov-2005 Roda.webp"
   },
   {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "27-nov-2006 Middlesbrough thuis.webp"
-  },
-  {
     "DatePlayed": "2010-11-27 18:45:00.000000",
     "competitie": "Eredivisie",
     "PlayedAt": "AFAS Stadion",
@@ -11776,7 +11764,7 @@
     "competitie": "Eredivisie",
     "PlayedAt": "Alkmaarderhout",
     "season": "1970-1971",
-    "wedstrijd": "AZ - NEC",
+    "wedstrijd": "AZ - NEC!",
     "uitslag": "1-1",
     "thuis-uit": "thuis",
     "MatchProgramme": "1",
