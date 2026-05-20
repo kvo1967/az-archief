@@ -288,18 +288,6 @@
     "webp_file": "1-maa-2008 Roda JC uit.webp"
   },
   {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "1-maa-2016 Graafschap thuis.webp"
-  },
-  {
     "DatePlayed": "1977-05-01 00:00:00.000000",
     "competitie": "Eredivisie",
     "PlayedAt": "Alkmaarderhout",
@@ -1066,18 +1054,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "10-nov-2013 Feyenoord uit.webp"
-  },
-  {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "10-okt-2011 Austria Wien thuis.webp"
   },
   {
     "DatePlayed": "1977-09-10 00:00:00.000000",
@@ -2172,18 +2148,6 @@
     "webp_file": "12-sep-2009 ADO Den Haag uit.webp"
   },
   {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "12346.webp"
-  },
-  {
     "DatePlayed": "1975-04-13 00:00:00.000000",
     "competitie": "Eredivisie",
     "PlayedAt": "De Meer",
@@ -2422,18 +2386,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "13-feb-1982 PSV thuis.webp"
-  },
-  {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "13-feb-1993 Veendam.webp"
   },
   {
     "DatePlayed": "2010-02-13 20:45:00.000000",
@@ -2892,18 +2844,6 @@
     "webp_file": "14-aug-1954-Venlo.webp"
   },
   {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "14-aug-1980 Trofeo villa de Gijon.webp"
-  },
-  {
     "DatePlayed": "1999-08-14 00:00:00.000000",
     "competitie": "KPN Telecompetitie",
     "PlayedAt": "De Baandert",
@@ -2976,15 +2916,15 @@
     "webp_file": "14-dec-1975 NAC uit.webp"
   },
   {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
+    "DatePlayed": "1977-12-14 20:00:00",
+    "competitie": "KNVB Beker",
+    "PlayedAt": "Alkmaarderhout",
+    "season": "1977-1978",
+    "wedstrijd": "AZ - Fortuna Sittard",
+    "uitslag": "2 - 0",
+    "thuis-uit": "thuis",
+    "MatchProgramme": "1",
+    "competitiontype": "Beker",
     "webp_file": "14-dec-1977 Fortuna Beker.webp"
   },
   {
@@ -7596,54 +7536,6 @@
     "webp_file": "20-sep-2008 psv thuis.webp"
   },
   {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "20240911_091214.webp"
-  },
-  {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "20240911_105312.webp"
-  },
-  {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "20240911_105500.webp"
-  },
-  {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "20240911_122900.webp"
-  },
-  {
     "DatePlayed": "1979-04-21 00:00:00.000000",
     "competitie": "Eredivisie",
     "PlayedAt": "Alkmaarderhout",
@@ -8266,30 +8158,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "21-sep-2014 PEC Zwolle thuis.webp"
-  },
-  {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "21-sep1980 Sparta uit - Copy.webp"
-  },
-  {
-    "DatePlayed": "2014-09-21 14:30:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "AFAS Stadion",
-    "season": "2014-2015",
-    "wedstrijd": "AZ - PEC Zwolle",
-    "uitslag": "1-0",
-    "thuis-uit": "thuis",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
-    "webp_file": "21-sept-2014 PEC Zwolle thuis.webp"
   },
   {
     "DatePlayed": "1981-04-22 00:00:00.000000",
@@ -9936,18 +9804,6 @@
     "webp_file": "24-jul-1999 Real Betis.webp"
   },
   {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "24-maa-1973 FC Amsterdam uit.webp"
-  },
-  {
     "DatePlayed": "1978-03-24 00:00:00.000000",
     "competitie": "Eredivisie",
     "PlayedAt": "Alkmaarderhout",
@@ -9982,18 +9838,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "24-maa-2000 FC Den Bosch.webp"
-  },
-  {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "24-mei-1985 Feyenoord uit.webp"
   },
   {
     "DatePlayed": "1987-05-24 00:00:00.000000",
