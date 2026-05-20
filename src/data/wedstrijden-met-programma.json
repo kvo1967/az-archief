@@ -3288,18 +3288,6 @@
     "webp_file": "15-aug-1971 Eindhoven thuis.webp"
   },
   {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "15-aug-1972 Eindhoven thuis.webp"
-  },
-  {
     "DatePlayed": "1980-08-15 00:00:00.000000",
     "competitie": "Vriendschappelijk",
     "PlayedAt": "El Molinón",
@@ -4414,18 +4402,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "16-sep-2012 Roda JC thuis.webp"
-  },
-  {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
-    "webp_file": "16-sep-2013 Go Ahead Eagles thuis.webp"
   },
   {
     "DatePlayed": "1977-04-17 00:00:00.000000",
@@ -7752,15 +7728,15 @@
     "webp_file": "21-dec-2005 NEC beker.webp"
   },
   {
-    "DatePlayed": null,
-    "competitie": null,
-    "PlayedAt": null,
-    "season": null,
-    "wedstrijd": null,
-    "uitslag": null,
-    "thuis-uit": null,
-    "MatchProgramme": null,
-    "competitiontype": null,
+    "DatePlayed": "2021-12-21 00:00:00",
+    "competitie": "KNVB Beker",
+    "PlayedAt": "Arena",
+    "season": "2011-2012",
+    "wedstrijd": "Ajax - AZ",
+    "uitslag": "1 - 0 Gestaakt",
+    "thuis-uit": "uit",
+    "MatchProgramme": "1",
+    "competitiontype": "Beker",
     "webp_file": "21-dec-2011 ajax uit beker.webp"
   },
   {
