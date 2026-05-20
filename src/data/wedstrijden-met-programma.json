@@ -8572,7 +8572,7 @@
     "competitie": "Vriendschappelijk",
     "PlayedAt": "vv Hoogeveen",
     "season": "1975-1976",
-    "wedstrijd": "AZ - Hertha BSC",
+    "wedstrijd": "AZ - Hertha BSC!",
     "uitslag": "1-3",
     "thuis-uit": "thuis",
     "MatchProgramme": "1",
@@ -17206,18 +17206,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Playoffs",
     "webp_file": "7-jun-1969 DOS.webp"
-  },
-  {
-    "DatePlayed": "1965-03-07 00:00:00.000000",
-    "competitie": "Eerste divisie",
-    "PlayedAt": "De Kraal",
-    "season": "1964-1965",
-    "wedstrijd": "VVV-Alkmaar'54",
-    "uitslag": "1-3",
-    "thuis-uit": "uit",
-    "MatchProgramme": "0",
-    "competitiontype": "Competitie",
-    "webp_file": "7-maa-1965 VVV uit.webp"
   },
   {
     "DatePlayed": "1976-03-07 00:00:00.000000",
