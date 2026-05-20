@@ -8676,18 +8676,6 @@
     "webp_file": "22-mei-1961 NAC thuis.webp"
   },
   {
-    "DatePlayed": "1966-05-22 00:00:00.000000",
-    "competitie": "Eerste divisie",
-    "PlayedAt": "Alkmaarderhout",
-    "season": "1965-1966",
-    "wedstrijd": "Alkmaar'54 - NAC",
-    "uitslag": "0-3",
-    "thuis-uit": "thuis",
-    "MatchProgramme": "0",
-    "competitiontype": "Competitie",
-    "webp_file": "22-mei-1966 NAC.webp"
-  },
-  {
     "DatePlayed": "1972-05-22 00:00:00.000000",
     "competitie": "Eerste divisie",
     "PlayedAt": "Alkmaarderhout",
@@ -16667,19 +16655,7 @@
     "competitiontype": "Competitie",
     "webp_file": "6-mei-2012 Groningen thuis.webp"
   },
-  {
-    "DatePlayed": "1960-11-06 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Alkmaarderhout",
-    "season": "1960-1961",
-    "wedstrijd": "Alkmaar'54 - Ajax",
-    "uitslag": "2-0",
-    "thuis-uit": "thuis",
-    "MatchProgramme": "0",
-    "competitiontype": "Competitie",
-    "webp_file": "6-nov-1960 Alkmaar-Ajax 2-0.webp"
-  },
-  {
+   {
     "DatePlayed": "1982-11-06 00:00:00.000000",
     "competitie": "Eredivisie",
     "PlayedAt": "Alkmaarderhout",
