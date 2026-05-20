@@ -120,6 +120,13 @@ export function transformDataset(rawData) {
 }
 
 /**
+ * AZ heette vóór 1 juli 1967 "Alkmaar'54".
+ */
+export function getClubNaam(datum) {
+  return datum < '1967-07-01' ? "Alkmaar'54" : 'AZ';
+}
+
+/**
  * Format datum naar Nederlands (15 mei 2024).
  */
 export function formatDatum(iso) {

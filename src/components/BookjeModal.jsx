@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { X, ChevronLeft, ChevronRight } from 'lucide-react';
-import { formatDatum } from '../utils/transform.js';
+import { formatDatum, getClubNaam } from '../utils/transform.js';
 
 export default function BookjeModal({ wedstrijd, onClose }) {
   const [paginaIndex, setPaginaIndex] = useState(0);
@@ -228,7 +228,7 @@ export default function BookjeModal({ wedstrijd, onClose }) {
               color: '#1a0a0a',
             }}
           >
-            {wedstrijd.thuis ? `AZ — ${wedstrijd.tegenstander}` : `${wedstrijd.tegenstander} — AZ`}
+            {wedstrijd.thuis ? `${getClubNaam(wedstrijd.datum)} — ${wedstrijd.tegenstander}` : `${wedstrijd.tegenstander} — ${getClubNaam(wedstrijd.datum)}`}
           </div>
           <div style={{ fontSize: '0.9rem', color: '#5a3030', fontStyle: 'italic', marginBottom: '1.5rem' }}>
             {formatDatum(wedstrijd.datum)}

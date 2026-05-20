@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import BookjeCover from './BookjeCover.jsx';
-import { formatDatum } from '../utils/transform.js';
+import { formatDatum, getClubNaam } from '../utils/transform.js';
 
 const PAGINA_GROOTTE = 60;
 
@@ -90,7 +90,7 @@ function BookjeCard({ wedstrijd, onClick, index }) {
           marginBottom: '0.15rem',
         }}
       >
-        {wedstrijd.thuis ? `AZ — ${wedstrijd.tegenstander}` : `${wedstrijd.tegenstander} — AZ`}
+        {wedstrijd.thuis ? `${getClubNaam(wedstrijd.datum)} — ${wedstrijd.tegenstander}` : `${wedstrijd.tegenstander} — ${getClubNaam(wedstrijd.datum)}`}
       </div>
       <div
         style={{

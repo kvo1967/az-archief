@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { formatDatum } from '../utils/transform.js';
+import { formatDatum, getClubNaam } from '../utils/transform.js';
 
 const PAGINA_GROOTTE = 100;
 
@@ -104,7 +104,7 @@ function BookjeRow({ wedstrijd, onClick }) {
             whiteSpace: 'nowrap',
           }}
         >
-          {wedstrijd.thuis ? `AZ — ${wedstrijd.tegenstander}` : `${wedstrijd.tegenstander} — AZ`}
+          {wedstrijd.thuis ? `${getClubNaam(wedstrijd.datum)} — ${wedstrijd.tegenstander}` : `${wedstrijd.tegenstander} — ${getClubNaam(wedstrijd.datum)}`}
         </div>
         <div style={{ fontSize: '0.8rem', color: '#5a3030', fontStyle: 'italic' }}>
           {formatDatum(wedstrijd.datum)} · {wedstrijd.competitie}

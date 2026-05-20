@@ -1,5 +1,5 @@
 import { useState, useMemo, useRef, useEffect } from 'react';
-import { formatDatum } from '../utils/transform.js';
+import { formatDatum, getClubNaam } from '../utils/transform.js';
 
 export default function TimelineView({ wedstrijden, onSelect }) {
   const grouped = useMemo(() => {
@@ -329,7 +329,7 @@ function TimelineItem({ wedstrijd, onClick, index }) {
             fontStyle: 'italic',
           }}
         >
-          {wedstrijd.thuis ? `AZ — ${wedstrijd.tegenstander}` : `${wedstrijd.tegenstander} — AZ`}
+          {wedstrijd.thuis ? `${getClubNaam(wedstrijd.datum)} — ${wedstrijd.tegenstander}` : `${wedstrijd.tegenstander} — ${getClubNaam(wedstrijd.datum)}`}
         </div>
         <div style={{ fontSize: '0.8rem', color: '#5a3030', display: 'flex', gap: '0.6rem', flexWrap: 'wrap' }}>
           <span>{wedstrijd.competitie}</span>
