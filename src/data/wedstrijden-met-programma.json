@@ -12660,18 +12660,6 @@
     "webp_file": "29-mei-2003 Excelsior.webp"
   },
   {
-    "DatePlayed": "1975-03-29 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Beatrixstraat",
-    "season": "1974-1975",
-    "wedstrijd": "NAC - AZ",
-    "uitslag": "1-2",
-    "thuis-uit": "uit",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
-    "webp_file": "29-mrt-1975 NAC uit.webp"
-  },
-  {
     "DatePlayed": "1970-11-29 00:00:00.000000",
     "competitie": "Eredivisie",
     "PlayedAt": "De Meer",
@@ -13378,30 +13366,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "3-mei-2014 feyenoord thuis.webp"
-  },
-  {
-    "DatePlayed": "1968-03-03 00:00:00.000000",
-    "competitie": "Eerste divisie",
-    "PlayedAt": "Alkmaarderhout",
-    "season": "1967-1968",
-    "wedstrijd": "AZ - HVC",
-    "uitslag": "0-0",
-    "thuis-uit": "thuis",
-    "MatchProgramme": "0",
-    "competitiontype": "Competitie",
-    "webp_file": "3-mrt-1968 HVC.webp"
-  },
-  {
-    "DatePlayed": "1985-03-03 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Het Kasteel",
-    "season": "1984-1985",
-    "wedstrijd": "Sparta - AZ",
-    "uitslag": "5-2",
-    "thuis-uit": "uit",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
-    "webp_file": "3-mrt-1985 Sparta Uit.webp"
   },
   {
     "DatePlayed": "1974-11-03 00:00:00.000000",
