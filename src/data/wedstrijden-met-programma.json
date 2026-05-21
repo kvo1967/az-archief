@@ -1440,18 +1440,6 @@
     "webp_file": "11-mei-2022 Utrecht uit.webp"
   },
   {
-    "DatePlayed": "2022-05-11 20:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Galgenwaard",
-    "season": "2021-2022",
-    "wedstrijd": "FC Utrecht - AZ",
-    "uitslag": "2-2",
-    "thuis-uit": "uit",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
-    "webp_file": "11-mei-2022 West Ham uit.webp"
-  },
-  {
     "DatePlayed": "2023-05-11 21:00:00.000000",
     "competitie": "Conference League",
     "PlayedAt": "London Stadium",
@@ -1845,18 +1833,6 @@
     "thuis-uit": "thuis",
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
-    "webp_file": "12-maa-1983 feyenoord thuis (2).webp"
-  },
-  {
-    "DatePlayed": "1983-03-12 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Alkmaarderhout",
-    "season": "1982-1983",
-    "wedstrijd": "AZ - Feyenoord",
-    "uitslag": "0-1",
-    "thuis-uit": "thuis",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
     "webp_file": "12-maa-1983 feyenoord thuis.webp"
   },
   {
@@ -1968,18 +1944,6 @@
     "webp_file": "12-mei-2024 GA Eagles uit.webp"
   },
   {
-    "DatePlayed": "1983-03-12 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Alkmaarderhout",
-    "season": "1982-1983",
-    "wedstrijd": "AZ - Feyenoord",
-    "uitslag": "0-1",
-    "thuis-uit": "thuis",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
-    "webp_file": "12-mrt-1983 feyenoord thuis.webp"
-  },
-  {
     "DatePlayed": "1972-11-12 00:00:00.000000",
     "competitie": "Eredivisie",
     "PlayedAt": "Alkmaarderhout",
@@ -2073,18 +2037,6 @@
     "thuis-uit": "uit",
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
-    "webp_file": "12-sep-1976 Utrecht uit - Copy.webp"
-  },
-  {
-    "DatePlayed": "1976-09-12 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Galgenwaard",
-    "season": "1976-1977",
-    "wedstrijd": "FC Utrecht - AZ",
-    "uitslag": "3-2",
-    "thuis-uit": "uit",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
     "webp_file": "12-sep-1976 Utrecht uit.webp"
   },
   {
@@ -2122,18 +2074,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "12-sep-1998 Fortuna Sittard uit.webp"
-  },
-  {
-    "DatePlayed": "1998-09-12 00:00:00.000000",
-    "competitie": "KPN Telecompetitie",
-    "PlayedAt": "De Baandert",
-    "season": "1998-1999",
-    "wedstrijd": "Fortuna Sittard - AZ",
-    "uitslag": "2-2",
-    "thuis-uit": "uit",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
-    "webp_file": "12-sep-1998 Fortuna uit.webp"
   },
   {
     "DatePlayed": "2009-09-12 20:45:00.000000",
@@ -2530,18 +2470,6 @@
     "MatchProgramme": "0",
     "competitiontype": "Competitie",
     "webp_file": "13-mei-1973 Telstar thuis.webp"
-  },
-  {
-    "DatePlayed": "1989-05-13 00:00:00.000000",
-    "competitie": "Eerste divisie",
-    "PlayedAt": "CambuurStadion",
-    "season": "1988-1989",
-    "wedstrijd": "Cambuur - AZ",
-    "uitslag": "1-3",
-    "thuis-uit": "uit",
-    "MatchProgramme": "0",
-    "competitiontype": "Competitie",
-    "webp_file": "13-mei-1989 Cambuur uit II.webp"
   },
   {
     "DatePlayed": "1989-05-13 00:00:00.000000",
@@ -3609,18 +3537,6 @@
     "thuis-uit": "uit",
     "MatchProgramme": "0",
     "competitiontype": "Competitie",
-    "webp_file": "15-maa-1987 Excelsior uit II.webp"
-  },
-  {
-    "DatePlayed": "1987-03-15 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Woudestein",
-    "season": "1986-1987",
-    "wedstrijd": "Excelsior - AZ",
-    "uitslag": "2-3",
-    "thuis-uit": "uit",
-    "MatchProgramme": "0",
-    "competitiontype": "Competitie",
     "webp_file": "15-maa-1987 Excelsior uit.webp"
   },
   {
@@ -4462,18 +4378,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Vriendschappelijk",
     "webp_file": "17-aug-1958 De Volewijckers friendly 3-1.webp"
-  },
-  {
-    "DatePlayed": "1969-08-17 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Alkmaarderhout",
-    "season": "1969-1970",
-    "wedstrijd": "AZ - MVV",
-    "uitslag": "0-0",
-    "thuis-uit": "thuis",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
-    "webp_file": "17-aug-1969 AZ-MVV.webp"
   },
   {
     "DatePlayed": "1969-08-17 00:00:00.000000",
@@ -6048,18 +5952,6 @@
     "webp_file": "19-maa-2006 Feyenoord.webp"
   },
   {
-    "DatePlayed": "1983-03-19 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "De Braak",
-    "season": "1982-1983",
-    "wedstrijd": "Helmond Sport - AZ",
-    "uitslag": "1-0",
-    "thuis-uit": "uit",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
-    "webp_file": "19-mrt-1983 helmond sport uit.webp"
-  },
-  {
     "DatePlayed": "1994-11-19 00:00:00.000000",
     "competitie": "Eerste divisie",
     "PlayedAt": "Alkmaarderhout",
@@ -7006,18 +6898,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Beker",
     "webp_file": "20-feb-1982 PEC Zwolle thuis Beker.webp"
-  },
-  {
-    "DatePlayed": "1982-02-20 00:00:00.000000",
-    "competitie": "KNVB Beker",
-    "PlayedAt": "Alkmaarderhout",
-    "season": "1981-1982",
-    "wedstrijd": "AZ - PEC Zwolle",
-    "uitslag": "6-1",
-    "thuis-uit": "thuis",
-    "MatchProgramme": "1",
-    "competitiontype": "Beker",
-    "webp_file": "20-feb-1982 PEC Zwolle thuis.webp"
   },
   {
     "DatePlayed": "1988-02-20 00:00:00.000000",
@@ -8338,18 +8218,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Europees",
     "webp_file": "22-feb-2007 Fenerbahce thuis.webp"
-  },
-  {
-    "DatePlayed": "1977-01-22 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Beatrixstraat",
-    "season": "1976-1977",
-    "wedstrijd": "NAC - AZ",
-    "uitslag": "0-0",
-    "thuis-uit": "uit",
-    "MatchProgramme": "0",
-    "competitiontype": "Competitie",
-    "webp_file": "22-jan-1977 NAC uit - Copy.webp"
   },
   {
     "DatePlayed": "1977-01-22 00:00:00.000000",
@@ -10930,19 +10798,7 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "26-mei-1979 Sparta.webp"
-  },
-  {
-    "DatePlayed": "1983-03-26 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Alkmaarderhout",
-    "season": "1982-1983",
-    "wedstrijd": "AZ - Fortuna Sittard",
-    "uitslag": "0-0",
-    "thuis-uit": "thuis",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
-    "webp_file": "26-mrt-1983 fortuna thuis.webp"
-  },
+  }, 
   {
     "DatePlayed": "1972-11-26 00:00:00.000000",
     "competitie": "Eredivisie",
@@ -11764,18 +11620,6 @@
     "competitie": "Eredivisie",
     "PlayedAt": "Alkmaarderhout",
     "season": "1970-1971",
-    "wedstrijd": "AZ - NEC!",
-    "uitslag": "1-1",
-    "thuis-uit": "thuis",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
-    "webp_file": "27-sep-1970 NEC thuis .webp"
-  },
-  {
-    "DatePlayed": "1970-09-27 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Alkmaarderhout",
-    "season": "1970-1971",
     "wedstrijd": "AZ - NEC",
     "uitslag": "1-1",
     "thuis-uit": "thuis",
@@ -11998,18 +11842,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "28-aug-1982 PEC Zwolle uit.webp"
-  },
-  {
-    "DatePlayed": "1982-08-28 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "OosterenkStadion",
-    "season": "1982-1983",
-    "wedstrijd": "PEC Zwolle - AZ",
-    "uitslag": "0-2",
-    "thuis-uit": "uit",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
-    "webp_file": "28-aug-1982 Pec-Zwolle uit.webp"
   },
   {
     "DatePlayed": "1983-08-28 00:00:00.000000",
@@ -12778,18 +12610,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Vriendschappelijk",
     "webp_file": "29-jun-1988 Magdeburg uit intertoto.webp"
-  },
-  {
-    "DatePlayed": "1975-03-29 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Beatrixstraat",
-    "season": "1974-1975",
-    "wedstrijd": "NAC - AZ",
-    "uitslag": "1-2",
-    "thuis-uit": "uit",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
-    "webp_file": "29-maa-1975 NAC uit (2).webp"
   },
   {
     "DatePlayed": "1975-03-29 00:00:00.000000",
@@ -16125,18 +15945,6 @@
     "thuis-uit": "uit",
     "MatchProgramme": "0",
     "competitiontype": "Competitie",
-    "webp_file": "6-dec-1981 Den Haag uit.webp"
-  },
-  {
-    "DatePlayed": "1981-12-06 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Zuiderpark",
-    "season": "1981-1982",
-    "wedstrijd": "FC Den Haag - AZ",
-    "uitslag": "1-4",
-    "thuis-uit": "uit",
-    "MatchProgramme": "0",
-    "competitiontype": "Competitie",
     "webp_file": "6-dec-1981 FC Den Haag uit.webp"
   },
   {
@@ -16570,18 +16378,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "6-okt-1990 Helmond Sport.webp"
-  },
-  {
-    "DatePlayed": "2002-10-06 14:30:00.000000",
-    "competitie": "Holland Casino Eredivisie",
-    "PlayedAt": "Alkmaarderhout",
-    "season": "2002-2003",
-    "wedstrijd": "AZ - Vitesse",
-    "uitslag": "1-3",
-    "thuis-uit": "thuis",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
-    "webp_file": "6-okt-2002 Vitesse thuis.webp"
   },
   {
     "DatePlayed": "2002-10-06 14:30:00.000000",
@@ -17062,18 +16858,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "7-nov-1976 De Graafschap thuis.webp"
-  },
-  {
-    "DatePlayed": "1981-11-07 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "OosterenkStadion",
-    "season": "1981-1982",
-    "wedstrijd": "PEC Zwolle - AZ",
-    "uitslag": "0-0",
-    "thuis-uit": "uit",
-    "MatchProgramme": "1",
-    "competitiontype": "Competitie",
-    "webp_file": "7-nov-1981 PEC Zwolle uit.webp"
   },
   {
     "DatePlayed": "1981-11-07 00:00:00.000000",
@@ -17770,18 +17554,6 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "8-sep-1984 Sparta thuis.webp"
-  },
-  {
-    "DatePlayed": "1985-09-08 00:00:00.000000",
-    "competitie": "Eredivisie",
-    "PlayedAt": "Woudestein",
-    "season": "1985-1986",
-    "wedstrijd": "Excelsior - AZ",
-    "uitslag": "1-0",
-    "thuis-uit": "uit",
-    "MatchProgramme": "0",
-    "competitiontype": "Competitie",
-    "webp_file": "8-sep-1985 Excelsior uit II.webp"
   },
   {
     "DatePlayed": "1985-09-08 00:00:00.000000",
