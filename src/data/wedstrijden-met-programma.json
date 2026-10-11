@@ -18454,5 +18454,89 @@
     "MatchProgramme": 1,
     "competitiontype": "Competitie",
     "webp_file": "9-nov-1991 RBC.webp"
+  },
+  {
+    "DatePlayed": "2026-09-16 21:00:00.000000",
+    "competitie": "Europa League",
+    "PlayedAt": "Stadium of Light",
+    "season": "2026-2027",
+    "wedstrijd": "Sunderland - AZ",
+    "uitslag": "1-0",
+    "thuis-uit": "uit",
+    "MatchProgramme": "1",
+    "competitiontype": "Europees",
+    "webp_file": "16-sep-2026 Sunderland away.jpg"
+  },
+  {
+    "DatePlayed": "2026-03-22 16:45:00.000000",
+    "competitie": "Vriendenloterij Eredivisie",
+    "PlayedAt": "Euroborg",
+    "season": "2025-2026",
+    "wedstrijd": "FC Groningen - AZ",
+    "uitslag": "3-0",
+    "thuis-uit": "uit",
+    "MatchProgramme": "1",
+    "competitiontype": "Competitie",
+    "webp_file": "22-maa-2026 Groningen uit.jpg"
+  },
+  {
+    "DatePlayed": "2026-04-23 18:45:00.000000",
+    "competitie": "Vriendenloterij Eredivisie",
+    "PlayedAt": "De Adelaarshorst",
+    "season": "2025-2026",
+    "wedstrijd": "Go Ahead Eagles - AZ",
+    "uitslag": "0-0",
+    "thuis-uit": "uit",
+    "MatchProgramme": "1",
+    "competitiontype": "Competitie",
+    "webp_file": "23-april-2026 GA-Eagles uit.jpg"
+  },
+  {
+    "DatePlayed": "2026-08-15 18:45:00.000000",
+    "competitie": "Vriendenloterij Eredivisie",
+    "PlayedAt": "Galgenwaard",
+    "season": "2026-2027",
+    "wedstrijd": "FC Utrecht - AZ",
+    "uitslag": "1-4",
+    "thuis-uit": "uit",
+    "MatchProgramme": "1",
+    "competitiontype": "Competitie",
+    "webp_file": "15-aug-2026 Utrecht uit.jpg"
+  },
+  {
+    "DatePlayed": "2026-08-22 16:30:00.000000",
+    "competitie": "Vriendenloterij Eredivisie",
+    "PlayedAt": "Fortuna Sittard Stadion",
+    "season": "2026-2027",
+    "wedstrijd": "Fortuna Sittard - AZ",
+    "uitslag": "0-2",
+    "thuis-uit": "uit",
+    "MatchProgramme": "1",
+    "competitiontype": "Competitie",
+    "webp_file": "22-aug-2026 Fortuna uit.jpg"
+  },
+  {
+    "DatePlayed": "2026-09-06 14:30:00.000000",
+    "competitie": "Vriendenloterij Eredivisie",
+    "PlayedAt": "Abe Lenstra Stadion",
+    "season": "2026-2027",
+    "wedstrijd": "Heerenveen - AZ",
+    "uitslag": "2-3",
+    "thuis-uit": "uit",
+    "MatchProgramme": "1",
+    "competitiontype": "Competitie",
+    "webp_file": "6-sep-2026 Heerenveen uit.jpg"
+  },
+  {
+    "DatePlayed": "2026-10-10 18:45:00.000000",
+    "competitie": "Vriendenloterij Eredivisie",
+    "PlayedAt": "De Kuip",
+    "season": "2026-2027",
+    "wedstrijd": "Feyenoord - AZ",
+    "uitslag": "2-0",
+    "thuis-uit": "uit",
+    "MatchProgramme": "1",
+    "competitiontype": "Competitie",
+    "webp_file": "10-okt-2026 Feyenoord uit.jpg"
   }
 ]

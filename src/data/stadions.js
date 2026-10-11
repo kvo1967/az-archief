@@ -114,6 +114,7 @@ export const Stadion_LOCATIES = {
   'The Hawthorns': { lat: 52.5093, lon: -1.9639, stad: 'West Bromwich', land: 'Engeland', thuis: false },
   'Anfield road': { lat: 53.43106627943104, lon: -2.960836876709955, stad: 'Liverpool', land: 'Engeland', thuis: false },  
   'Selhurst Park': { lat: 51.39807467865462, lon: -0.08604687354346198, stad: 'Londen', land: 'Engeland', thuis: false },  
+  'Stadium of Light': { lat: 54.9146, lon: -1.3884, stad: 'Sunderland', land: 'Engeland', thuis: false },
   'Villa Park': { lat: 52.509216151100716, lon: -1.884460937269438, stad: 'Birmingham', land: 'Engeland', thuis: false },  
   'Old Trafford': { lat: 53.46314829464568, lon: -2.2910718814054993, stad: 'Glasgow', land: 'Schotland', thuis: false },  
   'Celtic Park': { lat: 55.849810837779955, lon: -4.205258365958649, stad: 'Glasgow', land: 'Schotland', thuis: false },  
