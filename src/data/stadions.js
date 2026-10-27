@@ -44,6 +44,7 @@ export const Stadion_LOCATIES = {
   'Euroborg': { lat: 53.20626176066408, lon: 6.5915187241271065, stad: 'Groningen', land: 'Nederland', thuis: false },
   'OosterparkStadion': { lat: 53.229173634467365,  lon: 6.58113359327215, stad: 'Groningen', land: 'Nederland', thuis: false },  
   'CambuurStadion': { lat: 53.205590790625074,   lon: 5.814371924189114, stad: 'Leeuwarden', land: 'Nederland', thuis: false },  
+  'Kooi Stadion': { lat: 53.20083028874381,   lon: 5.768113226592105, stad: 'Leeuwarden', land: 'Nederland', thuis: false },  
   'Oosterenk-Stadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
   'OosterenkStadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
   'MAC³PARK Stadion': { lat: 52.51729626064128,  lon: 6.121271406908001, stad: 'Zwolle', land: 'Nederland', thuis: false },  
@@ -97,6 +98,7 @@ export const Stadion_LOCATIES = {
   'RBC Stadion': { lat: 51.54081079343974,  lon: 4.453867439956313, stad: 'Roosendaal', land: 'Nederland', thuis: false },
   'Vast/Goed-Stadion': { lat: 51.54081079343974,  lon: 4.453867439956313, stad: 'Roosendaal', land: 'Nederland', thuis: false },
   'BKC-terrein': { lat: 52.85658236794307,   lon: 4.815343148189323, stad: 'Anna Paulona', land: 'Nederland', thuis: false },
+  'Sportpark Kleine Sluis': { lat: 52.85658236794307,   lon: 4.815343148189323, stad: 'Anna Paulona', land: 'Nederland', thuis: false },
   'De Braak': { lat: 51.48623099571926,  lon: 5.6800910609929, stad: 'Helmond', land: 'Nederland', thuis: false }, 
   'PSCK terrein': { lat: 52.4735841062593,  lon: 4.8498739492877885, stad: 'Zaandam', land: 'Nederland', thuis: false }, 
   'Sportpark De Vormt': { lat: 52.68062413434584,  lon: 5.617054855876269, stad: 'Urk', land: 'Nederland', thuis: false }, 
@@ -104,7 +106,8 @@ export const Stadion_LOCATIES = {
   'Sportpark Elzenhagen': { lat: 52.40052602972373,   lon: 4.924657099509012, stad: 'Amsterdam', land: 'Nederland', thuis: false }, 
   'Sportpark Panhuis': { lat: 52.02882419476781, lon: 5.539026600785077, stad: 'Veenendaal', land: 'Nederland', thuis: false }, 
   'vv Hoogeveen': { lat: 52.72322294358215,  lon: 6.496370764587624, stad: 'Hoogeveen', land: 'Nederland', thuis: false }, 
-  
+  'De Bijlen': { lat: 52.13323304254556,  lon: 4.676236295245801, stad: 'Alphen a/d Rijn', land: 'Nederland', thuis: false }, 
+
   // === Europa ===
   'The Emirates': {lat: 51.55567036052208, lon: -0.10837171035102276, stad: 'Londen', land: 'Engeland', thuis: false},
   'Tottenham Hotspur Stadium': {lat: 51.60432598234831, lon: -0.06588777168690732, stad: 'Londen', land: 'Engeland', thuis: false},  
@@ -204,7 +207,7 @@ export const Stadion_LOCATIES = {
   'Color LineStadion': { lat: 62.47018822294344, lon:  6.18791355708424, stad: 'Alesund', land: 'Noorwegen', thuis: false },
 
   'SheriffStadion': { lat: 46.83839388408002,  lon: 29.55826822049119, stad: 'Tiraspol', land: 'Moldavië', thuis: false },
-
+  'Vazgen Sargsyan Republican Stadium': { lat: 40.17208512482438, lon: 44.527525860562434, stad: 'Jerevan', land: 'Armenië', thuis: false }
 };
 
 /**

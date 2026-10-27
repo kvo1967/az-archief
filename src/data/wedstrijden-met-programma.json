@@ -2735,7 +2735,7 @@
     "competitiontype": "Playoffs",
     "webp_file": "13-mei-2007 Twente thuis playoffs.webp"
   },
-   {
+  {
     "DatePlayed": "1982-11-13 00:00:00.000000",
     "competitie": "KNVB Beker",
     "PlayedAt": "Alkmaarderhout",
@@ -11026,7 +11026,7 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "26-mei-1979 Sparta.webp"
-  }, 
+  },
   {
     "DatePlayed": "1972-11-26 00:00:00.000000",
     "competitie": "Eredivisie",
@@ -14582,7 +14582,7 @@
   {
     "DatePlayed": "2011-07-31 00:00:00.000000",
     "competitie": "Vriendschappelijk",
-    "PlayedAt": "BKC-terrein",
+    "PlayedAt": "Sportpark Kleine Sluis",
     "season": "2011-2012",
     "wedstrijd": "AZ - Ergotelis",
     "uitslag": "3-0",
@@ -16463,7 +16463,7 @@
     "competitiontype": "Competitie",
     "webp_file": "6-mei-2012 Groningen thuis.webp"
   },
-   {
+  {
     "DatePlayed": "1982-11-06 00:00:00.000000",
     "competitie": "Eredivisie",
     "PlayedAt": "Alkmaarderhout",
@@ -18538,5 +18538,53 @@
     "MatchProgramme": "1",
     "competitiontype": "Competitie",
     "webp_file": "10-okt-2026 Feyenoord uit.jpg"
+  },
+  {
+    "DatePlayed": "2003-08-12 00:00:00.000000",
+    "competitie": "Vriendschappelijk",
+    "PlayedAt": "De Bijlen",
+    "season": "2003-2004",
+    "wedstrijd": "Alphense Boys - AZ",
+    "uitslag": "1-11",
+    "thuis-uit": "uit",
+    "MatchProgramme": "1",
+    "competitiontype": "Vriendschappelijk",
+    "webp_file": "12-aug-2003 Alphense Boys uit.jpg"
+  },
+  {
+    "DatePlayed": "2003-08-08 00:00:00.000000",
+    "competitie": "Vriendschappelijk",
+    "PlayedAt": "Sportpark Kleine Sluis",
+    "season": "2003-2004",
+    "wedstrijd": "AZ - Athletic Bilbao",
+    "uitslag": "2-1",
+    "thuis-uit": "thuis",
+    "MatchProgramme": "1",
+    "competitiontype": "Vriendschappelijk",
+    "webp_file": "8-aug-2003 Athletic de Bilbao.jpg"
+  },
+  {
+    "DatePlayed": "2026-10-18 14:30:00.000000",
+    "competitie": "Vriendenloterij Eredivisie",
+    "PlayedAt": "Kooi Stadion",
+    "season": "2026-2027",
+    "wedstrijd": "Cambuur - AZ",
+    "uitslag": "2-2",
+    "thuis-uit": "uit",
+    "MatchProgramme": "0",
+    "competitiontype": "Competitie",
+    "webp_file": "18-okt-2026 Cambuur uit.png"
+  },
+  {
+    "DatePlayed": "2026-10-22 18:45:00.000000",
+    "competitie": "Europa League",
+    "PlayedAt": "Vazgen Sargsyan Republican Stadium",
+    "season": "2026-2027",
+    "wedstrijd": "Ararat-Armenia - AZ",
+    "uitslag": "0-4",
+    "thuis-uit": "uit",
+    "MatchProgramme": "0",
+    "competitiontype": "Europees",
+    "webp_file": "22-okt-2026 Ararat away.webp"
   }
 ]
