@@ -191,6 +191,10 @@ upload-workflow vormen:
 
 ### Workflow: nieuwe boekjes toevoegen
 
+0a. **Voer query uit in mysql workbench to get the missing match-data**
+0b. **Laat claude de data tovoegen aan wedstrijden-met-programma.json**
+0c. **Voeg eventueel staion data toe aan stadion.json**
+
 1. **Plaats scans in `public/boekjes/`** met dezelfde bestandsnaam als in
    `src/data/wedstrijden.json` (veld `ProgrammaBestanden`).
 
